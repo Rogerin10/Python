@@ -1,0 +1,15 @@
+def d_a_b(decimal):
+    if decimal == 0:
+        return '0'
+    
+    binario = ''
+    while decimal > 0:
+            residuo = decimal % 2
+            binario = str(residuo) + binario
+            decimal = decimal // 2
+
+    return binario
+
+input_number = int(input('Introduce el numero'))
+resutl_binar = d_a_b(input_number)
+print(f'el numero es{input_number}')
