@@ -1,0 +1,16 @@
+edad,peso,altura,diagnostico
+50,70.0,1.7,Diabetes
+37,80.0,1.8,Diabetes
+61,,1.65,Hipertensión
+60,90.0,,Diabetes
+25,60.0,1.6,Diabetes
+24,75.0,1.75,Diabetes
+66,,1.85,Sano
+62,85.0,,Hipertensión
+20,95.0,1.9,Diabetes
+68,68.0,1.68,Diabetes
+39,72.0,1.72,Sano
+65,,1.74,Diabetes
+59,88.0,,Sano
+21,65.0,1.66,Hipertensión
+36,78.0,1.77,Sano
