@@ -1,0 +1,1501 @@
+id_evento,region,comuna,edad_promedio_asistentes,tipo_evento,n_asistentes,litros_bebida_alcoholica,litros_bebida_no_alcoholica,kg_carne,kg_empanadas,kg_anticuchos,accidentes_transito,heridos,fallecidos,detenidos,duracion_evento_horas,costo_promedio_por_asistente,condiciones_climaticas
+1,Coquimbo,Comuna_23,35,Ramada,1032,84,652,981,692,701,1,0,0,43,35,8023,Lluvioso
+2,Antofagasta,Comuna_7,38,Evento Municipal,3305,1547,1104,2614,923,202,0,1,0,0,3,25432,Nublado
+3,Metropolitana,Comuna_3,31,Ramada,2066,1917,1341,2930,396,24,1,4,0,43,28,23434,Soleado
+4,Metropolitana,Comuna_2,63,Ramada,1686,996,1314,1486,387,1400,2,1,0,39,46,46341,Soleado
+5,Coquimbo,Comuna_40,35,Ramada,2619,107,32,2968,635,315,3,1,0,32,35,26849,Nublado
+6,Biobío,Comuna_35,59,Evento Municipal,2665,1366,24,856,348,1130,1,2,0,24,36,42913,Nublado
+7,Metropolitana,Comuna_24,36,Ramada,1470,1686,1083,618,1325,540,0,1,0,20,27,5671,Nublado
+8,Los Lagos,Comuna_25,33,Evento Municipal,3180,276,1293,148,1911,399,3,0,0,31,5,28028,Lluvioso
+9,Valparaíso,Comuna_20,64,Evento Municipal,618,679,1010,2708,1989,164,2,1,0,5,16,48293,Soleado
+10,Valparaíso,Comuna_32,20,Fonda,147,1598,1003,1611,1003,341,1,1,0,9,14,34244,Soleado
+11,Araucanía,Comuna_35,21,Ramada,1139,1165,575,2149,1775,898,0,1,0,17,47,22237,Nublado
+12,Metropolitana,Comuna_28,41,Ramada,781,661,990,2506,445,428,1,0,0,44,47,41987,Nublado
+13,Coquimbo,Comuna_22,60,Evento Municipal,2088,1856,54,966,1431,887,2,1,0,3,2,33460,Soleado
+14,Antofagasta,Comuna_23,27,Fiesta Privada,4774,1965,749,1200,1189,995,1,0,0,37,44,7336,Soleado
+15,Coquimbo,Comuna_9,57,Peña,1222,94,313,838,1225,1068,0,0,0,28,15,23610,Lluvioso
+16,Los Lagos,Comuna_1,49,Ramada,1990,1627,1044,2223,227,1174,2,0,0,13,30,35559,Nublado
+17,Valparaíso,Comuna_18,56,Ramada,358,417,1197,1224,1671,467,2,0,0,45,17,2517,Lluvioso
+18,Los Lagos,Comuna_40,45,Peña,4621,789,371,1029,1865,330,0,2,0,32,12,9137,Soleado
+19,O'Higgins,Comuna_32,44,Peña,1309,1487,136,2002,794,1279,1,1,0,3,32,20664,Soleado
+20,Araucanía,Comuna_50,46,Fonda,2908,85,306,749,589,572,1,0,0,40,12,35485,Nublado
+21,Biobío,Comuna_43,62,Fonda,2019,597,253,475,765,551,2,0,0,30,41,28074,Nublado
+22,Metropolitana,Comuna_18,37,Fonda,966,490,206,1961,899,1421,2,0,0,16,26,21035,Nublado
+23,Metropolitana,Comuna_14,62,Fonda,2708,659,1300,1429,971,1104,2,0,0,26,43,22419,Nublado
+24,Metropolitana,Comuna_16,62,Evento Municipal,3228,662,94,567,1307,230,3,1,0,30,16,29644,Nublado
+25,Biobío,Comuna_50,40,Ramada,3262,833,1054,1142,1439,943,2,2,1,41,34,15621,Soleado
+26,Coquimbo,Comuna_31,37,Fiesta Privada,3189,20,249,266,539,1217,5,1,0,46,28,27013,Lluvioso
+27,Antofagasta,Comuna_11,21,Fonda,3962,979,32,2851,1522,252,1,3,0,28,31,7156,Nublado
+28,Los Lagos,Comuna_24,50,Fonda,2755,619,1045,1531,382,953,0,5,0,7,28,21681,Lluvioso
+29,Metropolitana,Comuna_10,49,Fiesta Privada,269,1907,64,330,278,496,1,0,0,35,39,43292,Lluvioso
+30,Metropolitana,Comuna_31,48,Evento Municipal,4546,469,1366,2961,1605,206,3,1,0,31,22,35918,Nublado
+31,Metropolitana,Comuna_47,38,Fiesta Privada,3281,663,664,2118,777,11,4,2,0,11,19,36796,Soleado
+32,O'Higgins,Comuna_13,40,Fiesta Privada,3647,1216,1252,2926,1977,1203,4,1,0,11,3,39240,Lluvioso
+33,O'Higgins,Comuna_18,24,Ramada,801,1823,421,1374,131,598,2,0,0,19,24,21429,Soleado
+34,Metropolitana,Comuna_4,51,Fiesta Privada,4899,1280,307,1253,617,482,1,1,0,23,4,25804,Lluvioso
+35,Coquimbo,Comuna_7,34,Peña,2074,1184,422,1887,1807,978,1,2,0,29,47,31581,Soleado
+36,Valparaíso,Comuna_4,55,Peña,855,155,51,1225,1071,394,1,0,0,18,47,44928,Lluvioso
+37,Los Lagos,Comuna_29,53,Evento Municipal,4524,1350,722,559,1963,64,0,2,0,47,43,3684,Lluvioso
+38,Biobío,Comuna_44,34,Peña,2318,1218,157,716,100,502,1,1,0,29,26,8861,Lluvioso
+39,Araucanía,Comuna_7,60,Ramada,3777,1129,1462,1037,121,104,2,1,0,17,21,14133,Lluvioso
+40,O'Higgins,Comuna_35,45,Peña,4005,612,1165,2750,433,633,3,0,0,25,10,26127,Lluvioso
+41,Valparaíso,Comuna_22,62,Peña,4735,70,837,632,1306,327,6,0,0,17,4,42858,Nublado
+42,Araucanía,Comuna_17,59,Fiesta Privada,3467,264,877,2330,1697,361,7,2,0,29,14,23929,Nublado
+43,Metropolitana,Comuna_7,30,Peña,4559,1322,1432,104,215,308,3,1,0,40,24,47666,Lluvioso
+44,Los Lagos,Comuna_10,55,Fonda,2956,1891,1425,496,1826,884,3,1,1,43,23,40939,Nublado
+45,O'Higgins,Comuna_36,46,Ramada,2319,94,233,1253,159,136,0,0,0,18,37,35971,Lluvioso
+46,Coquimbo,Comuna_25,35,Ramada,1308,1673,508,48,137,1252,2,0,0,36,17,18677,Nublado
+47,Valparaíso,Comuna_50,58,Fonda,3770,53,280,100,1832,525,0,2,0,1,24,4531,Soleado
+48,Los Lagos,Comuna_43,51,Ramada,883,466,493,774,1711,1147,1,1,0,4,23,16016,Lluvioso
+49,Antofagasta,Comuna_6,40,Fiesta Privada,356,310,975,2704,594,1240,0,0,1,31,10,12524,Nublado
+50,Los Lagos,Comuna_3,28,Fiesta Privada,4195,825,851,372,1142,67,1,2,0,43,33,37903,Lluvioso
+51,Valparaíso,Comuna_16,19,Fiesta Privada,3830,1577,156,2996,246,453,1,0,1,28,9,49824,Soleado
+52,Valparaíso,Comuna_32,37,Fonda,2595,1800,1198,1762,1227,211,6,3,0,4,4,6219,Nublado
+53,Coquimbo,Comuna_7,61,Fiesta Privada,3083,218,677,2533,798,1438,1,1,1,3,9,35635,Soleado
+54,Biobío,Comuna_2,41,Fiesta Privada,3529,886,1047,2057,1697,1329,2,0,0,25,14,14225,Nublado
+55,Biobío,Comuna_11,41,Fiesta Privada,4676,741,42,1825,429,378,4,2,0,32,6,30329,Nublado
+56,Coquimbo,Comuna_36,53,Ramada,2045,1290,1030,921,1644,1338,3,2,0,13,30,48099,Lluvioso
+57,O'Higgins,Comuna_19,53,Evento Municipal,4988,366,298,2053,1491,92,1,1,0,10,36,38961,Soleado
+58,Antofagasta,Comuna_31,45,Fiesta Privada,2883,865,1183,694,882,85,5,0,0,9,15,5932,Lluvioso
+59,Coquimbo,Comuna_6,23,Evento Municipal,1877,514,461,2476,793,735,1,0,0,39,7,24650,Soleado
+60,O'Higgins,Comuna_1,33,Evento Municipal,3085,189,250,1492,683,1276,0,0,0,5,3,42543,Soleado
+61,O'Higgins,Comuna_30,28,Peña,4232,1766,1093,2551,1674,1489,4,0,0,4,32,45308,Soleado
+62,Araucanía,Comuna_48,60,Ramada,3197,964,876,1330,1367,560,4,1,0,4,15,5411,Nublado
+63,Biobío,Comuna_30,36,Fonda,663,157,1421,1003,952,637,3,1,0,41,31,15791,Soleado
+64,Metropolitana,Comuna_20,60,Fonda,3010,1723,76,1780,840,809,1,1,0,2,33,49953,Soleado
+65,Los Lagos,Comuna_50,57,Evento Municipal,3998,145,899,142,417,62,2,2,0,35,29,40730,Nublado
+66,Araucanía,Comuna_33,62,Peña,4716,200,642,891,354,961,2,3,0,21,3,21532,Lluvioso
+67,Biobío,Comuna_5,48,Evento Municipal,1035,1389,853,1641,1360,1135,3,0,0,3,15,26306,Soleado
+68,Coquimbo,Comuna_44,46,Fiesta Privada,1493,1711,1237,1404,1783,734,2,0,1,42,13,45913,Lluvioso
+69,Valparaíso,Comuna_46,55,Fiesta Privada,2751,1686,879,1006,1952,908,2,2,0,24,23,20783,Soleado
+70,Araucanía,Comuna_29,23,Evento Municipal,4895,582,488,1898,428,286,2,3,1,6,36,31477,Nublado
+71,Biobío,Comuna_17,56,Evento Municipal,4068,714,1022,594,1696,918,5,2,0,45,5,48985,Nublado
+72,Metropolitana,Comuna_11,24,Fiesta Privada,4774,190,382,1678,422,63,0,1,0,38,42,13413,Lluvioso
+73,Coquimbo,Comuna_31,42,Evento Municipal,4173,1037,560,2115,1343,965,2,2,0,6,22,38901,Lluvioso
+74,Los Lagos,Comuna_41,19,Peña,560,1772,519,2431,1403,676,1,1,0,3,3,17818,Nublado
+75,Antofagasta,Comuna_30,35,Evento Municipal,2045,797,1032,2607,977,760,2,0,0,21,35,42056,Lluvioso
+76,Metropolitana,Comuna_7,60,Fonda,1555,792,287,796,339,74,0,1,0,23,47,42711,Nublado
+77,Coquimbo,Comuna_21,19,Fiesta Privada,4139,580,583,91,1087,654,1,1,0,34,34,40052,Soleado
+78,Los Lagos,Comuna_1,21,Fonda,2470,80,1161,1369,1667,109,5,1,0,20,14,8298,Soleado
+79,Los Lagos,Comuna_34,38,Evento Municipal,268,741,953,407,1646,1163,1,2,0,5,33,26550,Lluvioso
+80,O'Higgins,Comuna_6,18,Evento Municipal,362,1008,387,2245,402,942,1,1,0,16,13,7335,Lluvioso
+81,Antofagasta,Comuna_21,20,Ramada,2316,1084,994,411,1322,639,2,0,0,29,15,14337,Nublado
+82,Antofagasta,Comuna_20,38,Ramada,3362,1290,480,2653,923,39,1,0,0,16,31,17505,Nublado
+83,Coquimbo,Comuna_12,37,Ramada,386,1398,737,507,169,578,3,2,0,31,14,12108,Soleado
+84,Metropolitana,Comuna_28,44,Fonda,4653,1893,944,1117,578,702,0,1,0,10,46,21683,Lluvioso
+85,Coquimbo,Comuna_13,35,Ramada,4123,1277,781,479,35,577,3,0,0,3,40,24251,Lluvioso
+86,Biobío,Comuna_26,60,Ramada,3777,816,1470,1911,1499,678,2,1,0,42,10,33171,Nublado
+87,O'Higgins,Comuna_49,18,Fiesta Privada,2287,852,36,2365,772,793,2,0,0,11,15,36870,Nublado
+88,Valparaíso,Comuna_50,34,Peña,1503,900,814,2154,1177,1101,2,1,0,37,28,45430,Lluvioso
+89,Araucanía,Comuna_39,62,Fonda,3018,422,1471,1607,704,388,1,0,0,4,42,31877,Soleado
+90,Antofagasta,Comuna_42,63,Fonda,1054,1014,448,792,461,1132,1,0,0,20,42,39627,Soleado
+91,Los Lagos,Comuna_20,55,Fonda,1000,101,935,773,1339,1105,1,1,0,23,45,21521,Nublado
+92,Metropolitana,Comuna_7,28,Fiesta Privada,3961,1639,850,2657,14,923,2,2,0,13,37,31584,Soleado
+93,Coquimbo,Comuna_17,24,Fonda,3116,181,964,2792,1668,975,2,0,0,30,4,12778,Lluvioso
+94,O'Higgins,Comuna_39,28,Ramada,3490,1613,597,206,1934,1119,1,0,0,47,14,33997,Lluvioso
+95,Valparaíso,Comuna_16,59,Peña,2434,842,253,2721,460,518,1,0,0,27,35,28221,Soleado
+96,Coquimbo,Comuna_22,34,Fonda,4972,1233,992,196,1470,131,5,1,0,35,6,22792,Lluvioso
+97,O'Higgins,Comuna_9,19,Peña,549,1878,970,1482,29,298,2,4,0,0,10,48887,Soleado
+98,Antofagasta,Comuna_41,37,Peña,2075,1841,502,1096,1866,172,1,0,0,13,19,44915,Lluvioso
+99,Los Lagos,Comuna_49,63,Evento Municipal,2176,755,708,1035,1304,104,3,0,0,47,32,29994,Soleado
+100,Metropolitana,Comuna_6,50,Fiesta Privada,1217,224,1364,605,1109,395,1,0,0,45,19,24744,Nublado
+101,Antofagasta,Comuna_13,54,Fiesta Privada,4309,1784,374,1292,1878,590,1,1,0,48,26,36777,Nublado
+102,Biobío,Comuna_36,46,Peña,2800,1614,822,1826,454,609,0,1,0,26,41,11825,Nublado
+103,Biobío,Comuna_3,53,Fonda,4946,1471,553,2124,1758,505,5,1,0,42,14,19097,Soleado
+104,O'Higgins,Comuna_20,45,Ramada,4065,1198,610,1512,1185,126,7,0,0,16,35,16395,Lluvioso
+105,Antofagasta,Comuna_11,49,Peña,1310,1281,437,1341,563,642,1,1,0,43,44,16000,Soleado
+106,Coquimbo,Comuna_18,62,Evento Municipal,4408,1967,401,2650,322,1067,1,2,0,12,13,3160,Soleado
+107,Araucanía,Comuna_50,20,Ramada,2459,1425,800,90,1631,917,2,3,0,12,2,37885,Nublado
+108,O'Higgins,Comuna_41,20,Ramada,3845,1374,553,1228,246,1080,2,2,0,15,45,30217,Lluvioso
+109,Antofagasta,Comuna_4,21,Ramada,1806,855,203,2093,83,1086,1,0,0,22,31,23371,Soleado
+110,Los Lagos,Comuna_30,19,Fonda,4112,236,1123,1423,1127,833,2,1,0,31,11,48856,Nublado
+111,O'Higgins,Comuna_15,56,Fonda,3958,1482,1491,113,1096,179,2,1,0,31,34,32558,Nublado
+112,Los Lagos,Comuna_37,32,Fiesta Privada,2309,778,1374,1910,607,119,3,1,0,10,27,3240,Soleado
+113,Biobío,Comuna_48,36,Fiesta Privada,2941,1946,627,311,130,519,2,0,0,4,4,42464,Nublado
+114,O'Higgins,Comuna_50,29,Fiesta Privada,856,933,1294,2640,1709,759,2,0,0,6,31,22273,Nublado
+115,Coquimbo,Comuna_8,50,Ramada,2818,688,1087,1468,462,145,1,1,0,39,43,49810,Nublado
+116,Metropolitana,Comuna_16,43,Peña,4940,1438,1136,1418,541,1183,5,0,0,20,31,48417,Soleado
+117,Araucanía,Comuna_5,46,Evento Municipal,2962,472,690,946,1277,243,0,2,0,9,19,40711,Soleado
+118,Los Lagos,Comuna_45,33,Evento Municipal,1376,854,1012,2798,859,1170,2,2,0,8,45,41031,Soleado
+119,Antofagasta,Comuna_49,56,Ramada,394,1495,585,489,1733,953,2,1,0,24,29,44920,Lluvioso
+120,Araucanía,Comuna_22,40,Fonda,922,1181,1263,332,1598,122,1,2,0,28,33,22633,Nublado
+121,Biobío,Comuna_31,32,Peña,844,1617,996,992,1497,1441,1,2,0,16,34,28118,Nublado
+122,Antofagasta,Comuna_31,47,Fonda,2607,906,1206,373,584,152,3,1,0,26,3,46760,Nublado
+123,Biobío,Comuna_22,39,Ramada,1229,1964,1008,801,847,413,2,2,0,30,34,35452,Soleado
+124,Los Lagos,Comuna_32,36,Ramada,3858,1900,69,2030,564,400,2,2,0,3,43,24177,Lluvioso
+125,Valparaíso,Comuna_31,40,Fonda,4840,984,632,1108,1872,1271,4,1,0,33,46,6440,Nublado
+126,Coquimbo,Comuna_20,64,Fiesta Privada,3658,1378,279,892,722,917,1,1,0,8,4,48498,Lluvioso
+127,Biobío,Comuna_45,43,Ramada,1096,1533,846,2511,1562,389,2,0,0,41,23,11208,Soleado
+128,Valparaíso,Comuna_1,42,Peña,2152,805,346,312,1715,121,1,2,0,13,43,3317,Nublado
+129,Araucanía,Comuna_33,43,Fiesta Privada,1367,82,1289,788,557,354,4,0,0,12,38,6126,Soleado
+130,O'Higgins,Comuna_33,23,Ramada,3769,1106,27,2051,1807,66,0,1,0,28,46,37172,Soleado
+131,Biobío,Comuna_4,40,Fonda,4069,1298,1265,2675,222,1281,2,4,0,28,22,39408,Soleado
+132,Antofagasta,Comuna_47,64,Evento Municipal,2379,1472,31,33,722,528,1,1,0,38,46,23115,Lluvioso
+133,Coquimbo,Comuna_8,55,Fiesta Privada,4135,381,506,1192,523,1006,1,0,0,15,27,14118,Nublado
+134,Araucanía,Comuna_44,28,Peña,4195,1724,94,675,906,663,0,0,0,3,23,33469,Lluvioso
+135,Antofagasta,Comuna_22,21,Evento Municipal,678,350,551,646,247,976,4,3,0,4,33,20631,Nublado
+136,Los Lagos,Comuna_20,43,Evento Municipal,1496,43,608,2214,1120,1176,3,1,1,18,17,4930,Nublado
+137,Araucanía,Comuna_46,56,Evento Municipal,1542,694,236,2233,998,33,2,0,0,12,10,3438,Lluvioso
+138,Antofagasta,Comuna_39,62,Ramada,4278,134,609,403,511,1017,0,0,0,42,3,16807,Lluvioso
+139,Los Lagos,Comuna_18,39,Evento Municipal,1955,1917,1105,1838,912,30,4,3,0,1,44,37854,Nublado
+140,Biobío,Comuna_5,42,Evento Municipal,4084,1958,313,1698,1457,1180,6,1,0,0,38,27983,Nublado
+141,O'Higgins,Comuna_23,21,Fiesta Privada,764,888,574,1998,797,530,1,2,0,4,19,42740,Soleado
+142,Valparaíso,Comuna_26,33,Evento Municipal,4968,943,171,1644,1122,140,2,0,0,0,5,49461,Soleado
+143,Metropolitana,Comuna_16,24,Ramada,4572,1903,1377,2774,105,1234,0,0,0,29,36,33870,Nublado
+144,Metropolitana,Comuna_7,35,Fonda,3468,1041,1322,1635,42,308,2,1,0,8,5,46328,Lluvioso
+145,Metropolitana,Comuna_37,41,Ramada,4201,28,1096,174,1882,748,0,1,0,11,26,41612,Lluvioso
+146,Coquimbo,Comuna_14,23,Evento Municipal,4191,261,177,360,29,612,0,1,0,4,31,20595,Soleado
+147,Coquimbo,Comuna_17,23,Fonda,2858,323,1333,2895,769,772,3,0,0,32,15,25871,Lluvioso
+148,Metropolitana,Comuna_46,56,Fonda,2403,511,1334,1128,342,1022,5,1,0,39,23,25626,Nublado
+149,Los Lagos,Comuna_7,59,Peña,614,656,1227,1767,386,639,1,0,0,34,39,7782,Nublado
+150,Coquimbo,Comuna_5,45,Evento Municipal,4501,1268,237,2615,1811,1282,1,0,0,9,27,34755,Soleado
+151,Metropolitana,Comuna_32,34,Evento Municipal,4297,504,836,2563,1370,260,3,1,0,0,19,35564,Soleado
+152,Valparaíso,Comuna_26,64,Ramada,2147,1156,463,2004,1567,1342,1,0,0,45,31,6175,Nublado
+153,Antofagasta,Comuna_30,56,Ramada,2081,736,317,1391,371,1365,1,2,0,38,20,23471,Lluvioso
+154,Antofagasta,Comuna_11,44,Fiesta Privada,2263,1283,908,606,810,1380,4,1,0,18,31,35373,Lluvioso
+155,Los Lagos,Comuna_2,35,Peña,4267,1815,1349,771,106,354,6,2,0,23,13,48702,Lluvioso
+156,Los Lagos,Comuna_50,56,Fiesta Privada,3532,410,845,2947,356,75,0,2,0,25,4,3351,Lluvioso
+157,Los Lagos,Comuna_49,63,Fiesta Privada,3011,1168,1492,1672,188,517,2,4,0,2,8,27919,Nublado
+158,Antofagasta,Comuna_32,55,Ramada,4763,1232,392,1385,1730,226,2,1,0,33,13,36860,Soleado
+159,Valparaíso,Comuna_13,23,Ramada,173,1781,590,2614,966,867,3,1,0,9,27,6689,Nublado
+160,Araucanía,Comuna_47,22,Ramada,749,411,90,2842,1315,685,2,1,0,13,31,24197,Lluvioso
+161,Biobío,Comuna_45,23,Peña,618,572,940,2010,1632,1447,3,0,0,48,31,9456,Nublado
+162,Coquimbo,Comuna_26,30,Evento Municipal,4942,1211,1049,1991,525,595,3,2,0,49,19,9613,Lluvioso
+163,Antofagasta,Comuna_4,48,Evento Municipal,4271,427,917,1884,402,1270,1,0,0,4,29,25519,Soleado
+164,O'Higgins,Comuna_4,60,Ramada,242,164,453,1671,1019,1113,1,0,0,25,9,20301,Nublado
+165,Biobío,Comuna_1,60,Evento Municipal,880,1611,104,2570,1813,219,2,0,0,37,43,32599,Soleado
+166,Biobío,Comuna_6,39,Evento Municipal,2465,1966,771,2502,1518,1123,3,0,0,6,6,15990,Nublado
+167,Araucanía,Comuna_25,34,Fonda,949,1534,983,1950,1913,1195,3,1,0,6,28,14334,Soleado
+168,Biobío,Comuna_9,22,Evento Municipal,4373,1053,398,513,1566,1466,2,1,0,39,43,49883,Lluvioso
+169,Valparaíso,Comuna_50,25,Evento Municipal,197,573,389,1173,1961,858,1,3,0,47,14,18123,Soleado
+170,Antofagasta,Comuna_18,19,Fiesta Privada,4862,893,397,915,174,669,1,0,0,38,45,8997,Soleado
+171,Araucanía,Comuna_3,22,Fiesta Privada,3673,738,1207,1842,900,1423,2,0,0,3,9,41196,Nublado
+172,Metropolitana,Comuna_38,46,Fonda,412,1555,207,844,269,1322,2,3,0,10,32,32731,Lluvioso
+173,Antofagasta,Comuna_3,18,Fiesta Privada,3798,1914,1484,71,1174,1062,1,0,0,32,30,41189,Soleado
+174,Los Lagos,Comuna_33,29,Fonda,3529,1743,1425,797,188,721,0,1,0,0,13,36232,Soleado
+175,Valparaíso,Comuna_40,33,Evento Municipal,4186,480,1401,2311,1809,1427,0,0,0,3,47,13729,Lluvioso
+176,Metropolitana,Comuna_45,60,Peña,4567,503,792,1747,173,44,0,1,0,31,37,13980,Soleado
+177,Antofagasta,Comuna_29,61,Ramada,3438,231,408,313,374,627,0,1,0,49,32,46504,Lluvioso
+178,Coquimbo,Comuna_25,51,Peña,708,1949,999,1948,282,367,6,2,0,21,23,15458,Soleado
+179,Valparaíso,Comuna_42,21,Peña,2680,907,929,880,1219,422,0,1,1,21,21,47418,Soleado
+180,Metropolitana,Comuna_42,23,Evento Municipal,2715,1695,645,2272,837,750,3,2,0,25,46,41134,Nublado
+181,Valparaíso,Comuna_21,41,Ramada,3216,1258,926,826,293,700,1,0,0,47,38,10246,Lluvioso
+182,Antofagasta,Comuna_8,31,Fiesta Privada,3040,1858,22,2033,1307,768,1,1,0,27,24,23559,Lluvioso
+183,Valparaíso,Comuna_26,35,Evento Municipal,681,148,474,2617,498,573,3,1,0,2,16,9538,Lluvioso
+184,Los Lagos,Comuna_21,44,Ramada,4703,920,482,2328,501,1131,1,0,0,48,32,8815,Soleado
+185,Metropolitana,Comuna_28,38,Ramada,4582,1219,1471,575,591,792,1,2,0,32,2,19504,Soleado
+186,Valparaíso,Comuna_30,26,Peña,4676,425,1032,854,981,700,4,1,0,15,19,15419,Lluvioso
+187,O'Higgins,Comuna_40,22,Evento Municipal,827,1710,1327,661,451,717,3,0,0,22,43,9841,Nublado
+188,Coquimbo,Comuna_34,21,Evento Municipal,734,1896,367,179,212,681,1,2,1,24,9,14669,Nublado
+189,Metropolitana,Comuna_13,31,Evento Municipal,2464,1431,316,696,320,573,1,1,0,10,34,20031,Soleado
+190,Metropolitana,Comuna_23,48,Fiesta Privada,1787,1646,512,2338,388,1166,0,1,0,13,31,14375,Nublado
+191,Metropolitana,Comuna_5,37,Fonda,1632,1258,306,1076,1001,374,0,1,0,32,2,27815,Nublado
+192,O'Higgins,Comuna_16,23,Fiesta Privada,392,611,779,1463,1937,1142,1,1,0,45,47,28045,Soleado
+193,Los Lagos,Comuna_4,25,Fonda,1193,37,318,2142,1618,71,2,1,0,10,22,32516,Soleado
+194,Metropolitana,Comuna_42,45,Fiesta Privada,1543,788,1421,2805,1891,1340,2,1,0,15,9,27084,Lluvioso
+195,Araucanía,Comuna_45,61,Fiesta Privada,3906,1276,353,289,465,516,2,1,0,30,46,23449,Soleado
+196,Valparaíso,Comuna_2,22,Fiesta Privada,3963,1687,1002,2243,592,1270,3,0,0,1,27,11522,Soleado
+197,Biobío,Comuna_22,23,Evento Municipal,990,727,204,1283,224,1223,2,1,0,35,12,47184,Nublado
+198,Coquimbo,Comuna_35,39,Fonda,1491,1881,1425,2517,1180,1314,1,1,0,38,40,16259,Soleado
+199,Metropolitana,Comuna_36,19,Ramada,1301,216,1438,2893,1890,503,3,1,0,31,19,23412,Nublado
+200,Valparaíso,Comuna_47,21,Fonda,4710,696,431,1341,1653,1172,4,3,0,36,47,20951,Nublado
+201,Biobío,Comuna_20,25,Ramada,4751,811,1196,525,14,623,2,2,0,26,17,8654,Soleado
+202,O'Higgins,Comuna_16,27,Fonda,2447,1852,1398,2405,1962,847,2,1,0,25,25,17362,Lluvioso
+203,Antofagasta,Comuna_10,22,Ramada,3609,1710,1255,2535,497,1320,2,4,0,43,34,8210,Soleado
+204,O'Higgins,Comuna_40,63,Evento Municipal,1115,619,1195,550,1273,1294,3,0,0,3,35,36619,Lluvioso
+205,Araucanía,Comuna_20,37,Fiesta Privada,3247,597,625,2113,693,637,3,1,0,34,40,21505,Lluvioso
+206,Coquimbo,Comuna_46,61,Peña,1366,198,44,997,1472,857,4,3,0,17,46,21847,Lluvioso
+207,Biobío,Comuna_3,61,Fonda,4202,211,976,2520,1497,1197,2,3,0,20,31,16423,Nublado
+208,Biobío,Comuna_50,54,Fonda,2080,1303,891,1204,1334,717,1,0,0,42,33,16635,Nublado
+209,O'Higgins,Comuna_40,44,Peña,3464,23,184,2451,668,1261,1,1,0,32,24,21137,Soleado
+210,Antofagasta,Comuna_1,33,Ramada,4564,1778,1190,1191,145,115,1,2,0,32,24,24247,Lluvioso
+211,Antofagasta,Comuna_49,44,Ramada,2312,1389,1201,2170,811,1218,5,0,0,43,44,29277,Nublado
+212,Antofagasta,Comuna_38,57,Fonda,2047,1967,637,574,1113,730,2,0,0,43,22,20945,Nublado
+213,Los Lagos,Comuna_50,40,Fiesta Privada,2423,364,872,1180,689,894,5,2,0,34,6,23020,Nublado
+214,Los Lagos,Comuna_33,21,Peña,1862,1614,619,734,1551,1449,3,0,0,1,39,45673,Nublado
+215,Metropolitana,Comuna_46,35,Evento Municipal,3382,761,38,299,1776,943,5,0,0,48,43,9322,Soleado
+216,Los Lagos,Comuna_3,18,Evento Municipal,1178,915,856,703,811,599,1,1,0,19,12,37868,Soleado
+217,Araucanía,Comuna_14,50,Ramada,3796,1509,653,2117,937,407,5,0,0,36,24,33981,Soleado
+218,Coquimbo,Comuna_24,22,Ramada,659,961,1372,616,1809,973,2,2,0,31,39,48853,Soleado
+219,Antofagasta,Comuna_47,24,Evento Municipal,4268,1301,824,166,1717,1210,3,0,0,23,44,42339,Nublado
+220,Los Lagos,Comuna_16,21,Ramada,3635,228,619,1210,591,1077,2,1,0,13,13,18002,Nublado
+221,Los Lagos,Comuna_7,38,Fiesta Privada,4541,996,608,2068,1704,955,2,1,1,2,22,27406,Nublado
+222,O'Higgins,Comuna_31,35,Fonda,2794,1772,415,2477,432,28,4,1,0,32,12,40877,Lluvioso
+223,O'Higgins,Comuna_50,58,Evento Municipal,4935,1381,104,135,452,1017,2,2,0,31,41,17621,Nublado
+224,Antofagasta,Comuna_17,28,Fiesta Privada,2315,1526,926,85,186,861,2,2,0,34,28,38743,Lluvioso
+225,Antofagasta,Comuna_40,43,Ramada,1363,748,307,230,1123,258,3,1,0,2,35,12287,Nublado
+226,Coquimbo,Comuna_24,22,Ramada,3175,545,1015,1004,1298,439,1,0,0,41,18,5562,Nublado
+227,Los Lagos,Comuna_39,46,Fonda,2779,1568,434,2824,913,652,4,0,0,33,18,6019,Lluvioso
+228,Valparaíso,Comuna_4,48,Fonda,4973,1476,1290,418,759,794,5,0,0,15,46,36673,Lluvioso
+229,Antofagasta,Comuna_28,49,Fiesta Privada,4240,1428,857,484,1866,717,2,0,0,34,8,8711,Soleado
+230,Antofagasta,Comuna_12,28,Evento Municipal,2638,102,1162,1567,746,1214,3,1,0,22,3,4351,Nublado
+231,Los Lagos,Comuna_13,25,Evento Municipal,3818,1883,522,1512,73,350,0,0,0,26,17,32023,Soleado
+232,O'Higgins,Comuna_16,28,Peña,1094,1146,1266,2926,6,1466,3,1,0,28,9,36148,Nublado
+233,Valparaíso,Comuna_17,25,Fonda,1238,1693,1102,792,749,769,2,1,0,13,12,28749,Nublado
+234,Antofagasta,Comuna_13,28,Evento Municipal,2339,305,785,2372,774,124,2,1,0,21,41,19889,Lluvioso
+235,Los Lagos,Comuna_31,18,Fiesta Privada,305,1095,287,1629,221,940,1,0,0,6,9,8450,Nublado
+236,Biobío,Comuna_45,49,Fiesta Privada,1024,1042,491,2863,564,1066,2,2,0,49,19,44084,Lluvioso
+237,O'Higgins,Comuna_8,60,Fiesta Privada,1619,70,441,856,1714,1217,3,0,0,0,27,9665,Lluvioso
+238,Biobío,Comuna_48,51,Evento Municipal,2170,809,817,1843,469,92,2,1,0,21,3,20800,Nublado
+239,Antofagasta,Comuna_26,28,Fiesta Privada,2759,1377,964,49,1626,881,2,1,0,37,6,45199,Lluvioso
+240,Metropolitana,Comuna_15,33,Peña,4393,1142,782,211,1322,181,2,1,0,4,15,10225,Nublado
+241,Coquimbo,Comuna_40,64,Evento Municipal,3850,1062,1260,2485,802,724,3,1,0,26,25,41740,Soleado
+242,Los Lagos,Comuna_29,54,Evento Municipal,1368,460,274,2430,493,1407,1,3,0,4,24,42089,Lluvioso
+243,Los Lagos,Comuna_20,44,Fiesta Privada,3972,1668,1017,2497,464,624,2,1,0,35,31,25022,Lluvioso
+244,Los Lagos,Comuna_44,24,Ramada,3022,1487,404,99,429,1068,3,1,0,20,12,39832,Nublado
+245,Los Lagos,Comuna_35,26,Evento Municipal,1244,1456,897,1244,848,1038,3,0,0,13,23,43671,Lluvioso
+246,Biobío,Comuna_4,36,Ramada,4177,1520,302,1830,1939,1235,3,2,1,18,26,17820,Soleado
+247,Metropolitana,Comuna_12,34,Evento Municipal,1614,1719,284,640,877,53,2,0,0,29,10,46058,Nublado
+248,Coquimbo,Comuna_46,61,Fonda,608,863,384,1391,688,970,4,1,0,48,22,14308,Lluvioso
+249,Antofagasta,Comuna_47,39,Ramada,1839,1987,776,1861,1161,623,3,5,0,26,44,46021,Nublado
+250,Los Lagos,Comuna_2,42,Ramada,1916,1445,974,1609,1841,456,2,1,0,45,32,39329,Soleado
+251,O'Higgins,Comuna_36,55,Fiesta Privada,3232,1447,58,1933,772,960,0,0,0,10,14,39516,Soleado
+252,Los Lagos,Comuna_30,55,Fonda,1838,316,1421,1854,237,722,2,2,0,15,33,5079,Nublado
+253,Valparaíso,Comuna_45,26,Ramada,3488,246,858,954,221,1167,2,0,0,0,38,34239,Lluvioso
+254,Coquimbo,Comuna_4,42,Evento Municipal,3426,1938,166,770,1705,175,1,2,0,47,42,26746,Soleado
+255,Coquimbo,Comuna_19,54,Fonda,2042,1215,12,1487,1598,627,1,0,0,11,42,47519,Nublado
+256,O'Higgins,Comuna_11,47,Ramada,2925,1975,712,265,1665,594,2,0,0,29,37,13697,Lluvioso
+257,O'Higgins,Comuna_48,38,Fiesta Privada,498,1753,784,2453,1322,896,1,1,0,36,3,46488,Nublado
+258,Valparaíso,Comuna_36,20,Ramada,2139,515,639,840,1139,284,4,2,0,30,39,38201,Soleado
+259,Antofagasta,Comuna_5,54,Evento Municipal,2867,1320,1105,59,1717,29,3,2,0,10,21,19009,Lluvioso
+260,Biobío,Comuna_17,37,Peña,893,1970,274,1643,1002,1477,1,0,0,27,20,38578,Lluvioso
+261,Biobío,Comuna_7,25,Evento Municipal,1852,816,929,2037,1020,1278,1,1,0,21,2,42502,Nublado
+262,Araucanía,Comuna_35,38,Fonda,4855,301,409,1799,1317,406,1,3,0,9,13,17067,Soleado
+263,Metropolitana,Comuna_43,64,Evento Municipal,4119,1842,869,125,893,1334,1,2,1,18,31,8873,Soleado
+264,Valparaíso,Comuna_15,32,Fiesta Privada,1398,1011,853,2170,1432,859,2,2,0,30,20,13607,Nublado
+265,Metropolitana,Comuna_6,61,Ramada,4274,816,93,75,1321,1186,1,0,0,8,47,22017,Nublado
+266,Metropolitana,Comuna_45,49,Ramada,3181,983,134,284,484,588,2,1,0,41,8,32744,Soleado
+267,Los Lagos,Comuna_30,56,Fiesta Privada,446,319,707,1652,31,657,3,0,0,48,5,20714,Lluvioso
+268,Los Lagos,Comuna_44,31,Fonda,1502,1280,1392,1856,1157,767,2,1,0,42,32,24911,Soleado
+269,Antofagasta,Comuna_20,34,Ramada,1573,1470,909,2628,1432,822,1,2,0,28,4,2313,Soleado
+270,Valparaíso,Comuna_24,49,Ramada,4484,1594,1463,273,1524,1279,3,0,0,27,31,42967,Nublado
+271,Coquimbo,Comuna_24,61,Peña,4882,34,768,739,1319,1099,2,0,0,17,7,46010,Lluvioso
+272,Valparaíso,Comuna_22,42,Peña,3519,960,359,1303,1821,953,0,3,0,38,17,15365,Soleado
+273,Valparaíso,Comuna_17,49,Evento Municipal,2575,301,1025,1218,109,838,3,3,0,11,2,36720,Lluvioso
+274,Valparaíso,Comuna_38,48,Fiesta Privada,2934,871,975,17,920,1401,1,0,0,2,38,15563,Lluvioso
+275,O'Higgins,Comuna_2,33,Fiesta Privada,977,1074,1325,1615,873,336,3,1,0,12,8,23505,Nublado
+276,Antofagasta,Comuna_8,35,Evento Municipal,3391,1203,910,222,1785,374,2,0,0,41,10,44586,Lluvioso
+277,O'Higgins,Comuna_13,19,Ramada,1187,1378,209,2893,1058,299,1,1,1,44,37,4757,Lluvioso
+278,Los Lagos,Comuna_9,51,Evento Municipal,962,1955,1327,588,519,1258,7,0,0,5,38,44976,Soleado
+279,Metropolitana,Comuna_22,37,Fonda,3493,264,278,1837,56,1156,1,1,0,40,5,48196,Lluvioso
+280,Biobío,Comuna_14,27,Fonda,2621,1390,720,2448,443,783,1,0,0,44,10,48058,Lluvioso
+281,Antofagasta,Comuna_7,45,Fiesta Privada,3034,1787,234,224,568,921,3,0,0,9,6,46605,Soleado
+282,Metropolitana,Comuna_27,45,Peña,4503,123,583,2594,952,1448,5,1,0,10,40,33065,Nublado
+283,Coquimbo,Comuna_50,61,Fonda,4091,640,1427,2812,1705,381,1,1,0,31,38,47485,Nublado
+284,O'Higgins,Comuna_8,25,Fonda,3561,1031,673,1784,59,769,3,2,0,6,46,45986,Lluvioso
+285,O'Higgins,Comuna_16,26,Evento Municipal,693,1733,714,2998,228,1271,1,1,0,25,44,44710,Lluvioso
+286,Valparaíso,Comuna_29,38,Ramada,2726,49,729,747,109,478,0,2,0,6,7,36115,Lluvioso
+287,Metropolitana,Comuna_17,50,Fonda,836,87,594,1134,1758,1144,0,3,0,46,18,25478,Lluvioso
+288,Los Lagos,Comuna_11,25,Fonda,2173,682,22,2642,1281,122,2,2,0,43,40,7596,Lluvioso
+289,Antofagasta,Comuna_21,55,Ramada,2780,1108,1228,338,1439,231,2,1,0,43,46,49730,Nublado
+290,Antofagasta,Comuna_10,48,Fonda,3281,254,502,116,1695,862,1,2,0,20,9,32264,Soleado
+291,Metropolitana,Comuna_23,63,Ramada,917,260,1008,1504,1291,1415,3,2,0,9,39,18061,Lluvioso
+292,Biobío,Comuna_29,48,Fonda,2396,1923,793,978,1495,1151,2,1,0,42,41,26095,Lluvioso
+293,Metropolitana,Comuna_40,26,Fonda,708,1997,1173,2599,1743,1354,3,0,0,42,3,48377,Soleado
+294,Biobío,Comuna_31,63,Peña,143,1806,1096,2571,1976,1187,3,3,0,3,11,2276,Soleado
+295,Metropolitana,Comuna_42,62,Ramada,2924,1397,322,403,169,1201,0,1,0,19,40,4749,Soleado
+296,Biobío,Comuna_37,19,Fonda,787,1521,1281,887,339,353,2,0,0,35,16,24317,Soleado
+297,Biobío,Comuna_2,33,Ramada,3678,1406,711,1892,128,1372,2,1,0,22,37,7322,Lluvioso
+298,Coquimbo,Comuna_34,59,Ramada,985,698,339,694,1114,1421,3,1,0,37,29,15310,Soleado
+299,Araucanía,Comuna_32,42,Evento Municipal,1828,1438,274,2681,1462,325,1,2,0,8,22,10875,Nublado
+300,Coquimbo,Comuna_17,41,Ramada,3209,1309,731,1638,380,1159,5,0,0,4,18,11378,Nublado
+301,O'Higgins,Comuna_9,53,Fonda,3155,354,48,759,1070,546,0,4,0,20,23,33675,Soleado
+302,Araucanía,Comuna_4,34,Peña,1602,644,383,460,1389,108,3,0,0,43,36,24602,Soleado
+303,Biobío,Comuna_9,64,Evento Municipal,1688,1333,1130,1037,1679,416,4,2,0,33,42,23218,Soleado
+304,Coquimbo,Comuna_10,29,Ramada,4658,611,827,2924,173,379,3,0,1,1,17,8423,Nublado
+305,Antofagasta,Comuna_19,51,Fiesta Privada,3751,1171,855,2241,144,1254,2,0,0,41,23,22941,Soleado
+306,Antofagasta,Comuna_9,22,Peña,2188,950,709,256,1113,159,1,1,0,13,35,10162,Nublado
+307,Antofagasta,Comuna_28,47,Fiesta Privada,235,765,1455,450,1346,1381,0,0,0,5,36,20722,Lluvioso
+308,Antofagasta,Comuna_14,59,Evento Municipal,622,982,1233,163,413,644,3,1,0,49,3,20028,Nublado
+309,Coquimbo,Comuna_20,57,Peña,4467,1110,269,208,217,28,2,2,0,6,5,34282,Lluvioso
+310,Coquimbo,Comuna_18,62,Peña,935,925,1113,1552,1647,1298,4,0,0,12,20,32379,Soleado
+311,Biobío,Comuna_14,22,Ramada,125,1642,879,1511,1076,1434,1,0,0,4,4,14812,Nublado
+312,Biobío,Comuna_43,26,Peña,152,839,424,381,867,458,4,1,0,39,17,46198,Nublado
+313,Araucanía,Comuna_49,49,Fonda,2887,1783,524,997,675,1174,2,3,0,20,15,38928,Soleado
+314,Araucanía,Comuna_3,60,Fonda,832,1036,1207,2791,1532,193,2,1,0,6,29,48567,Lluvioso
+315,Antofagasta,Comuna_4,27,Evento Municipal,3439,483,203,160,423,1218,0,0,0,44,10,22317,Soleado
+316,Antofagasta,Comuna_39,55,Ramada,1116,59,494,1647,868,886,1,0,0,11,6,29446,Soleado
+317,Biobío,Comuna_48,37,Fonda,435,1966,921,2887,82,1240,3,0,0,23,44,49142,Nublado
+318,Los Lagos,Comuna_24,56,Fiesta Privada,1723,911,984,2736,511,1043,4,2,0,17,3,9841,Soleado
+319,Valparaíso,Comuna_39,28,Peña,4228,1688,455,1847,1202,1084,3,1,0,5,26,46531,Lluvioso
+320,Valparaíso,Comuna_35,50,Fiesta Privada,1396,366,384,2404,1657,297,1,1,0,15,3,2128,Lluvioso
+321,Biobío,Comuna_7,30,Fonda,4959,869,689,805,1709,501,1,0,0,17,26,40007,Soleado
+322,Metropolitana,Comuna_45,39,Ramada,1556,1325,255,2161,806,474,0,0,0,9,18,15671,Soleado
+323,Araucanía,Comuna_16,49,Fiesta Privada,2596,270,281,2188,1475,67,2,0,0,2,19,27056,Soleado
+324,Araucanía,Comuna_21,46,Evento Municipal,2199,1906,832,330,1484,44,2,1,0,17,23,7357,Soleado
+325,Araucanía,Comuna_11,45,Peña,1289,1578,36,1768,107,805,0,0,0,16,8,7097,Soleado
+326,Biobío,Comuna_27,61,Evento Municipal,1071,1326,481,1625,1824,1227,1,1,0,29,32,20742,Soleado
+327,Biobío,Comuna_13,38,Ramada,630,1226,1201,159,580,757,2,2,0,48,15,31632,Soleado
+328,Los Lagos,Comuna_17,41,Ramada,473,1949,474,1551,324,1393,5,1,1,29,4,5817,Soleado
+329,O'Higgins,Comuna_33,56,Fiesta Privada,1246,1598,1002,2365,587,1074,2,2,0,29,3,48018,Soleado
+330,Antofagasta,Comuna_39,38,Ramada,768,622,549,293,1974,119,4,1,0,41,26,40696,Lluvioso
+331,O'Higgins,Comuna_32,60,Evento Municipal,1514,1958,688,655,1934,851,1,0,0,42,47,9777,Soleado
+332,O'Higgins,Comuna_29,37,Fonda,2151,400,319,2464,255,702,1,2,0,20,17,16724,Lluvioso
+333,Valparaíso,Comuna_48,22,Fonda,1221,327,131,2192,540,749,0,1,0,31,29,29766,Nublado
+334,Metropolitana,Comuna_23,22,Fonda,4830,217,613,1501,565,957,2,0,0,8,36,40025,Soleado
+335,Coquimbo,Comuna_47,32,Peña,338,55,766,2638,324,568,0,1,0,31,25,21142,Nublado
+336,Coquimbo,Comuna_3,34,Fonda,3833,220,1300,2900,1484,1053,1,1,0,6,9,29893,Nublado
+337,Metropolitana,Comuna_43,64,Fiesta Privada,1961,1772,298,368,399,1078,3,0,0,43,41,36251,Nublado
+338,Los Lagos,Comuna_4,33,Fonda,4194,693,1477,1821,1833,1257,3,1,0,1,9,37472,Soleado
+339,Los Lagos,Comuna_8,38,Fiesta Privada,4120,27,674,507,1180,400,3,1,0,18,40,41510,Soleado
+340,Araucanía,Comuna_18,55,Peña,2577,1137,568,2774,822,204,0,3,0,1,27,36503,Lluvioso
+341,Araucanía,Comuna_36,25,Peña,2640,666,923,1402,636,1333,1,1,0,0,45,14902,Nublado
+342,O'Higgins,Comuna_45,34,Peña,3974,298,409,518,1355,1252,2,0,0,15,43,47642,Nublado
+343,Araucanía,Comuna_18,30,Fonda,4542,584,607,2470,754,311,0,0,0,0,44,23625,Nublado
+344,Antofagasta,Comuna_47,43,Fonda,1826,626,159,1702,974,271,1,1,0,34,35,29405,Nublado
+345,Metropolitana,Comuna_31,32,Fonda,1486,359,383,159,394,1437,1,0,0,26,23,28356,Soleado
+346,Araucanía,Comuna_12,23,Fiesta Privada,2294,323,326,1606,494,162,3,1,0,43,40,15713,Soleado
+347,Coquimbo,Comuna_17,55,Fonda,3624,567,963,1899,1047,1339,1,1,0,30,47,42032,Lluvioso
+348,O'Higgins,Comuna_5,25,Ramada,3911,1022,438,1899,588,1327,1,0,0,4,38,44186,Nublado
+349,Biobío,Comuna_23,58,Fonda,478,598,871,2871,516,1335,4,2,0,43,14,43985,Soleado
+350,Biobío,Comuna_15,27,Evento Municipal,2460,1011,845,2049,503,1026,4,1,0,40,7,9907,Lluvioso
+351,Araucanía,Comuna_30,62,Peña,759,673,281,768,715,249,3,2,0,4,28,8753,Lluvioso
+352,Araucanía,Comuna_5,59,Peña,4547,1817,1302,1813,1290,249,1,2,0,36,15,19999,Lluvioso
+353,Coquimbo,Comuna_50,27,Ramada,329,992,191,2422,795,683,1,1,0,6,20,15098,Nublado
+354,Coquimbo,Comuna_6,25,Evento Municipal,2521,75,341,2573,557,285,1,1,0,32,24,31156,Nublado
+355,Valparaíso,Comuna_3,51,Fonda,4590,145,215,2057,1460,1092,2,1,0,24,3,14492,Lluvioso
+356,Araucanía,Comuna_48,21,Peña,3112,359,427,952,272,732,3,1,0,1,40,34101,Soleado
+357,Coquimbo,Comuna_33,52,Ramada,163,847,791,1194,1225,271,2,0,0,20,18,5589,Lluvioso
+358,Biobío,Comuna_5,56,Fonda,1393,1262,1001,1187,1344,180,2,0,0,45,28,37785,Soleado
+359,Biobío,Comuna_32,62,Evento Municipal,1062,296,77,1389,1206,999,1,2,0,6,14,18037,Soleado
+360,Araucanía,Comuna_40,37,Fonda,1674,1003,1061,27,1992,245,1,0,0,39,27,33998,Soleado
+361,Los Lagos,Comuna_33,22,Peña,3679,1329,50,2555,1930,1463,2,1,0,47,21,2392,Soleado
+362,Coquimbo,Comuna_29,62,Ramada,1587,680,1416,2770,854,967,1,2,0,31,37,44461,Nublado
+363,Metropolitana,Comuna_25,30,Fiesta Privada,942,1095,1156,1572,1027,1236,4,2,0,45,5,49353,Lluvioso
+364,Araucanía,Comuna_43,31,Evento Municipal,3897,1608,1332,1926,294,642,6,1,0,18,19,44146,Soleado
+365,O'Higgins,Comuna_31,57,Ramada,2590,805,1100,2537,712,294,2,1,0,28,13,21962,Lluvioso
+366,Araucanía,Comuna_14,45,Fonda,4469,1165,1158,2133,1812,500,3,1,0,9,9,29996,Soleado
+367,Los Lagos,Comuna_1,62,Peña,2152,889,1362,1182,530,630,4,2,1,32,3,18097,Lluvioso
+368,Biobío,Comuna_8,56,Evento Municipal,4376,1353,285,2297,866,474,2,0,0,4,2,25061,Nublado
+369,Coquimbo,Comuna_15,35,Fiesta Privada,935,1821,1041,773,941,889,2,0,0,23,38,41984,Lluvioso
+370,Los Lagos,Comuna_35,64,Evento Municipal,1069,1842,1146,2513,1749,705,1,1,0,33,5,22646,Nublado
+371,Antofagasta,Comuna_30,58,Ramada,4360,912,272,1614,1894,476,2,1,0,6,33,33522,Soleado
+372,Metropolitana,Comuna_36,30,Fiesta Privada,4096,334,343,2962,174,719,2,0,0,22,25,38305,Lluvioso
+373,Coquimbo,Comuna_1,57,Fonda,3982,1997,838,2187,1911,887,3,2,0,13,25,43983,Soleado
+374,Valparaíso,Comuna_43,51,Ramada,1709,886,1009,66,1078,285,2,0,0,11,25,31290,Nublado
+375,Coquimbo,Comuna_33,62,Evento Municipal,945,183,198,384,1606,561,4,2,0,44,7,34414,Lluvioso
+376,Coquimbo,Comuna_49,34,Peña,1996,749,961,1101,1438,768,0,2,0,29,31,24136,Lluvioso
+377,Araucanía,Comuna_38,29,Fiesta Privada,1619,1415,70,2742,1215,1309,3,1,0,30,19,24581,Soleado
+378,Antofagasta,Comuna_19,32,Evento Municipal,4375,1721,1468,2660,804,1028,2,0,0,0,36,39048,Lluvioso
+379,O'Higgins,Comuna_44,35,Evento Municipal,1547,276,810,213,274,1478,1,2,0,6,9,40951,Soleado
+380,Araucanía,Comuna_50,41,Fonda,4384,176,1089,951,233,520,1,2,0,11,27,2397,Lluvioso
+381,Valparaíso,Comuna_44,21,Evento Municipal,4168,26,1380,1526,403,695,2,0,0,46,41,24557,Lluvioso
+382,Los Lagos,Comuna_3,38,Fiesta Privada,4547,602,259,2699,118,1067,3,0,0,18,35,24839,Soleado
+383,Los Lagos,Comuna_6,29,Ramada,3465,548,449,244,1795,832,0,1,0,6,7,35787,Soleado
+384,Antofagasta,Comuna_31,52,Ramada,375,388,823,1871,269,165,3,2,0,37,32,35737,Nublado
+385,Los Lagos,Comuna_14,50,Peña,1823,533,759,2389,1251,906,3,0,0,16,3,24407,Lluvioso
+386,Metropolitana,Comuna_50,27,Peña,3134,1412,1248,773,844,1348,4,0,0,12,10,11968,Nublado
+387,Biobío,Comuna_33,60,Fiesta Privada,2019,1773,1199,501,661,273,3,1,0,47,27,8227,Nublado
+388,Metropolitana,Comuna_42,25,Ramada,767,1549,812,2618,599,1083,3,2,0,9,9,14602,Lluvioso
+389,O'Higgins,Comuna_47,40,Evento Municipal,3407,1195,371,1157,1148,387,3,1,0,1,4,27146,Nublado
+390,Antofagasta,Comuna_18,59,Fiesta Privada,2895,1753,650,1426,1664,616,3,0,0,49,36,16574,Soleado
+391,Valparaíso,Comuna_48,36,Ramada,1477,1091,258,1675,590,1221,0,2,0,23,25,7300,Nublado
+392,Metropolitana,Comuna_47,26,Fiesta Privada,2669,231,155,1490,1645,401,4,0,0,11,40,37608,Lluvioso
+393,Metropolitana,Comuna_31,24,Ramada,3829,1697,972,145,1281,721,3,1,0,21,40,13728,Soleado
+394,Coquimbo,Comuna_38,45,Ramada,4354,787,555,2772,1430,629,3,1,0,29,18,14423,Lluvioso
+395,Coquimbo,Comuna_30,45,Ramada,3425,783,1290,540,480,88,2,1,0,36,14,23575,Nublado
+396,Los Lagos,Comuna_31,38,Fiesta Privada,1615,1645,108,35,171,19,4,1,0,18,22,33816,Lluvioso
+397,Biobío,Comuna_45,58,Evento Municipal,252,883,972,2900,606,397,1,1,0,29,45,2173,Nublado
+398,Valparaíso,Comuna_39,43,Ramada,825,1882,1316,927,1272,1074,0,1,0,28,22,26947,Soleado
+399,Antofagasta,Comuna_3,60,Fonda,431,913,116,2649,1258,319,1,0,0,23,22,37807,Lluvioso
+400,Araucanía,Comuna_21,35,Fiesta Privada,4899,742,761,1539,138,861,2,1,0,40,6,3758,Nublado
+401,Antofagasta,Comuna_41,25,Peña,509,21,1001,2149,1938,1357,1,1,0,6,31,15806,Soleado
+402,O'Higgins,Comuna_12,34,Fiesta Privada,856,512,89,2083,1717,1078,3,2,0,1,42,46684,Soleado
+403,Antofagasta,Comuna_3,30,Peña,3765,1261,1159,928,378,1149,3,1,0,20,14,16799,Lluvioso
+404,Antofagasta,Comuna_10,49,Evento Municipal,2554,493,252,1761,27,496,1,3,0,9,4,7815,Lluvioso
+405,Araucanía,Comuna_12,59,Peña,2970,1886,1062,571,1722,947,2,0,1,19,9,49943,Soleado
+406,Los Lagos,Comuna_29,64,Evento Municipal,3635,265,393,2714,587,1022,1,0,0,49,28,13804,Soleado
+407,Metropolitana,Comuna_1,41,Ramada,1333,28,623,2824,790,230,1,1,0,33,17,23171,Lluvioso
+408,Antofagasta,Comuna_15,36,Fonda,3962,630,1255,2289,1278,444,1,1,0,48,8,37069,Lluvioso
+409,Los Lagos,Comuna_42,23,Fiesta Privada,1831,409,1155,1242,1232,1450,3,2,0,28,25,29954,Lluvioso
+410,Araucanía,Comuna_8,61,Fiesta Privada,2905,1073,1391,2514,512,1124,1,0,0,47,43,28729,Soleado
+411,O'Higgins,Comuna_37,44,Ramada,189,1297,230,505,500,1382,3,1,0,34,16,19964,Lluvioso
+412,Coquimbo,Comuna_15,34,Fiesta Privada,1101,1199,939,2501,754,1399,2,0,0,28,16,12558,Soleado
+413,Antofagasta,Comuna_14,19,Fonda,3529,1877,590,2979,419,124,2,1,0,18,6,6502,Soleado
+414,Los Lagos,Comuna_44,63,Ramada,2375,1659,472,1872,663,979,2,0,0,46,36,45198,Lluvioso
+415,Biobío,Comuna_2,44,Fonda,144,1044,935,1022,1847,475,0,0,0,6,8,44721,Nublado
+416,O'Higgins,Comuna_47,24,Fiesta Privada,4461,234,1470,2945,1408,1493,4,1,0,24,22,46806,Soleado
+417,Los Lagos,Comuna_23,35,Fonda,3457,1252,317,1349,1328,841,1,1,0,17,6,17527,Soleado
+418,Metropolitana,Comuna_23,21,Peña,2061,1859,109,2799,1332,1381,2,2,0,44,41,24170,Soleado
+419,Biobío,Comuna_20,26,Evento Municipal,2190,1159,956,2126,1418,925,2,0,0,32,37,4961,Nublado
+420,Biobío,Comuna_13,62,Peña,939,1079,1040,2129,1354,1111,3,2,0,40,19,46927,Soleado
+421,Coquimbo,Comuna_10,27,Peña,3519,1799,911,2532,1911,235,3,1,0,49,36,17433,Soleado
+422,Araucanía,Comuna_25,37,Fiesta Privada,3245,1361,174,885,961,507,1,1,0,19,38,45696,Lluvioso
+423,Metropolitana,Comuna_14,59,Ramada,87,1539,398,1580,420,455,2,2,0,9,25,37652,Soleado
+424,Coquimbo,Comuna_16,54,Evento Municipal,2737,647,1431,205,1430,174,2,1,0,20,28,47196,Lluvioso
+425,Araucanía,Comuna_11,44,Peña,598,381,1160,2668,1824,1471,2,3,0,28,10,21870,Soleado
+426,Araucanía,Comuna_5,38,Peña,4387,1410,1011,2783,1505,365,5,2,0,44,27,40721,Lluvioso
+427,O'Higgins,Comuna_16,51,Fiesta Privada,4052,366,195,1679,816,495,2,2,0,47,15,10223,Lluvioso
+428,Antofagasta,Comuna_18,32,Fonda,2398,1504,282,2593,1780,279,0,2,0,22,35,7479,Nublado
+429,Araucanía,Comuna_1,19,Peña,2107,1609,247,140,1384,951,2,1,0,41,14,33212,Nublado
+430,Antofagasta,Comuna_48,40,Evento Municipal,3486,870,1324,1291,792,1111,1,2,0,1,21,19353,Lluvioso
+431,Coquimbo,Comuna_25,41,Peña,2621,324,567,2092,1823,844,3,1,1,48,5,35769,Soleado
+432,Metropolitana,Comuna_24,28,Fonda,936,699,901,1102,338,516,0,1,0,17,35,33859,Nublado
+433,Valparaíso,Comuna_46,40,Fiesta Privada,3615,572,1119,342,1162,1481,3,1,0,40,39,14507,Soleado
+434,Metropolitana,Comuna_13,36,Peña,1708,1185,38,2242,1062,35,0,1,0,48,18,11460,Nublado
+435,Metropolitana,Comuna_1,51,Fonda,3141,281,169,2008,538,1495,1,1,0,29,46,25931,Lluvioso
+436,Los Lagos,Comuna_7,49,Evento Municipal,627,1622,1458,55,932,1022,3,1,0,26,26,18830,Soleado
+437,O'Higgins,Comuna_32,56,Ramada,160,1172,123,870,1988,687,2,1,0,41,35,43192,Nublado
+438,Los Lagos,Comuna_5,60,Fonda,1835,1497,801,1458,1969,519,1,1,0,39,29,47592,Lluvioso
+439,Los Lagos,Comuna_20,63,Fiesta Privada,1636,565,579,1393,580,994,4,1,1,30,38,16691,Soleado
+440,Los Lagos,Comuna_45,64,Fonda,2856,1581,698,2035,1841,598,1,1,0,16,40,22788,Lluvioso
+441,Metropolitana,Comuna_5,18,Evento Municipal,1598,1119,1280,889,527,1336,3,2,0,1,10,22143,Soleado
+442,Los Lagos,Comuna_46,48,Peña,1708,1961,699,480,534,575,0,1,0,35,16,25678,Soleado
+443,Metropolitana,Comuna_16,27,Fiesta Privada,1728,1332,1147,2308,1744,1046,1,0,0,38,5,17180,Nublado
+444,Antofagasta,Comuna_18,43,Peña,2952,1462,790,2233,297,65,3,0,0,40,27,15781,Lluvioso
+445,Metropolitana,Comuna_47,56,Ramada,4010,881,1375,37,535,938,3,0,0,38,6,28360,Lluvioso
+446,Biobío,Comuna_46,58,Ramada,1751,418,1370,773,332,1378,2,3,0,5,23,15631,Lluvioso
+447,O'Higgins,Comuna_39,64,Evento Municipal,386,1209,541,2168,175,367,1,3,0,20,2,4900,Soleado
+448,Antofagasta,Comuna_12,18,Fiesta Privada,3746,1102,572,2124,25,1167,2,3,0,25,38,44471,Nublado
+449,Coquimbo,Comuna_49,59,Evento Municipal,2216,1387,315,2362,212,428,4,1,0,42,47,48054,Soleado
+450,Valparaíso,Comuna_5,61,Evento Municipal,1192,1929,194,987,1806,1382,1,2,0,13,24,32723,Soleado
+451,Los Lagos,Comuna_29,58,Fiesta Privada,2380,1825,783,2132,231,1241,1,0,0,48,45,35543,Nublado
+452,O'Higgins,Comuna_34,20,Fonda,968,786,653,507,354,718,5,0,0,0,15,11093,Nublado
+453,Metropolitana,Comuna_12,30,Fonda,1306,1644,643,2725,1623,221,3,1,0,11,23,37992,Nublado
+454,Araucanía,Comuna_12,31,Fonda,983,362,436,2142,150,1203,3,2,0,10,14,41005,Nublado
+455,Metropolitana,Comuna_47,18,Evento Municipal,3002,964,757,2408,216,766,1,1,0,13,25,2607,Nublado
+456,Araucanía,Comuna_23,33,Peña,1740,915,427,1934,350,68,5,1,0,20,12,7466,Lluvioso
+457,Antofagasta,Comuna_46,27,Peña,4635,328,1078,2747,871,182,4,0,0,18,6,40498,Soleado
+458,Metropolitana,Comuna_1,61,Fonda,886,1259,67,1423,558,1449,1,1,0,36,34,44302,Nublado
+459,O'Higgins,Comuna_4,46,Ramada,374,184,1471,86,1748,1451,2,0,0,48,37,44004,Lluvioso
+460,Biobío,Comuna_47,28,Peña,385,1084,907,2058,174,1490,2,1,0,10,20,28124,Lluvioso
+461,Valparaíso,Comuna_43,53,Evento Municipal,4495,1904,29,2575,1094,1202,2,1,0,36,20,40292,Nublado
+462,Coquimbo,Comuna_8,53,Fiesta Privada,179,808,1025,359,1352,553,1,0,0,8,46,37941,Soleado
+463,Los Lagos,Comuna_40,22,Peña,3145,1540,863,347,1345,850,0,2,0,2,15,40764,Lluvioso
+464,O'Higgins,Comuna_5,59,Evento Municipal,4530,1232,119,1295,1112,1228,0,2,1,4,45,30322,Lluvioso
+465,O'Higgins,Comuna_39,59,Peña,532,274,752,525,273,87,3,0,0,35,4,35569,Nublado
+466,Antofagasta,Comuna_48,32,Fonda,669,1140,920,2864,274,814,1,2,0,25,5,23044,Lluvioso
+467,Antofagasta,Comuna_39,37,Ramada,3010,1897,1372,1701,1257,1261,4,0,0,17,3,16383,Lluvioso
+468,Valparaíso,Comuna_44,44,Evento Municipal,2143,661,1385,1985,1784,1335,1,2,0,18,33,12257,Soleado
+469,Antofagasta,Comuna_46,64,Evento Municipal,2194,1966,1376,407,1149,54,3,0,0,33,29,22653,Lluvioso
+470,Los Lagos,Comuna_6,31,Fiesta Privada,1612,516,825,2147,1884,755,5,0,0,49,32,48507,Nublado
+471,Coquimbo,Comuna_16,19,Fonda,4921,1227,1216,196,1438,1346,3,1,0,9,27,15658,Nublado
+472,Coquimbo,Comuna_7,27,Fonda,63,984,891,1207,1433,650,2,2,0,6,23,14883,Lluvioso
+473,O'Higgins,Comuna_29,61,Peña,2007,1507,563,2051,692,1391,1,0,0,3,6,49869,Nublado
+474,Los Lagos,Comuna_43,37,Evento Municipal,3458,862,1246,1973,723,815,3,0,0,31,20,36263,Nublado
+475,O'Higgins,Comuna_1,56,Fiesta Privada,2679,355,569,2261,107,793,2,0,0,11,35,2789,Lluvioso
+476,Los Lagos,Comuna_5,54,Evento Municipal,3478,1878,94,1273,1118,1411,2,0,0,3,17,13786,Soleado
+477,O'Higgins,Comuna_8,49,Fiesta Privada,2061,267,579,1348,1606,1179,5,0,0,5,15,40929,Soleado
+478,Araucanía,Comuna_8,57,Peña,3846,38,960,2786,167,882,3,0,0,23,41,9849,Lluvioso
+479,Metropolitana,Comuna_12,64,Peña,3915,1905,1243,2226,1062,519,1,1,0,33,21,35422,Nublado
+480,Araucanía,Comuna_42,27,Evento Municipal,622,241,868,1924,545,911,3,0,0,49,16,34883,Lluvioso
+481,O'Higgins,Comuna_30,40,Fiesta Privada,1879,1458,246,1633,1031,382,3,0,0,0,46,22317,Lluvioso
+482,Biobío,Comuna_41,64,Evento Municipal,2287,420,386,144,1930,369,0,1,0,8,7,36212,Nublado
+483,Metropolitana,Comuna_17,51,Fonda,3517,1464,1112,2274,591,718,4,2,0,21,9,25517,Nublado
+484,Valparaíso,Comuna_29,28,Fonda,1686,26,898,2052,720,754,1,1,0,9,18,28218,Nublado
+485,Coquimbo,Comuna_10,42,Ramada,4887,1946,559,1995,449,626,3,3,0,10,44,42046,Lluvioso
+486,Antofagasta,Comuna_25,61,Fiesta Privada,1015,520,271,599,374,250,5,0,0,32,31,34835,Lluvioso
+487,Valparaíso,Comuna_13,60,Peña,4100,759,1428,2137,1619,1077,1,1,0,24,42,14277,Soleado
+488,Valparaíso,Comuna_30,42,Peña,1638,313,589,849,1115,250,1,0,0,9,43,18742,Lluvioso
+489,Biobío,Comuna_20,32,Fiesta Privada,2864,1571,1276,2438,1255,1472,1,4,0,30,30,49591,Nublado
+490,Coquimbo,Comuna_16,31,Fiesta Privada,3048,1484,377,1239,1398,499,1,2,0,10,19,7091,Nublado
+491,Los Lagos,Comuna_14,41,Fonda,1769,564,1153,2270,1464,965,1,0,0,37,32,45943,Nublado
+492,Araucanía,Comuna_41,36,Fonda,1876,561,1317,1191,1634,1040,1,1,0,13,13,16964,Lluvioso
+493,O'Higgins,Comuna_45,54,Evento Municipal,4466,906,459,486,38,87,2,0,0,7,20,14577,Nublado
+494,O'Higgins,Comuna_16,60,Ramada,4945,1264,431,1603,140,370,3,0,0,18,32,25583,Lluvioso
+495,Metropolitana,Comuna_32,42,Ramada,3240,308,556,1900,1261,809,1,0,0,30,43,40727,Soleado
+496,Antofagasta,Comuna_31,52,Fiesta Privada,4123,1232,195,511,854,89,4,1,0,37,3,33669,Nublado
+497,Araucanía,Comuna_34,59,Evento Municipal,3202,1118,155,1850,938,104,1,0,0,31,36,8246,Lluvioso
+498,Coquimbo,Comuna_10,51,Peña,2020,1035,196,1221,1988,41,2,2,0,36,31,22312,Lluvioso
+499,Valparaíso,Comuna_33,31,Peña,3725,599,978,707,1844,818,2,3,0,1,22,28497,Nublado
+500,Antofagasta,Comuna_49,31,Peña,3604,1144,67,905,942,387,3,1,0,12,11,18219,Lluvioso
+501,Metropolitana,Comuna_18,40,Ramada,4155,772,1460,2631,853,363,4,2,0,16,45,49515,Soleado
+502,Antofagasta,Comuna_11,63,Fiesta Privada,1814,22,213,2136,374,1258,4,1,0,1,46,24592,Lluvioso
+503,Biobío,Comuna_35,63,Fiesta Privada,825,1430,1398,1299,155,337,0,2,1,14,18,13812,Nublado
+504,Metropolitana,Comuna_41,51,Peña,3896,1179,1458,2068,1317,44,2,2,0,13,37,29193,Soleado
+505,O'Higgins,Comuna_35,41,Ramada,1889,1651,880,1869,1835,1041,0,2,0,38,31,36971,Nublado
+506,O'Higgins,Comuna_25,38,Ramada,3622,423,1112,886,858,71,2,1,0,26,12,42997,Lluvioso
+507,Metropolitana,Comuna_34,33,Fiesta Privada,4392,910,1492,2119,630,181,2,0,0,10,32,28334,Nublado
+508,Valparaíso,Comuna_29,29,Peña,3584,1533,1320,879,1333,857,1,2,0,5,28,39380,Lluvioso
+509,Valparaíso,Comuna_40,22,Peña,111,186,1439,1341,532,379,2,1,0,33,21,7747,Nublado
+510,Biobío,Comuna_31,23,Ramada,868,223,1424,421,822,1193,2,1,0,22,43,18750,Soleado
+511,Valparaíso,Comuna_36,63,Fiesta Privada,3107,605,1114,574,298,297,1,2,0,24,5,39799,Nublado
+512,Coquimbo,Comuna_38,59,Peña,3117,1788,285,162,462,1173,5,0,0,10,37,35008,Nublado
+513,Metropolitana,Comuna_24,61,Fiesta Privada,1096,1842,181,2312,1048,230,1,1,0,47,28,25002,Lluvioso
+514,Biobío,Comuna_25,52,Peña,3582,1851,673,2266,114,415,4,0,0,21,14,5331,Soleado
+515,O'Higgins,Comuna_20,58,Fiesta Privada,1870,1580,91,2067,217,592,1,1,0,22,24,33486,Nublado
+516,Metropolitana,Comuna_50,32,Evento Municipal,4222,1833,1239,1061,1860,624,2,1,0,8,27,12779,Lluvioso
+517,O'Higgins,Comuna_31,51,Fonda,4463,1267,1305,483,1949,210,0,1,0,4,21,26801,Lluvioso
+518,Biobío,Comuna_36,43,Ramada,4802,1160,845,1359,832,638,2,1,0,47,4,44406,Nublado
+519,Coquimbo,Comuna_10,44,Ramada,1491,1802,1389,118,920,1370,0,0,0,30,4,39264,Nublado
+520,Los Lagos,Comuna_5,49,Peña,406,1549,106,2669,1570,1074,1,1,0,35,11,3003,Lluvioso
+521,Biobío,Comuna_3,58,Fonda,4161,1503,1041,2006,1448,730,2,1,0,2,44,19384,Lluvioso
+522,Araucanía,Comuna_27,48,Evento Municipal,1484,1417,1290,2381,729,37,0,4,0,29,19,43019,Nublado
+523,Antofagasta,Comuna_37,25,Fiesta Privada,1746,1003,1257,311,900,1401,3,1,0,2,25,42869,Soleado
+524,Biobío,Comuna_27,43,Fonda,2702,1929,1268,1238,1525,864,5,0,0,34,18,26994,Soleado
+525,Biobío,Comuna_27,52,Fonda,1581,1019,179,1203,1983,543,2,0,0,24,30,41316,Soleado
+526,O'Higgins,Comuna_40,59,Ramada,901,859,428,1360,1900,306,0,0,0,6,37,17527,Soleado
+527,Coquimbo,Comuna_39,62,Fiesta Privada,4268,1312,1099,2212,1468,1136,4,1,0,5,9,26982,Lluvioso
+528,O'Higgins,Comuna_5,56,Ramada,3010,128,1245,214,1792,903,1,0,0,0,6,14806,Soleado
+529,Araucanía,Comuna_27,46,Evento Municipal,3994,1088,1210,1396,1665,1199,6,2,0,28,6,11861,Nublado
+530,Los Lagos,Comuna_13,41,Peña,2018,1698,531,1299,955,967,5,2,0,10,36,8830,Lluvioso
+531,Los Lagos,Comuna_21,52,Fonda,3231,881,934,2084,639,90,2,0,0,14,23,12304,Soleado
+532,Biobío,Comuna_1,38,Ramada,4904,55,1402,226,1273,315,1,0,0,44,13,24863,Soleado
+533,Antofagasta,Comuna_21,31,Ramada,2399,1323,56,1737,901,561,1,0,0,36,47,32449,Soleado
+534,Los Lagos,Comuna_31,19,Fiesta Privada,1417,265,1466,1177,1574,370,2,1,0,17,31,11960,Lluvioso
+535,Valparaíso,Comuna_50,59,Evento Municipal,2013,691,652,2312,1096,802,1,2,0,30,24,19915,Soleado
+536,Antofagasta,Comuna_34,25,Evento Municipal,4012,975,1429,766,1694,664,2,0,0,35,16,30159,Nublado
+537,Biobío,Comuna_44,34,Evento Municipal,3469,661,756,2501,870,158,0,0,0,34,15,6567,Soleado
+538,Araucanía,Comuna_30,59,Evento Municipal,4609,1943,787,1231,1792,1490,2,2,0,42,11,45300,Nublado
+539,Metropolitana,Comuna_31,28,Peña,1110,553,168,1593,1878,416,3,1,1,48,46,4022,Nublado
+540,Metropolitana,Comuna_35,20,Ramada,4320,1068,976,1146,961,1117,3,0,0,16,21,8094,Lluvioso
+541,Araucanía,Comuna_22,36,Fonda,1496,1361,1100,2478,343,1489,2,1,0,38,40,30323,Soleado
+542,Metropolitana,Comuna_41,24,Peña,4973,79,388,2065,1856,749,3,0,0,47,35,36934,Nublado
+543,O'Higgins,Comuna_4,43,Fiesta Privada,3892,843,129,2561,198,1008,0,1,0,9,6,15561,Nublado
+544,O'Higgins,Comuna_35,63,Evento Municipal,1657,755,27,1725,1155,418,0,0,0,35,18,29823,Lluvioso
+545,Biobío,Comuna_49,62,Fiesta Privada,4027,796,481,2765,596,821,1,0,0,17,47,30274,Nublado
+546,Biobío,Comuna_38,27,Evento Municipal,4707,1460,1112,568,1392,711,0,0,0,22,44,34915,Soleado
+547,Valparaíso,Comuna_46,38,Peña,3913,656,1245,2719,1592,1014,0,0,0,13,15,23921,Nublado
+548,Metropolitana,Comuna_14,54,Fiesta Privada,3895,69,866,321,789,1326,1,1,0,32,37,47627,Soleado
+549,Los Lagos,Comuna_24,33,Evento Municipal,2460,1743,876,1970,1780,769,2,1,0,33,4,37884,Lluvioso
+550,Biobío,Comuna_27,50,Fiesta Privada,3549,1490,1030,584,146,1188,3,1,0,5,8,39227,Lluvioso
+551,Metropolitana,Comuna_33,46,Fiesta Privada,4903,64,327,1430,1196,1109,3,1,0,9,37,34000,Soleado
+552,Biobío,Comuna_34,41,Fonda,2916,231,599,1852,1472,866,2,0,0,16,28,36751,Lluvioso
+553,Biobío,Comuna_2,55,Fiesta Privada,1882,113,1450,2011,477,1240,4,0,0,29,39,33645,Nublado
+554,Araucanía,Comuna_46,61,Evento Municipal,2486,1202,485,803,583,815,2,0,0,36,7,39752,Soleado
+555,Araucanía,Comuna_11,32,Fiesta Privada,4913,1418,597,853,526,115,2,2,0,31,28,16876,Nublado
+556,Antofagasta,Comuna_19,26,Peña,1652,109,1449,2847,1314,925,2,2,0,1,44,45066,Soleado
+557,O'Higgins,Comuna_47,22,Fiesta Privada,4890,709,195,2587,1166,176,0,1,0,23,33,19097,Nublado
+558,Metropolitana,Comuna_2,21,Evento Municipal,4921,820,169,1181,1425,481,4,2,0,47,14,16713,Soleado
+559,Valparaíso,Comuna_6,58,Peña,591,811,643,51,762,1141,3,3,0,14,10,10934,Soleado
+560,O'Higgins,Comuna_20,41,Peña,191,1533,467,2595,547,1451,0,0,1,44,24,47407,Soleado
+561,Valparaíso,Comuna_39,53,Ramada,4770,543,58,2831,752,749,5,0,0,47,13,30977,Nublado
+562,Los Lagos,Comuna_32,26,Fiesta Privada,950,1539,811,603,1691,495,2,0,0,5,36,47339,Lluvioso
+563,Antofagasta,Comuna_40,51,Ramada,4104,76,1457,1125,1587,1382,1,0,0,11,39,22097,Soleado
+564,Metropolitana,Comuna_23,50,Ramada,4050,653,1075,2357,340,189,2,1,0,11,47,24874,Soleado
+565,Los Lagos,Comuna_13,52,Ramada,2672,1091,1085,858,1628,732,3,1,0,23,43,42542,Nublado
+566,Antofagasta,Comuna_6,24,Peña,4941,830,1251,2404,1705,1054,3,3,0,6,17,40591,Soleado
+567,Coquimbo,Comuna_16,36,Ramada,2497,722,870,1359,966,114,3,0,0,35,13,5764,Lluvioso
+568,Coquimbo,Comuna_6,26,Ramada,3215,166,1307,1571,1743,548,2,0,0,43,7,36152,Lluvioso
+569,Coquimbo,Comuna_43,18,Fonda,2134,1981,973,1893,605,570,1,1,0,11,38,6366,Nublado
+570,O'Higgins,Comuna_5,25,Evento Municipal,1235,205,946,2558,102,1058,4,1,0,32,40,19214,Lluvioso
+571,Los Lagos,Comuna_5,35,Fiesta Privada,3439,533,635,1675,1209,845,1,0,0,36,23,17937,Nublado
+572,Los Lagos,Comuna_21,51,Evento Municipal,4904,1343,331,1582,1731,881,2,0,0,2,7,27347,Lluvioso
+573,Biobío,Comuna_50,54,Fonda,3561,203,831,1911,1853,812,6,1,0,32,37,46648,Nublado
+574,Metropolitana,Comuna_20,60,Fonda,1310,455,26,1242,1804,1234,2,3,0,22,17,44436,Lluvioso
+575,O'Higgins,Comuna_17,62,Peña,745,1055,1198,1799,1497,868,3,0,0,8,29,38776,Nublado
+576,Biobío,Comuna_2,62,Evento Municipal,1022,1660,170,2190,579,1087,0,1,0,44,8,17694,Lluvioso
+577,Antofagasta,Comuna_25,30,Peña,1498,1457,1325,456,1296,356,0,1,0,20,24,32328,Soleado
+578,O'Higgins,Comuna_48,57,Ramada,369,1199,229,2939,559,770,2,2,0,13,7,22779,Lluvioso
+579,Araucanía,Comuna_32,26,Peña,4320,516,646,1949,1514,1374,2,0,0,32,41,9608,Soleado
+580,O'Higgins,Comuna_48,22,Fiesta Privada,3783,1845,1171,966,226,1330,2,4,0,7,34,18717,Soleado
+581,Coquimbo,Comuna_47,51,Fiesta Privada,1886,747,715,145,298,1432,4,2,0,32,2,27550,Lluvioso
+582,Valparaíso,Comuna_17,64,Fonda,2401,875,1236,1006,1971,1347,1,3,0,23,22,48899,Lluvioso
+583,Metropolitana,Comuna_5,26,Evento Municipal,471,153,782,1028,1073,40,1,0,0,11,31,12079,Nublado
+584,Metropolitana,Comuna_39,39,Fonda,1462,1576,1130,843,1189,1245,2,1,0,22,28,21508,Lluvioso
+585,O'Higgins,Comuna_9,31,Peña,1693,1313,1357,2682,1077,286,3,1,0,16,34,26990,Lluvioso
+586,O'Higgins,Comuna_50,21,Fonda,3800,1667,741,1913,868,91,2,1,0,12,24,28654,Lluvioso
+587,Los Lagos,Comuna_41,37,Evento Municipal,2164,124,548,1956,504,892,0,0,0,48,12,47902,Soleado
+588,Coquimbo,Comuna_10,36,Evento Municipal,4576,1542,1454,1134,1005,1375,2,0,1,29,17,49778,Lluvioso
+589,Los Lagos,Comuna_37,28,Ramada,2657,589,71,1587,1013,164,2,1,0,5,7,9194,Nublado
+590,Biobío,Comuna_10,19,Ramada,2009,464,158,1592,494,62,0,4,0,21,36,49789,Soleado
+591,Los Lagos,Comuna_49,23,Evento Municipal,4556,1742,1099,1880,1214,1417,5,1,0,45,32,14997,Soleado
+592,Los Lagos,Comuna_11,49,Peña,2494,1451,782,2094,62,771,1,3,1,14,43,25240,Nublado
+593,Araucanía,Comuna_11,22,Fonda,2898,1317,1355,1773,7,895,0,2,1,10,18,7841,Lluvioso
+594,Biobío,Comuna_31,37,Fonda,2014,1689,746,1576,825,438,2,0,0,25,26,22899,Soleado
+595,Valparaíso,Comuna_43,63,Fiesta Privada,1320,712,1005,25,1934,447,1,2,0,10,11,26089,Nublado
+596,Antofagasta,Comuna_44,19,Peña,4622,509,962,2228,1516,675,2,3,0,3,45,31378,Nublado
+597,Coquimbo,Comuna_31,36,Peña,406,671,918,1116,1766,861,4,1,0,24,29,32707,Soleado
+598,Biobío,Comuna_25,58,Ramada,3909,1588,100,1843,517,131,4,0,0,31,6,28143,Soleado
+599,Los Lagos,Comuna_16,61,Peña,944,1322,880,1338,1504,850,1,3,0,32,20,36540,Nublado
+600,Valparaíso,Comuna_34,46,Ramada,1300,1467,1295,1897,1924,437,1,1,0,40,35,39643,Lluvioso
+601,Los Lagos,Comuna_22,25,Fiesta Privada,2079,172,30,2108,608,1384,3,3,0,12,37,5606,Soleado
+602,Coquimbo,Comuna_7,62,Fiesta Privada,2750,774,1370,1370,1631,455,2,0,0,18,40,8866,Soleado
+603,Coquimbo,Comuna_25,44,Ramada,3543,1162,1044,948,1775,229,1,2,0,31,36,49058,Nublado
+604,Coquimbo,Comuna_31,34,Ramada,2346,306,1331,1768,1277,239,1,0,0,38,5,16874,Lluvioso
+605,Valparaíso,Comuna_3,51,Evento Municipal,4504,147,20,1815,135,78,3,1,0,36,33,6683,Soleado
+606,O'Higgins,Comuna_24,26,Peña,4050,701,1415,741,461,380,1,0,0,31,30,26018,Lluvioso
+607,O'Higgins,Comuna_29,59,Fiesta Privada,1815,322,1103,1297,1502,876,1,2,0,2,22,22464,Soleado
+608,Los Lagos,Comuna_37,19,Fiesta Privada,612,1558,344,1024,99,831,2,2,0,20,22,40805,Soleado
+609,Araucanía,Comuna_40,22,Evento Municipal,2232,49,638,1065,444,247,4,1,0,41,22,23331,Lluvioso
+610,Biobío,Comuna_45,28,Evento Municipal,593,936,747,543,1110,469,2,0,0,42,12,9494,Nublado
+611,Antofagasta,Comuna_25,33,Fonda,3599,366,1187,203,582,836,0,0,0,41,4,21320,Nublado
+612,Metropolitana,Comuna_33,39,Fonda,4721,1276,1465,398,62,101,2,1,0,10,7,31263,Nublado
+613,Los Lagos,Comuna_28,49,Fiesta Privada,1375,381,951,2982,1195,1429,2,0,1,34,43,44443,Lluvioso
+614,Metropolitana,Comuna_38,50,Fiesta Privada,4299,1687,1058,814,270,1099,4,3,1,3,26,34451,Nublado
+615,Coquimbo,Comuna_13,36,Ramada,3741,1078,633,1092,880,1149,1,0,0,47,9,31034,Soleado
+616,Valparaíso,Comuna_9,62,Ramada,702,186,169,1825,273,173,2,4,0,26,34,24867,Soleado
+617,Coquimbo,Comuna_50,21,Ramada,1675,275,1151,2307,1959,1425,0,0,0,29,12,8439,Nublado
+618,Los Lagos,Comuna_3,18,Peña,1171,36,1346,2470,1454,1294,2,0,0,23,43,11162,Nublado
+619,Biobío,Comuna_5,20,Ramada,51,606,325,1249,926,1202,2,0,0,18,27,46016,Lluvioso
+620,Araucanía,Comuna_41,43,Evento Municipal,4507,582,958,502,1667,280,2,2,0,36,44,43344,Soleado
+621,Coquimbo,Comuna_49,22,Evento Municipal,782,1822,246,2827,817,1384,4,2,1,42,20,32321,Nublado
+622,Biobío,Comuna_43,43,Evento Municipal,3751,925,186,985,1102,924,3,0,0,25,14,20474,Lluvioso
+623,Araucanía,Comuna_2,46,Fiesta Privada,1464,890,637,742,424,661,2,1,0,19,15,23072,Soleado
+624,Biobío,Comuna_49,37,Fiesta Privada,4506,1382,1333,2477,367,225,3,1,0,3,25,39557,Nublado
+625,Biobío,Comuna_13,37,Ramada,2701,554,1059,354,1750,1309,3,2,0,11,5,21935,Nublado
+626,Araucanía,Comuna_46,45,Ramada,1008,672,154,1721,844,674,1,0,0,14,3,25781,Soleado
+627,Los Lagos,Comuna_50,63,Evento Municipal,1738,1820,1348,1755,441,1243,3,0,0,7,9,16934,Soleado
+628,Antofagasta,Comuna_28,31,Peña,4371,1432,878,842,978,1116,3,1,1,38,44,45549,Nublado
+629,O'Higgins,Comuna_43,63,Ramada,2614,1439,790,1949,627,967,4,1,0,35,30,41664,Nublado
+630,Antofagasta,Comuna_46,25,Fiesta Privada,1040,561,365,2894,644,474,1,0,0,22,21,3956,Soleado
+631,Valparaíso,Comuna_44,19,Fonda,4379,1976,1377,2996,1167,577,3,1,0,37,6,14493,Lluvioso
+632,Metropolitana,Comuna_12,30,Evento Municipal,4552,810,1168,2707,646,394,2,1,0,46,19,4863,Lluvioso
+633,Los Lagos,Comuna_32,62,Ramada,2053,1445,1256,2559,715,416,1,2,0,2,30,32920,Nublado
+634,Coquimbo,Comuna_13,20,Evento Municipal,4071,780,1093,2968,256,276,1,0,0,0,47,33396,Nublado
+635,Valparaíso,Comuna_21,54,Peña,4815,261,437,1561,1190,135,1,1,0,19,12,42073,Lluvioso
+636,Antofagasta,Comuna_29,44,Ramada,630,625,1398,1388,1686,44,2,1,0,33,19,26089,Lluvioso
+637,Los Lagos,Comuna_26,28,Fonda,4618,1287,233,2769,163,1446,3,1,0,36,21,34050,Lluvioso
+638,Valparaíso,Comuna_6,63,Peña,3124,893,143,2343,1377,663,1,0,0,4,32,14400,Nublado
+639,Valparaíso,Comuna_19,39,Evento Municipal,3781,191,999,2349,272,735,4,0,0,19,20,18530,Soleado
+640,O'Higgins,Comuna_2,20,Evento Municipal,1200,1096,1185,494,1579,266,2,0,0,12,3,3458,Lluvioso
+641,O'Higgins,Comuna_15,45,Ramada,240,1342,238,1183,1977,1271,1,4,0,5,30,7471,Soleado
+642,O'Higgins,Comuna_30,35,Ramada,4671,374,1211,848,62,97,1,0,0,14,22,20790,Nublado
+643,Los Lagos,Comuna_4,49,Evento Municipal,4790,1583,1194,1750,659,1290,1,2,0,45,8,16240,Lluvioso
+644,O'Higgins,Comuna_4,34,Fonda,157,1259,1111,1813,43,1198,1,1,0,25,38,6438,Nublado
+645,Metropolitana,Comuna_26,29,Ramada,1595,303,549,1753,735,166,1,0,0,25,15,30696,Nublado
+646,Araucanía,Comuna_47,45,Evento Municipal,1263,457,640,2824,1007,1298,3,0,0,30,39,39390,Lluvioso
+647,Antofagasta,Comuna_2,50,Fonda,2063,866,1425,2115,525,558,4,1,0,13,45,20934,Soleado
+648,Metropolitana,Comuna_34,58,Ramada,3655,1904,335,2788,1092,551,3,0,0,11,4,42801,Soleado
+649,Antofagasta,Comuna_22,61,Peña,607,624,220,1382,1484,497,3,0,0,24,46,5638,Soleado
+650,Biobío,Comuna_1,25,Ramada,2635,1932,926,1164,1646,159,3,0,1,9,22,10920,Soleado
+651,Coquimbo,Comuna_18,24,Evento Municipal,3254,860,454,39,444,216,2,0,0,24,34,23958,Soleado
+652,Araucanía,Comuna_25,56,Evento Municipal,2112,1203,1259,2214,1687,1425,3,1,0,15,13,14021,Nublado
+653,Metropolitana,Comuna_44,61,Peña,4209,1752,294,1501,303,581,3,1,0,33,44,5993,Lluvioso
+654,Antofagasta,Comuna_31,50,Evento Municipal,137,312,1077,1723,352,1316,2,0,0,34,44,43397,Lluvioso
+655,Araucanía,Comuna_9,62,Peña,1984,269,598,1152,550,1461,3,1,0,43,43,35037,Soleado
+656,Araucanía,Comuna_31,31,Fonda,2418,1997,1222,2140,671,289,3,2,0,28,22,30554,Nublado
+657,Coquimbo,Comuna_2,45,Ramada,2899,1999,309,2003,801,694,3,1,0,16,43,27080,Lluvioso
+658,Antofagasta,Comuna_28,45,Evento Municipal,2948,817,1254,1535,232,838,1,1,0,42,9,3994,Nublado
+659,Los Lagos,Comuna_23,22,Ramada,3212,1525,1013,1922,297,1109,4,1,0,22,15,37892,Soleado
+660,Araucanía,Comuna_2,20,Ramada,4742,1678,229,659,48,668,0,0,0,43,19,23214,Nublado
+661,Metropolitana,Comuna_29,60,Fiesta Privada,1718,155,31,2164,238,978,1,1,0,17,43,26443,Lluvioso
+662,Los Lagos,Comuna_34,40,Ramada,4951,613,999,403,975,1047,3,2,0,49,18,14348,Lluvioso
+663,Valparaíso,Comuna_4,45,Evento Municipal,4772,786,478,2501,1506,566,1,0,0,35,3,45182,Soleado
+664,Los Lagos,Comuna_17,19,Fiesta Privada,2448,1016,278,822,827,274,1,0,0,14,17,43683,Soleado
+665,Antofagasta,Comuna_8,40,Ramada,2123,1146,1002,1047,1525,428,0,3,0,23,2,26420,Nublado
+666,Los Lagos,Comuna_23,64,Ramada,947,1474,1208,1575,375,847,1,0,0,32,46,4012,Lluvioso
+667,Metropolitana,Comuna_32,35,Fonda,3164,439,1331,884,1468,702,1,1,0,9,20,26982,Lluvioso
+668,Biobío,Comuna_37,31,Fiesta Privada,164,1128,312,1719,1083,1366,1,1,0,20,34,8477,Soleado
+669,O'Higgins,Comuna_38,47,Evento Municipal,1240,459,1002,408,98,19,2,2,0,11,11,22471,Lluvioso
+670,Los Lagos,Comuna_46,55,Fiesta Privada,3096,754,1278,2279,1894,283,5,0,0,45,7,41479,Nublado
+671,Araucanía,Comuna_10,54,Peña,2056,1042,1007,317,1586,707,3,3,0,22,30,48361,Nublado
+672,Valparaíso,Comuna_34,43,Fiesta Privada,1815,83,851,555,1172,1261,3,1,0,35,23,18667,Nublado
+673,Araucanía,Comuna_27,19,Ramada,649,1225,907,1950,244,837,1,2,0,16,3,18832,Soleado
+674,Metropolitana,Comuna_6,64,Fonda,1867,973,877,55,372,858,1,1,0,9,24,20092,Lluvioso
+675,Antofagasta,Comuna_11,35,Evento Municipal,1452,1388,1177,835,1435,653,2,0,0,6,40,5453,Soleado
+676,O'Higgins,Comuna_48,37,Peña,3368,1633,149,2201,745,26,2,0,0,48,32,15723,Nublado
+677,Coquimbo,Comuna_4,61,Ramada,1200,404,659,1107,857,1143,1,1,0,0,23,31763,Lluvioso
+678,O'Higgins,Comuna_48,61,Fiesta Privada,2504,39,711,1247,933,96,0,1,0,29,40,42374,Soleado
+679,Coquimbo,Comuna_47,64,Evento Municipal,3758,1873,1431,2902,881,409,0,0,0,36,26,39287,Soleado
+680,Coquimbo,Comuna_6,62,Ramada,176,423,1204,356,1372,920,3,1,0,16,4,28962,Lluvioso
+681,Los Lagos,Comuna_24,57,Ramada,268,1216,145,1888,198,226,2,2,0,21,36,11688,Lluvioso
+682,Biobío,Comuna_32,43,Fonda,1222,731,1431,1682,1372,641,1,2,0,35,3,15756,Lluvioso
+683,O'Higgins,Comuna_7,24,Ramada,913,107,1369,2078,1059,1297,4,0,0,27,15,10909,Lluvioso
+684,Metropolitana,Comuna_39,37,Fiesta Privada,4006,1049,316,1695,1844,581,3,0,0,32,11,37445,Lluvioso
+685,Metropolitana,Comuna_9,48,Ramada,1882,522,455,1990,1108,768,0,0,0,34,33,9001,Nublado
+686,Metropolitana,Comuna_11,50,Evento Municipal,3241,1729,630,2893,1177,60,2,0,0,45,27,23460,Lluvioso
+687,Los Lagos,Comuna_19,27,Ramada,4229,45,1047,2310,299,986,1,0,0,49,11,43521,Nublado
+688,Araucanía,Comuna_3,18,Evento Municipal,1393,97,189,2950,948,898,8,2,0,2,29,34647,Lluvioso
+689,Los Lagos,Comuna_19,36,Fonda,791,1131,351,1888,176,1407,3,0,0,46,28,14866,Nublado
+690,Biobío,Comuna_6,49,Fonda,1680,1294,1445,244,1976,1163,3,3,0,24,26,28447,Nublado
+691,Metropolitana,Comuna_17,54,Fiesta Privada,73,1284,662,1631,780,1411,3,2,0,11,19,27916,Nublado
+692,Antofagasta,Comuna_37,55,Peña,1168,697,620,206,1412,1004,2,1,0,16,5,7395,Lluvioso
+693,Valparaíso,Comuna_21,59,Ramada,2006,1089,358,1241,1390,1325,2,0,0,15,15,34946,Lluvioso
+694,Antofagasta,Comuna_9,47,Peña,1986,705,316,1954,763,503,2,2,0,35,26,5222,Lluvioso
+695,Los Lagos,Comuna_50,21,Ramada,1522,564,516,232,201,1180,2,1,0,34,8,27626,Soleado
+696,Antofagasta,Comuna_35,56,Fonda,3838,793,1224,2047,1980,396,3,1,0,8,28,43841,Lluvioso
+697,Valparaíso,Comuna_35,60,Fonda,4756,1785,76,2351,580,1415,3,1,0,27,23,35545,Nublado
+698,Metropolitana,Comuna_45,34,Ramada,311,189,243,2159,476,1273,0,1,0,6,8,7230,Nublado
+699,O'Higgins,Comuna_11,33,Fiesta Privada,4257,281,410,2416,278,262,3,2,0,6,8,19286,Soleado
+700,Biobío,Comuna_6,39,Ramada,853,1879,764,1990,805,486,2,1,0,37,36,3246,Soleado
+701,Araucanía,Comuna_1,52,Fiesta Privada,4108,1468,104,2150,988,245,0,0,0,1,25,27569,Nublado
+702,O'Higgins,Comuna_12,32,Peña,811,1935,1369,670,1745,789,2,0,0,29,26,33062,Lluvioso
+703,Los Lagos,Comuna_10,41,Ramada,3953,261,395,1597,671,121,0,3,0,11,42,21438,Lluvioso
+704,Araucanía,Comuna_9,43,Peña,144,715,481,2412,1872,1274,0,0,1,40,5,47687,Nublado
+705,O'Higgins,Comuna_47,27,Peña,378,1631,1266,2203,915,811,2,1,0,36,36,25272,Lluvioso
+706,Valparaíso,Comuna_39,59,Peña,3386,782,471,2980,16,1416,5,0,0,12,27,23170,Soleado
+707,Araucanía,Comuna_16,23,Evento Municipal,3584,57,1424,288,769,557,0,1,0,2,32,20335,Lluvioso
+708,Coquimbo,Comuna_15,35,Fonda,3082,1838,594,2428,1322,113,3,2,0,10,41,32650,Nublado
+709,Los Lagos,Comuna_49,47,Fonda,712,1839,429,1796,398,432,2,1,0,2,31,36024,Lluvioso
+710,Antofagasta,Comuna_17,45,Evento Municipal,90,1278,326,744,361,358,2,0,1,48,7,22532,Lluvioso
+711,O'Higgins,Comuna_19,41,Evento Municipal,1656,1974,906,712,1634,1467,2,2,0,40,45,11693,Soleado
+712,O'Higgins,Comuna_38,29,Fonda,3085,1369,641,1777,163,1250,4,0,0,20,14,33525,Soleado
+713,Araucanía,Comuna_50,44,Fiesta Privada,893,743,156,2472,501,411,1,1,0,13,13,44862,Soleado
+714,Los Lagos,Comuna_44,21,Peña,3070,1823,1375,630,1225,713,2,0,0,15,27,9926,Nublado
+715,Metropolitana,Comuna_40,38,Ramada,381,1040,1499,2143,1731,79,5,1,0,10,26,25961,Soleado
+716,Los Lagos,Comuna_25,33,Fiesta Privada,2197,1259,48,51,621,247,2,2,0,28,37,7864,Soleado
+717,Biobío,Comuna_43,56,Fiesta Privada,3862,48,1033,1526,1620,984,3,0,0,23,7,41857,Soleado
+718,O'Higgins,Comuna_19,64,Fiesta Privada,802,1701,1382,493,953,202,3,1,0,7,36,9208,Nublado
+719,O'Higgins,Comuna_35,54,Fiesta Privada,739,360,1141,1001,593,844,0,3,0,30,19,21241,Nublado
+720,Los Lagos,Comuna_40,61,Ramada,3102,744,440,1643,678,631,0,0,0,17,6,31194,Nublado
+721,Los Lagos,Comuna_9,48,Fonda,1856,1691,1466,2305,663,173,2,2,0,43,33,14090,Soleado
+722,Antofagasta,Comuna_43,52,Evento Municipal,339,172,1366,1829,847,1284,0,0,0,8,28,22836,Lluvioso
+723,Metropolitana,Comuna_20,55,Fonda,791,468,114,1841,1252,658,0,3,0,39,43,4619,Lluvioso
+724,Araucanía,Comuna_6,49,Peña,3887,810,601,154,1063,1003,3,0,0,0,32,38127,Nublado
+725,Metropolitana,Comuna_33,52,Fiesta Privada,1793,1010,175,230,1067,1385,2,2,0,28,9,49065,Nublado
+726,Metropolitana,Comuna_46,40,Ramada,2558,529,877,513,1755,1058,0,0,0,34,19,16070,Lluvioso
+727,Valparaíso,Comuna_5,23,Ramada,2309,1555,408,1424,1675,986,2,1,0,5,29,13444,Soleado
+728,Valparaíso,Comuna_41,22,Ramada,2965,394,147,1990,881,54,3,1,0,2,37,16450,Soleado
+729,Valparaíso,Comuna_45,37,Fonda,3475,1249,51,2011,119,207,1,3,0,36,12,14254,Lluvioso
+730,Metropolitana,Comuna_12,28,Fiesta Privada,4582,413,473,2850,1593,1147,0,1,1,19,13,15325,Soleado
+731,Biobío,Comuna_8,60,Fonda,138,1258,132,854,1180,950,3,1,0,35,30,48206,Nublado
+732,Los Lagos,Comuna_33,55,Peña,1567,1189,141,2733,1967,522,4,2,0,47,38,34318,Soleado
+733,Biobío,Comuna_44,32,Evento Municipal,4753,50,450,1870,1954,1489,3,1,0,26,25,44687,Soleado
+734,Biobío,Comuna_21,54,Ramada,2997,1182,1140,332,511,760,2,1,0,4,5,36364,Nublado
+735,Antofagasta,Comuna_28,33,Evento Municipal,4774,1469,819,893,197,488,3,0,0,20,25,37226,Soleado
+736,Biobío,Comuna_9,55,Fiesta Privada,1869,505,1333,701,1595,418,2,2,0,49,32,14530,Nublado
+737,Coquimbo,Comuna_30,49,Evento Municipal,1224,980,1434,1595,853,1148,2,0,0,30,44,20913,Soleado
+738,Biobío,Comuna_37,58,Peña,2026,484,820,2120,178,933,2,1,0,43,33,24894,Soleado
+739,Antofagasta,Comuna_22,57,Evento Municipal,1397,1320,514,2541,1417,1105,3,0,0,41,38,25217,Nublado
+740,Araucanía,Comuna_37,48,Peña,195,1492,56,838,1488,579,2,1,0,8,28,32306,Soleado
+741,Antofagasta,Comuna_3,27,Fonda,897,1905,673,615,1600,567,1,0,0,35,8,21969,Soleado
+742,O'Higgins,Comuna_9,36,Evento Municipal,4130,847,834,449,1545,537,0,0,0,24,5,24878,Lluvioso
+743,O'Higgins,Comuna_39,41,Evento Municipal,1211,622,1208,2133,694,923,4,1,0,43,34,23556,Nublado
+744,Coquimbo,Comuna_20,21,Evento Municipal,1379,971,1222,2886,78,5,1,1,0,28,4,11328,Lluvioso
+745,Araucanía,Comuna_45,54,Fiesta Privada,230,1783,594,211,738,156,1,0,0,32,18,13900,Lluvioso
+746,Araucanía,Comuna_43,20,Evento Municipal,2026,1484,1115,1391,241,1368,1,0,0,15,41,11150,Soleado
+747,O'Higgins,Comuna_1,55,Fonda,2736,1497,799,350,616,1004,1,0,0,31,38,38457,Nublado
+748,Antofagasta,Comuna_43,28,Fonda,3142,1172,759,2869,610,725,3,1,0,19,8,23082,Lluvioso
+749,Metropolitana,Comuna_17,42,Fonda,4813,1110,513,2000,903,482,2,2,0,7,30,6913,Nublado
+750,Biobío,Comuna_38,57,Fonda,525,59,262,250,1730,896,3,1,0,12,7,44261,Nublado
+751,Biobío,Comuna_28,50,Evento Municipal,3685,1441,185,1825,1878,880,3,0,0,36,10,26952,Soleado
+752,Valparaíso,Comuna_12,28,Fiesta Privada,4576,1661,974,1447,1581,490,1,0,0,9,13,5024,Nublado
+753,O'Higgins,Comuna_33,43,Fonda,4544,1491,1358,1316,1615,554,2,1,0,36,2,42847,Soleado
+754,Biobío,Comuna_27,56,Evento Municipal,4084,288,1174,1457,673,1287,1,1,0,25,41,3244,Nublado
+755,Araucanía,Comuna_14,33,Fiesta Privada,4513,996,567,1810,826,347,2,0,0,39,21,41504,Lluvioso
+756,Metropolitana,Comuna_8,45,Fonda,1882,318,1402,2835,634,1207,3,1,0,29,16,21426,Lluvioso
+757,Coquimbo,Comuna_12,34,Evento Municipal,1126,1266,1252,1523,208,1450,0,0,0,13,25,8101,Lluvioso
+758,Los Lagos,Comuna_35,20,Peña,3828,1168,703,396,78,857,8,1,0,21,27,2105,Lluvioso
+759,O'Higgins,Comuna_6,26,Fonda,4662,432,632,1034,1060,1026,2,0,0,15,35,17486,Lluvioso
+760,Araucanía,Comuna_33,37,Evento Municipal,3230,515,36,653,238,379,3,2,0,33,44,3051,Soleado
+761,Los Lagos,Comuna_43,37,Peña,2862,444,617,92,528,282,3,0,0,39,31,49439,Nublado
+762,Los Lagos,Comuna_30,63,Fiesta Privada,1910,1460,336,573,607,626,3,2,0,17,29,29628,Nublado
+763,O'Higgins,Comuna_1,56,Ramada,3292,1968,94,2779,106,1392,1,1,0,22,29,5528,Lluvioso
+764,Metropolitana,Comuna_10,30,Evento Municipal,2236,22,635,2062,1281,1167,1,2,0,46,28,35983,Lluvioso
+765,Biobío,Comuna_46,25,Peña,4816,677,1047,421,60,1074,3,1,0,33,40,15330,Soleado
+766,O'Higgins,Comuna_7,61,Evento Municipal,4357,489,1264,2944,712,1036,0,2,0,16,27,14622,Soleado
+767,Antofagasta,Comuna_23,56,Fiesta Privada,4617,681,681,1538,835,408,0,0,0,49,23,12012,Lluvioso
+768,Araucanía,Comuna_14,41,Evento Municipal,731,1787,35,185,672,305,0,3,0,25,35,20126,Lluvioso
+769,Biobío,Comuna_28,32,Fonda,4009,1143,1413,756,1160,497,5,0,0,19,42,22178,Lluvioso
+770,Biobío,Comuna_21,59,Fonda,2542,512,783,952,811,44,3,2,0,47,47,21019,Nublado
+771,Los Lagos,Comuna_18,43,Peña,3727,1841,1398,658,1896,172,1,1,0,34,2,7792,Soleado
+772,O'Higgins,Comuna_46,60,Fiesta Privada,1487,1898,1249,2087,648,636,2,0,0,15,44,29225,Lluvioso
+773,Coquimbo,Comuna_30,41,Ramada,1216,1919,880,2905,191,820,3,1,1,3,7,35501,Soleado
+774,Antofagasta,Comuna_47,27,Fiesta Privada,1904,1900,682,1865,1465,1313,0,2,0,3,17,12762,Soleado
+775,Valparaíso,Comuna_5,47,Evento Municipal,2740,1670,627,2853,1612,441,1,2,0,26,45,17658,Lluvioso
+776,Araucanía,Comuna_24,32,Peña,901,1870,951,2150,1538,243,4,0,0,4,18,14065,Soleado
+777,Araucanía,Comuna_29,33,Evento Municipal,3042,1185,249,1647,599,797,2,0,0,9,32,25716,Lluvioso
+778,O'Higgins,Comuna_42,30,Ramada,712,403,1452,1665,1618,852,5,0,0,8,9,6526,Nublado
+779,Biobío,Comuna_36,42,Ramada,2160,387,1293,1276,1902,1210,3,4,0,10,7,17352,Nublado
+780,Araucanía,Comuna_16,51,Fiesta Privada,2114,1670,964,603,168,545,1,1,0,12,5,27992,Lluvioso
+781,Araucanía,Comuna_47,49,Evento Municipal,1192,731,716,2779,1009,1203,2,3,0,14,38,28953,Soleado
+782,Metropolitana,Comuna_11,19,Fiesta Privada,1745,57,443,2663,1278,156,3,2,0,3,15,21424,Soleado
+783,Antofagasta,Comuna_4,43,Ramada,3804,919,1128,1355,937,24,0,1,0,25,24,32019,Lluvioso
+784,Biobío,Comuna_42,39,Ramada,2360,1613,154,2996,828,1151,0,1,0,48,9,12018,Nublado
+785,Los Lagos,Comuna_1,21,Fiesta Privada,250,1404,1273,739,680,871,4,1,0,29,37,11752,Soleado
+786,Metropolitana,Comuna_17,60,Ramada,3584,1118,1368,1748,836,518,3,1,0,7,8,26613,Soleado
+787,Coquimbo,Comuna_27,43,Fiesta Privada,367,1558,1397,213,975,476,4,0,0,14,19,28070,Soleado
+788,O'Higgins,Comuna_41,38,Fonda,3646,1606,845,526,933,698,6,0,0,20,45,39956,Soleado
+789,O'Higgins,Comuna_7,38,Ramada,3435,594,1267,858,1244,1148,4,0,0,7,10,34515,Soleado
+790,Biobío,Comuna_19,60,Ramada,2655,701,455,1509,461,1296,0,1,0,19,20,25793,Lluvioso
+791,Los Lagos,Comuna_30,37,Fiesta Privada,186,77,759,1029,262,1262,2,1,0,7,22,17629,Nublado
+792,Los Lagos,Comuna_33,54,Peña,3531,1027,781,1708,520,105,1,5,0,9,7,3317,Nublado
+793,Antofagasta,Comuna_35,51,Fonda,2471,525,479,2243,1009,773,3,1,0,2,14,38293,Lluvioso
+794,Coquimbo,Comuna_23,34,Fiesta Privada,2397,340,1031,1228,1443,318,3,3,0,32,10,13065,Soleado
+795,Los Lagos,Comuna_17,43,Evento Municipal,2623,701,564,2468,723,261,1,0,0,46,30,30144,Lluvioso
+796,Los Lagos,Comuna_33,23,Ramada,1188,1690,1103,2052,577,995,0,1,0,8,16,26481,Nublado
+797,Valparaíso,Comuna_34,51,Evento Municipal,2325,1401,782,2878,450,854,1,0,0,34,9,38305,Nublado
+798,Coquimbo,Comuna_36,56,Peña,2797,1871,60,1373,854,1490,4,0,0,36,11,47339,Nublado
+799,Los Lagos,Comuna_25,64,Fonda,2548,327,1092,1533,1485,503,1,1,0,42,31,36595,Lluvioso
+800,Los Lagos,Comuna_8,29,Peña,484,1519,1273,2944,1028,1164,1,5,0,11,13,12403,Lluvioso
+801,Biobío,Comuna_10,55,Ramada,4868,1028,267,67,1543,280,3,1,0,21,46,14387,Soleado
+802,O'Higgins,Comuna_37,47,Ramada,3267,1036,952,67,1861,761,1,2,0,28,5,5271,Nublado
+803,Los Lagos,Comuna_46,27,Fonda,2550,1559,1494,1041,1939,525,0,2,0,47,25,31689,Nublado
+804,Metropolitana,Comuna_17,64,Fonda,707,316,83,2960,507,995,6,1,0,48,21,30024,Soleado
+805,Los Lagos,Comuna_17,58,Evento Municipal,1080,1221,527,1243,1255,690,2,1,0,23,32,40715,Soleado
+806,Coquimbo,Comuna_21,34,Peña,339,1921,730,2638,572,175,2,2,0,15,38,21933,Soleado
+807,Antofagasta,Comuna_5,44,Fonda,1648,515,1299,2885,889,987,0,1,0,44,20,15511,Lluvioso
+808,Los Lagos,Comuna_17,21,Fonda,2411,1663,643,566,1699,593,2,3,0,38,47,41753,Lluvioso
+809,Metropolitana,Comuna_34,43,Evento Municipal,2440,253,772,1229,468,393,2,1,1,0,7,28323,Soleado
+810,O'Higgins,Comuna_41,42,Peña,3782,600,1217,235,1233,288,1,0,0,41,10,43481,Nublado
+811,Metropolitana,Comuna_19,54,Fonda,3434,1960,142,2664,1146,887,2,1,0,32,41,11492,Lluvioso
+812,Los Lagos,Comuna_39,21,Fonda,1557,110,771,892,611,566,2,0,0,14,45,31252,Nublado
+813,Valparaíso,Comuna_11,46,Evento Municipal,653,64,829,1376,1164,1169,0,0,0,26,24,25517,Soleado
+814,Antofagasta,Comuna_23,22,Fiesta Privada,4445,553,881,183,1467,1388,2,1,0,28,28,12378,Nublado
+815,Metropolitana,Comuna_34,40,Evento Municipal,2341,1343,195,1439,1140,1101,2,1,0,46,34,32463,Lluvioso
+816,Metropolitana,Comuna_14,57,Evento Municipal,2757,1357,477,2475,1822,672,0,0,0,19,14,21969,Soleado
+817,Los Lagos,Comuna_48,52,Evento Municipal,3873,816,369,1449,325,928,3,1,0,19,11,33223,Soleado
+818,Biobío,Comuna_11,49,Fiesta Privada,957,585,938,1514,862,147,2,0,0,39,9,13354,Nublado
+819,Biobío,Comuna_43,22,Peña,4426,755,856,2113,383,544,4,1,0,35,19,20094,Lluvioso
+820,Metropolitana,Comuna_41,38,Fiesta Privada,2270,1865,444,2008,943,977,3,0,0,48,45,15507,Soleado
+821,Valparaíso,Comuna_31,36,Evento Municipal,3535,1910,470,430,1864,188,2,0,0,23,36,44223,Soleado
+822,Araucanía,Comuna_16,33,Evento Municipal,3422,1356,392,688,1371,658,2,1,0,20,18,38901,Lluvioso
+823,Valparaíso,Comuna_39,34,Peña,2959,1527,563,164,1158,583,1,0,0,10,43,18530,Soleado
+824,Coquimbo,Comuna_4,44,Fonda,2264,1287,795,1170,1481,683,2,0,0,19,32,33266,Soleado
+825,Araucanía,Comuna_34,47,Fiesta Privada,1770,1612,610,2656,1973,1217,1,1,0,24,32,5786,Nublado
+826,Araucanía,Comuna_36,20,Peña,3034,1678,652,2290,1145,222,1,0,0,14,30,39940,Lluvioso
+827,Araucanía,Comuna_16,45,Peña,3611,1150,298,2950,1481,475,3,3,0,8,18,47029,Nublado
+828,Los Lagos,Comuna_44,18,Evento Municipal,2644,1142,319,2661,936,367,1,3,0,17,10,29398,Soleado
+829,Biobío,Comuna_38,51,Fiesta Privada,2900,400,320,2048,1114,1349,3,1,0,9,23,45919,Soleado
+830,Araucanía,Comuna_28,19,Peña,3361,1689,1351,1424,1439,1306,4,3,0,43,13,48663,Nublado
+831,Araucanía,Comuna_44,53,Evento Municipal,1187,306,568,618,813,1046,0,0,0,26,43,8190,Soleado
+832,Araucanía,Comuna_13,42,Fiesta Privada,4884,1908,1445,336,1522,341,2,3,0,12,36,5180,Nublado
+833,Antofagasta,Comuna_4,19,Ramada,2359,304,1040,2421,688,396,2,0,0,24,12,9611,Soleado
+834,Biobío,Comuna_12,54,Evento Municipal,660,876,834,1807,536,305,1,0,0,26,2,22288,Lluvioso
+835,Los Lagos,Comuna_10,32,Fiesta Privada,4729,390,742,82,619,397,0,1,0,33,18,16470,Lluvioso
+836,Biobío,Comuna_2,22,Ramada,530,875,1311,1872,1469,1474,1,0,0,0,32,41626,Nublado
+837,Metropolitana,Comuna_33,46,Fonda,989,1955,1417,774,8,468,3,1,0,46,43,9218,Lluvioso
+838,Antofagasta,Comuna_38,45,Ramada,4744,743,1416,52,1242,733,4,2,0,30,9,13632,Nublado
+839,Antofagasta,Comuna_3,26,Fiesta Privada,808,1783,868,1201,1865,1306,3,0,0,10,44,10257,Soleado
+840,Valparaíso,Comuna_33,39,Ramada,4104,530,913,2910,1622,1370,1,1,0,19,46,23933,Soleado
+841,O'Higgins,Comuna_22,49,Ramada,397,107,320,56,1754,1437,0,0,0,31,43,25084,Lluvioso
+842,Metropolitana,Comuna_16,19,Fiesta Privada,4032,451,1014,874,1824,1435,1,3,0,34,38,25135,Nublado
+843,Los Lagos,Comuna_46,42,Peña,4192,1370,879,198,525,1361,3,1,0,35,34,3896,Lluvioso
+844,Metropolitana,Comuna_42,29,Fiesta Privada,1526,1501,590,136,197,676,0,2,0,8,13,24396,Lluvioso
+845,Valparaíso,Comuna_30,20,Evento Municipal,4926,821,900,2488,318,605,3,0,0,32,19,19864,Nublado
+846,Biobío,Comuna_15,35,Evento Municipal,3225,1868,1497,2679,1643,781,4,0,0,10,26,48343,Nublado
+847,Valparaíso,Comuna_44,44,Ramada,3544,659,1333,170,1989,1225,2,1,0,41,35,31538,Nublado
+848,Metropolitana,Comuna_19,47,Fonda,2686,1721,1169,2489,789,1303,1,0,0,4,27,33482,Lluvioso
+849,Coquimbo,Comuna_45,34,Evento Municipal,1733,423,1416,2247,95,1056,1,2,0,23,37,2154,Soleado
+850,Biobío,Comuna_45,56,Peña,4098,1428,1320,1931,1396,206,3,0,0,39,37,42157,Soleado
+851,Valparaíso,Comuna_15,30,Ramada,3704,453,1303,2085,278,736,2,0,0,14,25,4578,Lluvioso
+852,Biobío,Comuna_42,46,Fonda,167,1639,16,279,669,930,3,0,0,40,41,7527,Nublado
+853,Biobío,Comuna_39,38,Evento Municipal,3097,477,852,625,513,572,5,0,0,46,46,12479,Soleado
+854,Metropolitana,Comuna_18,25,Fonda,699,607,1293,1212,1434,718,2,0,0,33,4,10746,Soleado
+855,Los Lagos,Comuna_34,26,Fiesta Privada,4896,1672,350,504,1592,1337,3,1,0,20,41,22836,Soleado
+856,Coquimbo,Comuna_24,28,Evento Municipal,2336,1469,1332,781,389,736,3,2,1,43,45,26384,Soleado
+857,Valparaíso,Comuna_44,20,Evento Municipal,4005,1643,1266,1230,16,993,2,2,0,15,32,25320,Soleado
+858,Valparaíso,Comuna_38,47,Fonda,418,1407,945,1170,845,957,4,3,0,36,32,19478,Soleado
+859,Valparaíso,Comuna_29,41,Evento Municipal,4534,1779,244,2977,1779,1132,1,1,0,39,2,42052,Lluvioso
+860,Coquimbo,Comuna_40,60,Ramada,4907,1347,803,785,275,588,1,0,0,48,4,5756,Soleado
+861,Antofagasta,Comuna_20,51,Evento Municipal,3046,1461,726,2528,1859,920,3,1,0,46,28,11208,Nublado
+862,Antofagasta,Comuna_43,47,Ramada,2480,900,1129,1178,1844,1275,3,1,0,13,9,26737,Soleado
+863,Araucanía,Comuna_5,36,Fonda,2863,64,113,2952,1302,1248,1,1,0,26,35,4771,Soleado
+864,Metropolitana,Comuna_29,26,Evento Municipal,1147,1110,871,2708,1984,791,2,2,0,5,9,47433,Soleado
+865,Biobío,Comuna_22,36,Evento Municipal,4754,1046,141,2441,1168,766,2,1,0,12,43,34765,Soleado
+866,Valparaíso,Comuna_34,27,Fiesta Privada,2625,1670,1360,1374,892,1239,4,1,0,33,13,27852,Nublado
+867,Los Lagos,Comuna_48,63,Ramada,3013,93,457,222,533,1432,1,5,0,31,36,29285,Nublado
+868,Araucanía,Comuna_5,44,Fiesta Privada,1402,1121,111,2445,1749,1408,3,1,0,4,10,9751,Lluvioso
+869,Araucanía,Comuna_7,26,Ramada,605,1440,1464,2888,11,888,3,0,0,27,20,6947,Nublado
+870,Los Lagos,Comuna_36,20,Fonda,1300,120,601,2493,540,95,2,1,0,38,8,35792,Nublado
+871,Valparaíso,Comuna_22,33,Evento Municipal,1091,272,617,1832,1099,1474,2,1,0,19,41,33665,Soleado
+872,Coquimbo,Comuna_36,23,Peña,4388,309,890,1290,987,1300,3,2,0,6,33,31098,Nublado
+873,Araucanía,Comuna_6,18,Fonda,386,1700,1349,807,279,190,1,1,0,2,47,30787,Soleado
+874,Coquimbo,Comuna_4,35,Ramada,3150,1103,192,1801,52,671,2,1,0,2,17,12657,Nublado
+875,Araucanía,Comuna_49,40,Evento Municipal,4738,1859,489,2035,1179,556,1,3,0,2,12,31505,Lluvioso
+876,Los Lagos,Comuna_27,26,Ramada,1158,1519,1199,392,1714,38,2,2,0,34,39,36391,Nublado
+877,Los Lagos,Comuna_38,26,Fiesta Privada,2745,134,1206,121,318,428,1,1,0,21,27,45121,Lluvioso
+878,Valparaíso,Comuna_49,49,Fiesta Privada,2585,836,84,700,1657,10,1,1,0,47,31,34912,Lluvioso
+879,Coquimbo,Comuna_49,26,Evento Municipal,1623,115,1039,2764,219,618,5,0,0,1,30,48624,Lluvioso
+880,O'Higgins,Comuna_5,44,Peña,117,1643,818,863,291,745,2,1,1,40,37,7020,Lluvioso
+881,Los Lagos,Comuna_14,48,Ramada,2007,1319,1192,262,91,993,2,0,0,27,38,37994,Soleado
+882,O'Higgins,Comuna_37,58,Fiesta Privada,4103,758,628,230,1957,641,5,3,0,15,45,15654,Nublado
+883,O'Higgins,Comuna_46,56,Fiesta Privada,3345,1708,399,340,569,1024,3,1,0,16,16,7287,Soleado
+884,Araucanía,Comuna_19,35,Fiesta Privada,1099,1636,635,873,1066,387,2,0,0,19,4,22181,Nublado
+885,Antofagasta,Comuna_17,58,Fonda,1822,1776,738,2788,1199,828,2,1,0,2,26,12570,Soleado
+886,O'Higgins,Comuna_17,46,Fonda,3472,1619,611,666,1572,1204,2,1,0,5,32,14409,Lluvioso
+887,Coquimbo,Comuna_17,57,Ramada,319,1809,64,1877,1031,1139,2,1,0,31,29,19043,Nublado
+888,Coquimbo,Comuna_28,24,Ramada,4873,362,1213,2629,1229,560,3,0,0,49,21,10944,Nublado
+889,Metropolitana,Comuna_44,41,Evento Municipal,2199,1620,622,2527,1008,1460,5,2,0,3,30,10159,Soleado
+890,Biobío,Comuna_17,47,Peña,2738,997,78,2723,1559,494,0,0,0,6,38,18491,Nublado
+891,Araucanía,Comuna_18,55,Ramada,1177,1035,438,2822,1262,723,1,0,0,0,30,12540,Soleado
+892,Araucanía,Comuna_2,25,Peña,3583,223,849,2855,1805,1428,0,2,0,24,9,18711,Lluvioso
+893,Metropolitana,Comuna_18,20,Evento Municipal,1648,1772,1049,827,1290,269,2,0,0,29,21,47617,Lluvioso
+894,Los Lagos,Comuna_15,54,Ramada,173,1492,1073,2208,299,762,1,0,0,10,40,27034,Lluvioso
+895,O'Higgins,Comuna_29,54,Fonda,2984,459,1437,1841,448,966,0,0,0,12,45,45527,Lluvioso
+896,Coquimbo,Comuna_10,58,Fonda,3442,836,754,2850,1757,1451,1,4,0,31,44,2968,Lluvioso
+897,Coquimbo,Comuna_14,52,Fonda,3543,733,1071,1732,1061,276,4,0,1,12,38,39715,Nublado
+898,Antofagasta,Comuna_50,51,Ramada,504,1285,1469,1784,993,798,1,1,0,14,19,12944,Lluvioso
+899,Coquimbo,Comuna_1,34,Evento Municipal,1137,1047,217,1829,228,298,0,0,0,20,44,9415,Lluvioso
+900,O'Higgins,Comuna_16,47,Fiesta Privada,1217,465,366,1794,1368,1240,1,1,0,1,39,9246,Lluvioso
+901,Los Lagos,Comuna_15,64,Ramada,3734,666,1165,215,1461,1291,1,2,0,15,35,7714,Lluvioso
+902,Metropolitana,Comuna_22,57,Fiesta Privada,1729,803,1200,2873,1816,123,3,0,0,14,44,49620,Lluvioso
+903,Metropolitana,Comuna_46,57,Fonda,808,1150,246,1855,1723,419,1,3,0,0,16,33770,Soleado
+904,Valparaíso,Comuna_19,54,Fonda,4773,1877,1240,2923,1254,445,2,1,0,13,35,44378,Soleado
+905,O'Higgins,Comuna_10,29,Fiesta Privada,296,1999,698,1378,1000,931,0,0,0,37,2,42970,Lluvioso
+906,Valparaíso,Comuna_10,34,Evento Municipal,938,1383,1427,2964,1693,210,3,0,0,2,32,44178,Lluvioso
+907,O'Higgins,Comuna_50,38,Evento Municipal,987,1335,157,498,649,840,0,3,0,49,40,43595,Nublado
+908,Valparaíso,Comuna_15,60,Fonda,1540,1426,52,1224,1405,893,3,0,0,9,27,9354,Lluvioso
+909,O'Higgins,Comuna_18,55,Ramada,4157,1533,719,2838,1278,1377,0,1,0,34,6,21642,Soleado
+910,O'Higgins,Comuna_21,31,Fiesta Privada,2145,1313,1132,1331,349,57,1,0,0,45,37,14120,Soleado
+911,Metropolitana,Comuna_7,54,Peña,4024,1890,482,2706,1482,874,0,0,0,43,40,43642,Nublado
+912,Coquimbo,Comuna_4,50,Evento Municipal,1487,689,901,1521,1252,564,4,1,0,44,20,28788,Soleado
+913,Araucanía,Comuna_12,18,Fiesta Privada,2820,152,1211,1192,157,1426,1,2,0,34,37,35781,Nublado
+914,Coquimbo,Comuna_13,24,Fiesta Privada,3036,1548,569,1121,1339,1251,1,0,0,33,43,32374,Nublado
+915,Araucanía,Comuna_39,23,Evento Municipal,3565,1647,74,891,731,125,1,1,0,20,40,19342,Nublado
+916,O'Higgins,Comuna_5,54,Peña,2146,1135,1417,145,1655,976,2,0,0,15,22,38045,Nublado
+917,Antofagasta,Comuna_43,62,Ramada,2668,1695,1002,1729,1536,1155,5,1,0,49,33,16564,Lluvioso
+918,Araucanía,Comuna_40,30,Evento Municipal,3017,794,1348,685,28,874,3,0,0,38,26,29104,Lluvioso
+919,O'Higgins,Comuna_39,39,Fiesta Privada,608,591,1052,1766,1725,282,3,1,0,41,42,17579,Soleado
+920,Valparaíso,Comuna_28,50,Peña,1779,606,248,2319,1220,1246,2,0,0,3,44,20720,Nublado
+921,Valparaíso,Comuna_4,40,Fiesta Privada,1043,1307,1365,1769,117,647,3,0,0,6,21,8714,Nublado
+922,Antofagasta,Comuna_14,30,Evento Municipal,4951,1520,1377,1378,1136,283,1,2,0,0,22,19195,Soleado
+923,Araucanía,Comuna_10,63,Fiesta Privada,4021,125,405,2874,1628,1051,3,0,1,18,40,10523,Lluvioso
+924,O'Higgins,Comuna_40,38,Peña,2899,1349,504,670,1528,1312,4,0,0,33,32,8210,Lluvioso
+925,Valparaíso,Comuna_2,61,Peña,146,212,728,1632,1603,1190,1,1,0,43,33,47639,Lluvioso
+926,Metropolitana,Comuna_12,53,Evento Municipal,2980,342,872,644,1544,849,1,0,0,32,29,43687,Nublado
+927,Los Lagos,Comuna_44,28,Fonda,3486,1614,273,2214,235,1326,1,1,0,21,29,40704,Soleado
+928,Biobío,Comuna_34,43,Ramada,2786,1801,288,2720,782,1308,1,0,1,19,47,39191,Nublado
+929,Coquimbo,Comuna_2,50,Ramada,4907,650,1166,1612,456,494,2,0,0,23,13,34541,Soleado
+930,Coquimbo,Comuna_14,38,Ramada,1343,965,650,2891,999,1004,1,0,0,18,34,23709,Nublado
+931,Biobío,Comuna_11,49,Fonda,3618,1752,1001,2041,898,1188,2,0,0,26,3,7587,Nublado
+932,Biobío,Comuna_44,59,Evento Municipal,547,252,731,399,1351,535,2,2,0,24,23,18850,Lluvioso
+933,Antofagasta,Comuna_7,33,Peña,4085,682,1421,1267,1405,650,0,0,0,12,13,29260,Nublado
+934,Coquimbo,Comuna_31,45,Ramada,1849,1143,15,1459,1365,1382,1,2,0,0,43,14058,Soleado
+935,Los Lagos,Comuna_27,51,Ramada,3069,653,39,536,1897,1436,2,0,0,49,36,35051,Lluvioso
+936,Araucanía,Comuna_43,38,Fiesta Privada,2153,855,1427,285,1455,1001,1,2,0,19,26,36695,Nublado
+937,Los Lagos,Comuna_15,49,Evento Municipal,2892,171,929,567,1106,888,2,3,0,13,27,41687,Soleado
+938,Metropolitana,Comuna_6,55,Fonda,562,887,1392,2181,240,1035,3,0,0,31,35,9428,Lluvioso
+939,Los Lagos,Comuna_4,56,Ramada,2769,1634,1479,1712,1598,1149,2,1,0,16,46,38175,Lluvioso
+940,Coquimbo,Comuna_36,32,Ramada,1459,1076,131,1359,1848,904,1,2,0,30,22,12773,Soleado
+941,Antofagasta,Comuna_2,21,Evento Municipal,813,677,1305,2846,561,559,0,2,0,42,44,40581,Lluvioso
+942,Valparaíso,Comuna_30,22,Evento Municipal,1525,213,886,2107,633,989,1,0,0,14,30,17150,Nublado
+943,Metropolitana,Comuna_7,19,Fonda,4450,1747,1201,549,303,965,1,0,0,43,34,24844,Lluvioso
+944,Coquimbo,Comuna_22,54,Fiesta Privada,4941,1739,944,65,22,871,3,1,0,41,4,38961,Lluvioso
+945,Biobío,Comuna_12,56,Evento Municipal,4086,706,1180,1537,1896,420,1,1,0,8,26,41309,Lluvioso
+946,O'Higgins,Comuna_49,55,Peña,2129,786,1042,68,884,340,2,0,0,36,47,2611,Nublado
+947,O'Higgins,Comuna_26,41,Evento Municipal,1271,316,1479,2951,754,1316,4,1,0,19,6,47956,Nublado
+948,Coquimbo,Comuna_7,42,Evento Municipal,4132,43,1343,2740,1291,380,2,0,0,2,20,46687,Lluvioso
+949,Biobío,Comuna_15,61,Ramada,968,714,1210,46,1537,118,0,1,0,38,33,8399,Nublado
+950,Antofagasta,Comuna_19,36,Ramada,2783,1464,78,2574,1030,776,0,0,0,39,39,25027,Soleado
+951,Los Lagos,Comuna_37,64,Ramada,1025,698,848,1521,103,248,4,0,0,17,35,22374,Nublado
+952,Antofagasta,Comuna_14,50,Evento Municipal,1057,1787,455,2910,1808,11,2,1,0,9,29,5600,Nublado
+953,Valparaíso,Comuna_40,29,Peña,4394,1904,408,2115,817,1241,4,2,0,12,36,26925,Lluvioso
+954,Biobío,Comuna_48,25,Evento Municipal,2458,444,1383,1365,1408,223,0,1,0,25,5,43945,Nublado
+955,Antofagasta,Comuna_26,44,Fiesta Privada,3536,1465,1359,1184,1175,725,1,3,0,41,3,9403,Nublado
+956,Araucanía,Comuna_30,60,Ramada,354,788,1270,1129,136,399,3,1,0,18,22,23894,Nublado
+957,Metropolitana,Comuna_7,49,Peña,4710,1016,292,1938,1340,1039,2,1,0,4,42,49975,Lluvioso
+958,Los Lagos,Comuna_48,50,Fonda,1885,1729,1410,2881,18,1082,1,1,0,27,11,33714,Lluvioso
+959,Valparaíso,Comuna_31,24,Fonda,3999,1292,1339,1421,501,897,2,1,0,1,36,27289,Lluvioso
+960,Valparaíso,Comuna_49,41,Fonda,4609,355,1286,1469,1808,558,0,1,0,14,46,40208,Lluvioso
+961,Coquimbo,Comuna_29,59,Ramada,2410,894,674,284,783,50,2,2,0,3,10,39814,Soleado
+962,Metropolitana,Comuna_12,21,Fonda,779,658,1105,1470,713,820,0,1,0,17,39,4148,Nublado
+963,Coquimbo,Comuna_26,19,Ramada,3410,1318,1362,200,581,1244,3,0,0,45,9,35961,Soleado
+964,Metropolitana,Comuna_8,30,Fiesta Privada,1568,1313,785,2373,472,980,2,1,0,36,46,27307,Lluvioso
+965,Los Lagos,Comuna_24,52,Fiesta Privada,4790,1657,1078,1262,373,1042,2,1,1,3,43,43957,Soleado
+966,O'Higgins,Comuna_40,46,Evento Municipal,1232,117,375,1687,54,1194,2,1,0,15,42,41043,Soleado
+967,O'Higgins,Comuna_12,49,Fonda,4957,169,17,925,45,547,0,1,0,44,43,45026,Soleado
+968,Los Lagos,Comuna_1,19,Fiesta Privada,4394,901,1019,2519,1842,1333,1,0,0,25,10,33025,Soleado
+969,Coquimbo,Comuna_17,62,Ramada,2010,842,1229,1155,566,332,1,2,0,43,7,19933,Lluvioso
+970,Valparaíso,Comuna_21,57,Fiesta Privada,4506,1016,1064,879,987,122,0,0,0,6,6,35539,Lluvioso
+971,Antofagasta,Comuna_14,29,Fiesta Privada,672,1403,395,1473,850,499,3,1,0,8,36,17498,Lluvioso
+972,Coquimbo,Comuna_23,39,Evento Municipal,891,877,1262,314,649,1324,4,0,0,30,39,23597,Soleado
+973,O'Higgins,Comuna_34,56,Peña,4432,856,392,433,1315,733,0,1,0,10,28,33564,Lluvioso
+974,Coquimbo,Comuna_9,18,Fonda,3468,1778,1487,2031,522,76,1,1,0,15,39,35964,Soleado
+975,Valparaíso,Comuna_10,56,Peña,4176,1243,103,573,882,1400,5,0,0,40,24,16943,Nublado
+976,Antofagasta,Comuna_36,47,Peña,2173,1607,473,163,1780,378,2,0,0,9,44,2396,Soleado
+977,Metropolitana,Comuna_17,25,Fonda,3389,538,625,962,919,140,2,0,1,29,32,32920,Nublado
+978,Araucanía,Comuna_39,35,Fiesta Privada,1418,1181,225,2640,160,1151,2,2,0,32,2,5400,Nublado
+979,Metropolitana,Comuna_10,58,Ramada,2910,1408,448,1611,1160,28,3,0,0,12,29,8837,Lluvioso
+980,O'Higgins,Comuna_1,37,Fiesta Privada,4426,262,894,1149,109,992,4,2,0,25,38,46844,Soleado
+981,Biobío,Comuna_35,24,Evento Municipal,386,1776,869,691,1888,107,2,1,0,3,25,44946,Lluvioso
+982,Araucanía,Comuna_39,20,Fiesta Privada,3466,1398,1398,1550,677,663,0,1,0,45,29,15477,Soleado
+983,Metropolitana,Comuna_5,61,Evento Municipal,3170,1408,648,2333,1037,833,1,1,0,1,31,7636,Soleado
+984,Los Lagos,Comuna_18,52,Evento Municipal,1874,1807,929,2180,517,352,1,1,0,10,20,47514,Lluvioso
+985,Valparaíso,Comuna_27,56,Peña,3322,1774,623,1423,448,598,1,0,0,29,46,38831,Nublado
+986,Biobío,Comuna_3,32,Fiesta Privada,3601,230,863,2568,883,926,0,3,0,2,3,47305,Lluvioso
+987,Antofagasta,Comuna_45,32,Peña,2332,555,1357,2799,1628,190,2,1,0,37,13,28443,Soleado
+988,Biobío,Comuna_33,57,Peña,1814,1890,905,2606,1295,744,4,1,0,33,15,33501,Nublado
+989,Metropolitana,Comuna_17,36,Fiesta Privada,3755,1606,888,1344,1577,1468,1,0,0,38,47,43478,Lluvioso
+990,Metropolitana,Comuna_24,41,Evento Municipal,1022,1325,1439,2991,188,1163,2,0,0,10,35,6469,Lluvioso
+991,O'Higgins,Comuna_40,20,Ramada,1826,968,996,1591,272,1419,1,1,0,29,20,33750,Soleado
+992,Valparaíso,Comuna_15,59,Evento Municipal,3644,341,730,2482,1014,215,1,2,0,7,20,5049,Nublado
+993,Valparaíso,Comuna_11,24,Evento Municipal,3069,1090,690,2599,1322,905,5,3,0,33,27,7627,Soleado
+994,Antofagasta,Comuna_30,39,Fonda,1616,1208,1397,903,121,1471,3,1,0,34,13,8627,Lluvioso
+995,Coquimbo,Comuna_50,60,Evento Municipal,749,1060,942,809,409,763,1,1,0,31,2,47874,Nublado
+996,Antofagasta,Comuna_40,51,Fiesta Privada,1713,413,634,894,1207,951,1,1,0,44,43,44541,Nublado
+997,Los Lagos,Comuna_32,18,Peña,3894,845,632,209,1646,588,1,0,0,30,40,39115,Lluvioso
+998,Metropolitana,Comuna_36,19,Evento Municipal,3460,1841,621,878,779,253,3,1,0,17,29,22153,Soleado
+999,Coquimbo,Comuna_35,61,Fiesta Privada,408,1801,157,2436,1618,1268,2,2,0,36,11,2816,Soleado
+1000,Valparaíso,Comuna_20,64,Peña,2822,1149,663,1872,1121,162,3,0,0,25,44,39179,Soleado
+1001,Antofagasta,Comuna_35,53,Ramada,4154,1786,1067,2214,1826,422,3,0,0,36,11,23259,Nublado
+1002,Los Lagos,Comuna_6,19,Peña,758,1418,104,2042,1288,833,2,1,0,40,47,39267,Lluvioso
+1003,Los Lagos,Comuna_17,34,Evento Municipal,4549,1533,967,2486,1877,23,0,0,0,29,45,40841,Nublado
+1004,Coquimbo,Comuna_6,51,Evento Municipal,2026,1488,516,2641,497,566,3,0,0,0,23,34587,Nublado
+1005,Biobío,Comuna_42,50,Evento Municipal,2177,1162,750,2072,305,1384,3,0,0,9,2,21645,Lluvioso
+1006,Antofagasta,Comuna_36,22,Fiesta Privada,2683,1800,1284,1496,1492,132,2,2,0,6,25,45225,Nublado
+1007,Metropolitana,Comuna_23,40,Fonda,356,1846,524,1852,1499,1216,2,0,0,22,9,47055,Lluvioso
+1008,Metropolitana,Comuna_5,25,Evento Municipal,2950,1169,841,482,641,609,2,3,0,16,7,32464,Nublado
+1009,Valparaíso,Comuna_17,57,Fonda,3998,609,65,2098,1133,1025,3,1,0,19,22,44350,Lluvioso
+1010,Biobío,Comuna_29,26,Ramada,437,1759,416,2950,971,1440,3,0,0,20,47,28884,Soleado
+1011,O'Higgins,Comuna_14,63,Peña,2326,1618,171,2897,902,848,1,1,1,44,18,33904,Soleado
+1012,Araucanía,Comuna_1,57,Fiesta Privada,2557,635,865,558,97,292,1,3,0,24,23,3970,Nublado
+1013,Coquimbo,Comuna_49,48,Fonda,586,536,596,2272,1594,914,2,1,0,15,2,23172,Soleado
+1014,Los Lagos,Comuna_40,31,Fiesta Privada,482,1169,348,1521,458,277,1,1,0,0,19,23093,Nublado
+1015,Los Lagos,Comuna_23,26,Peña,2589,1663,1113,684,669,389,1,0,0,49,26,14573,Nublado
+1016,Biobío,Comuna_5,24,Ramada,2289,321,933,1801,834,736,2,1,0,7,31,35554,Nublado
+1017,Antofagasta,Comuna_20,32,Evento Municipal,4568,1541,723,1207,1002,1060,2,1,1,49,2,36683,Nublado
+1018,Antofagasta,Comuna_25,58,Evento Municipal,1831,685,1136,2149,1240,241,0,2,0,33,32,6448,Lluvioso
+1019,Biobío,Comuna_31,60,Fonda,4451,209,171,1490,274,1180,3,0,0,13,31,33895,Nublado
+1020,Coquimbo,Comuna_1,45,Fonda,2924,1023,616,2234,846,451,3,1,0,23,27,48884,Soleado
+1021,Coquimbo,Comuna_29,19,Fiesta Privada,226,332,651,1051,608,130,2,1,0,48,21,24882,Lluvioso
+1022,Valparaíso,Comuna_34,31,Ramada,416,610,1296,1202,1891,378,1,2,0,28,30,45481,Nublado
+1023,Los Lagos,Comuna_49,29,Fiesta Privada,687,1480,519,962,417,401,3,0,0,7,9,31898,Nublado
+1024,Valparaíso,Comuna_44,53,Fiesta Privada,847,1648,935,2284,1344,61,2,0,0,48,2,38470,Nublado
+1025,Biobío,Comuna_14,53,Peña,1130,1434,1174,364,1559,487,2,0,1,13,41,5948,Nublado
+1026,Coquimbo,Comuna_35,28,Ramada,4857,1506,242,1604,1727,1222,0,1,0,24,26,23464,Soleado
+1027,O'Higgins,Comuna_25,22,Peña,501,842,1203,2670,1610,253,2,2,0,31,28,9469,Soleado
+1028,O'Higgins,Comuna_9,52,Fonda,3415,1671,1087,1175,342,1387,0,0,0,16,29,2188,Soleado
+1029,O'Higgins,Comuna_20,33,Ramada,68,372,1203,1734,24,118,1,1,0,37,15,25402,Lluvioso
+1030,Araucanía,Comuna_39,44,Evento Municipal,4074,411,343,1440,875,84,3,0,0,32,40,46533,Soleado
+1031,Metropolitana,Comuna_3,30,Fiesta Privada,1548,1712,1276,1598,903,1137,1,3,0,16,23,5047,Soleado
+1032,Araucanía,Comuna_44,59,Fonda,4436,115,851,490,477,600,1,1,0,35,36,45755,Soleado
+1033,Los Lagos,Comuna_44,57,Evento Municipal,1451,1224,595,822,162,772,3,2,0,20,7,36646,Nublado
+1034,Biobío,Comuna_31,29,Evento Municipal,4191,1622,1023,2490,1288,1431,0,0,0,38,22,12927,Nublado
+1035,Coquimbo,Comuna_31,31,Fiesta Privada,3723,1281,210,207,1003,87,2,0,0,33,3,3220,Lluvioso
+1036,Araucanía,Comuna_17,42,Ramada,4792,567,374,2359,1386,24,3,1,0,6,47,22876,Soleado
+1037,Metropolitana,Comuna_46,35,Evento Municipal,340,318,557,1248,1143,417,4,2,0,28,24,16105,Nublado
+1038,Coquimbo,Comuna_5,33,Fiesta Privada,4758,656,188,2382,863,1464,3,3,0,30,40,7724,Soleado
+1039,Coquimbo,Comuna_2,22,Fonda,363,1905,1495,2947,136,946,1,0,0,4,16,28594,Nublado
+1040,Coquimbo,Comuna_27,22,Ramada,1038,344,367,1279,252,1139,2,0,0,27,15,8770,Lluvioso
+1041,Araucanía,Comuna_31,47,Fonda,4076,546,523,2733,1067,49,2,0,0,37,2,19116,Nublado
+1042,Araucanía,Comuna_32,57,Peña,1889,1165,1028,1826,613,292,2,1,0,35,37,41663,Soleado
+1043,Antofagasta,Comuna_50,26,Peña,2902,1379,1417,635,508,299,0,1,0,29,42,7588,Soleado
+1044,Metropolitana,Comuna_6,51,Evento Municipal,4481,320,479,2346,59,1336,3,1,0,8,44,43368,Nublado
+1045,O'Higgins,Comuna_35,19,Ramada,2898,1866,267,2701,417,361,4,1,0,5,44,2730,Lluvioso
+1046,Los Lagos,Comuna_19,22,Fiesta Privada,1420,1272,818,2826,628,1370,0,0,0,48,37,18834,Nublado
+1047,Valparaíso,Comuna_25,37,Ramada,742,1401,1318,1447,513,230,2,2,0,22,46,5449,Soleado
+1048,Los Lagos,Comuna_43,31,Fiesta Privada,1693,577,1142,1788,1057,567,2,1,0,43,20,2747,Lluvioso
+1049,O'Higgins,Comuna_11,59,Evento Municipal,2446,80,1243,729,597,675,2,1,0,1,45,30955,Lluvioso
+1050,Los Lagos,Comuna_50,64,Evento Municipal,1791,1110,551,1764,342,1480,1,0,0,21,46,40603,Lluvioso
+1051,Biobío,Comuna_48,39,Fiesta Privada,2453,879,1431,2101,977,337,1,0,0,32,36,16325,Nublado
+1052,Valparaíso,Comuna_29,24,Ramada,4661,1214,223,1092,437,418,1,4,0,17,27,14000,Lluvioso
+1053,Araucanía,Comuna_11,63,Fiesta Privada,3654,171,1019,18,1384,982,1,1,0,22,25,29098,Soleado
+1054,Valparaíso,Comuna_20,38,Fonda,4059,414,1398,1452,343,23,0,1,0,4,27,39736,Lluvioso
+1055,Coquimbo,Comuna_41,35,Peña,4142,507,1349,641,784,703,4,3,0,22,41,29908,Nublado
+1056,Araucanía,Comuna_35,27,Peña,2857,245,267,596,1043,283,1,0,0,5,24,13269,Nublado
+1057,Los Lagos,Comuna_4,19,Fiesta Privada,4612,170,73,490,757,819,3,3,0,6,2,21330,Nublado
+1058,Valparaíso,Comuna_38,29,Ramada,3215,109,476,1540,102,244,1,2,0,7,24,14279,Nublado
+1059,Metropolitana,Comuna_43,26,Evento Municipal,4938,804,1076,2243,928,857,4,2,0,33,3,27313,Lluvioso
+1060,O'Higgins,Comuna_26,46,Fonda,4148,1940,1239,665,1260,1437,3,0,0,13,24,24966,Soleado
+1061,Araucanía,Comuna_3,33,Peña,2104,612,1378,314,1577,649,2,2,0,32,13,14046,Soleado
+1062,Metropolitana,Comuna_28,38,Ramada,3093,381,1018,646,1680,673,2,0,0,10,4,5272,Lluvioso
+1063,Valparaíso,Comuna_4,55,Fonda,2848,857,240,2807,831,198,3,1,0,25,16,2078,Nublado
+1064,Biobío,Comuna_40,18,Fonda,3101,1259,82,2050,1300,687,1,1,0,5,22,27797,Lluvioso
+1065,Antofagasta,Comuna_46,53,Fiesta Privada,2508,1819,248,1477,1708,85,0,1,0,25,11,34586,Nublado
+1066,Araucanía,Comuna_50,48,Fiesta Privada,2810,955,1249,2199,1234,386,4,0,1,19,33,29541,Soleado
+1067,O'Higgins,Comuna_7,22,Peña,1490,1908,1141,905,1945,515,4,2,0,11,36,5895,Nublado
+1068,Araucanía,Comuna_18,47,Evento Municipal,3000,338,604,1218,259,1271,1,1,0,0,35,15835,Nublado
+1069,Metropolitana,Comuna_13,47,Peña,173,1701,58,776,1691,969,1,0,0,0,37,41004,Lluvioso
+1070,Coquimbo,Comuna_4,52,Evento Municipal,3966,1320,457,945,809,89,2,0,0,40,2,18230,Lluvioso
+1071,Metropolitana,Comuna_35,44,Peña,3317,1554,1425,712,1695,251,0,0,0,19,27,37281,Lluvioso
+1072,Araucanía,Comuna_49,27,Fiesta Privada,1273,515,479,2216,1338,299,1,0,0,5,44,30245,Soleado
+1073,Valparaíso,Comuna_19,56,Fonda,4669,1405,1349,780,68,484,3,0,0,2,42,47094,Nublado
+1074,Araucanía,Comuna_11,34,Fiesta Privada,3254,1854,1237,2159,6,91,3,1,0,45,35,2055,Nublado
+1075,O'Higgins,Comuna_33,33,Peña,348,710,1215,1700,1441,1145,2,0,0,8,37,29472,Lluvioso
+1076,Araucanía,Comuna_4,54,Fiesta Privada,4150,1422,1003,1885,1947,625,4,0,0,1,47,7672,Lluvioso
+1077,Araucanía,Comuna_24,48,Peña,549,1079,1140,1469,662,177,0,1,0,34,41,28552,Lluvioso
+1078,Araucanía,Comuna_28,27,Peña,3037,1523,960,1995,549,1065,2,0,0,13,40,42722,Soleado
+1079,O'Higgins,Comuna_43,55,Peña,302,1593,677,1648,1782,848,3,2,0,36,28,38588,Lluvioso
+1080,Biobío,Comuna_32,23,Fonda,3440,1217,640,2281,374,972,2,0,0,34,43,18742,Soleado
+1081,Los Lagos,Comuna_46,39,Fonda,4109,863,178,1991,855,943,2,1,0,11,12,28643,Soleado
+1082,Antofagasta,Comuna_24,56,Peña,951,996,981,1535,1552,282,1,0,0,32,35,47766,Lluvioso
+1083,Antofagasta,Comuna_48,55,Fiesta Privada,4017,1135,1040,611,480,466,2,1,0,1,43,46830,Nublado
+1084,Valparaíso,Comuna_4,41,Peña,425,1115,78,162,1734,1479,2,0,0,30,20,40036,Soleado
+1085,Biobío,Comuna_49,60,Evento Municipal,3538,1126,687,1243,1768,435,2,1,0,14,37,8646,Nublado
+1086,Valparaíso,Comuna_15,41,Ramada,340,1801,260,970,1418,916,3,3,0,14,4,10020,Lluvioso
+1087,Araucanía,Comuna_44,21,Fonda,3298,1225,748,2574,1875,832,0,0,0,0,33,30343,Soleado
+1088,Metropolitana,Comuna_25,40,Ramada,1192,424,235,478,1084,664,2,2,0,35,4,30858,Lluvioso
+1089,Valparaíso,Comuna_43,62,Evento Municipal,1579,174,1194,2325,198,655,2,1,0,35,5,19379,Lluvioso
+1090,Araucanía,Comuna_23,26,Ramada,1335,200,1161,523,463,1073,2,0,0,0,27,47264,Nublado
+1091,Coquimbo,Comuna_12,53,Fonda,1078,1185,306,896,1582,1005,3,4,0,39,23,34920,Nublado
+1092,Araucanía,Comuna_5,35,Fiesta Privada,3642,1726,90,1437,657,1074,4,0,0,26,37,40267,Soleado
+1093,Araucanía,Comuna_30,23,Ramada,3507,1651,1312,540,1879,1460,2,0,0,16,41,23934,Soleado
+1094,Araucanía,Comuna_11,50,Ramada,1921,44,1144,1353,1306,313,2,3,0,21,40,45608,Soleado
+1095,Araucanía,Comuna_3,18,Evento Municipal,3717,1698,1463,2828,1424,793,2,1,0,29,36,14283,Nublado
+1096,O'Higgins,Comuna_31,44,Fiesta Privada,719,52,1445,832,1499,922,1,1,0,42,34,6659,Soleado
+1097,O'Higgins,Comuna_22,46,Fiesta Privada,2921,1655,1317,2047,342,560,3,0,0,25,43,18362,Nublado
+1098,Coquimbo,Comuna_29,64,Fiesta Privada,2233,483,212,1552,1339,1242,0,1,0,41,9,34843,Lluvioso
+1099,Los Lagos,Comuna_4,38,Fonda,1821,625,1223,2941,1514,1224,1,1,0,30,12,30206,Nublado
+1100,O'Higgins,Comuna_12,45,Ramada,4207,1213,706,2464,1011,168,1,0,0,20,30,48535,Nublado
+1101,Araucanía,Comuna_12,20,Evento Municipal,4628,167,870,1297,733,89,1,1,0,30,3,2368,Lluvioso
+1102,O'Higgins,Comuna_46,52,Ramada,3825,1407,1409,2615,1572,858,0,0,1,3,25,17774,Nublado
+1103,Metropolitana,Comuna_49,38,Fiesta Privada,3159,597,447,2533,157,936,3,0,0,30,13,2291,Lluvioso
+1104,Coquimbo,Comuna_24,41,Peña,516,1021,78,2224,1344,841,2,0,0,23,39,13838,Soleado
+1105,Metropolitana,Comuna_31,21,Peña,3129,1690,381,2571,1559,560,1,0,0,4,23,45898,Nublado
+1106,Araucanía,Comuna_5,56,Peña,3124,1335,1063,938,54,1315,3,0,0,32,5,45402,Soleado
+1107,Los Lagos,Comuna_21,18,Evento Municipal,2138,370,326,227,138,341,3,0,0,33,18,27849,Soleado
+1108,Los Lagos,Comuna_19,64,Ramada,2740,1940,826,2594,1548,487,1,1,0,7,46,12891,Lluvioso
+1109,Metropolitana,Comuna_49,55,Evento Municipal,1114,1507,491,898,1262,915,4,2,0,24,38,13051,Nublado
+1110,Antofagasta,Comuna_8,48,Fiesta Privada,1213,1864,1437,2783,1461,417,1,0,0,7,34,26710,Lluvioso
+1111,Metropolitana,Comuna_1,48,Evento Municipal,225,249,883,1721,258,1390,3,0,0,20,5,49640,Soleado
+1112,Valparaíso,Comuna_37,33,Ramada,715,1793,926,428,34,1443,4,2,0,49,22,20658,Soleado
+1113,O'Higgins,Comuna_36,43,Fiesta Privada,794,1978,1277,177,1065,164,3,1,0,42,41,21698,Lluvioso
+1114,Biobío,Comuna_4,58,Peña,60,289,650,96,1215,995,0,2,0,21,30,16613,Nublado
+1115,Araucanía,Comuna_28,35,Fiesta Privada,112,956,826,1863,673,1172,2,1,0,20,7,20097,Nublado
+1116,O'Higgins,Comuna_14,56,Fiesta Privada,2597,664,616,2489,1093,23,1,1,0,26,20,36782,Soleado
+1117,Valparaíso,Comuna_31,38,Fiesta Privada,969,1207,662,228,1890,797,2,0,0,41,46,16553,Lluvioso
+1118,Coquimbo,Comuna_14,21,Fiesta Privada,4035,78,877,1347,679,771,1,1,0,4,39,44320,Soleado
+1119,Los Lagos,Comuna_44,25,Evento Municipal,1922,503,461,1479,1390,174,1,0,0,13,26,11488,Nublado
+1120,Los Lagos,Comuna_8,50,Fiesta Privada,4926,1624,769,1849,445,1242,2,1,0,42,29,45391,Soleado
+1121,Metropolitana,Comuna_25,50,Ramada,1402,414,1064,1593,259,532,5,1,0,15,16,13087,Nublado
+1122,Los Lagos,Comuna_23,24,Evento Municipal,4353,1373,793,2276,320,646,1,0,0,22,21,3202,Soleado
+1123,Los Lagos,Comuna_16,29,Fiesta Privada,3075,1952,199,1783,235,309,2,0,0,39,22,28024,Nublado
+1124,Biobío,Comuna_28,46,Evento Municipal,2676,1971,790,616,703,263,1,3,0,42,27,12700,Nublado
+1125,Metropolitana,Comuna_1,47,Fonda,2446,1035,1422,2881,139,10,4,1,0,18,2,36506,Soleado
+1126,Los Lagos,Comuna_42,48,Ramada,4372,74,1249,1490,1805,1289,3,0,0,42,38,32894,Soleado
+1127,Coquimbo,Comuna_50,38,Evento Municipal,261,840,657,1882,1063,1440,4,1,0,10,26,32562,Lluvioso
+1128,Valparaíso,Comuna_33,25,Fonda,4248,1346,312,30,456,732,1,0,0,8,3,7604,Lluvioso
+1129,Araucanía,Comuna_11,32,Ramada,2748,1478,111,2516,1106,468,1,0,0,11,22,40631,Soleado
+1130,Metropolitana,Comuna_46,31,Ramada,4300,122,348,587,908,1242,1,2,0,9,32,24592,Lluvioso
+1131,Los Lagos,Comuna_20,29,Peña,63,672,1122,350,1551,1100,0,1,0,7,11,24875,Nublado
+1132,Los Lagos,Comuna_15,26,Fonda,4021,888,753,2866,1021,1484,1,2,0,28,36,11675,Lluvioso
+1133,Metropolitana,Comuna_12,63,Fiesta Privada,875,515,1471,2336,1338,880,3,2,0,15,22,28712,Lluvioso
+1134,Metropolitana,Comuna_19,27,Fiesta Privada,4819,633,156,295,79,255,1,4,0,7,47,34872,Soleado
+1135,Metropolitana,Comuna_25,44,Evento Municipal,4993,571,169,2560,63,818,1,1,0,5,22,12681,Soleado
+1136,Valparaíso,Comuna_11,53,Fonda,1787,759,1371,2063,838,674,1,2,0,7,29,33488,Soleado
+1137,Antofagasta,Comuna_46,21,Ramada,164,30,1480,567,1708,1396,2,1,0,14,12,45917,Lluvioso
+1138,Araucanía,Comuna_29,55,Ramada,4778,363,311,425,1133,719,2,1,0,16,33,40607,Lluvioso
+1139,Metropolitana,Comuna_20,20,Fonda,4177,1080,691,2104,56,1011,1,2,0,36,46,12809,Soleado
+1140,Los Lagos,Comuna_42,33,Ramada,2911,835,1489,2087,1478,268,2,0,0,26,3,26343,Lluvioso
+1141,Araucanía,Comuna_3,45,Fiesta Privada,922,373,290,2767,592,1421,2,1,0,1,11,8004,Nublado
+1142,Biobío,Comuna_49,52,Fonda,2145,331,555,220,916,19,1,1,0,16,8,24387,Lluvioso
+1143,Valparaíso,Comuna_16,59,Ramada,1599,1324,349,2029,509,860,0,2,0,17,11,18775,Nublado
+1144,Antofagasta,Comuna_46,48,Ramada,327,1312,1151,1707,1175,1130,0,0,0,33,31,46508,Soleado
+1145,O'Higgins,Comuna_39,58,Fiesta Privada,1267,1566,574,1083,1987,1234,0,0,0,23,7,46414,Nublado
+1146,Biobío,Comuna_1,29,Evento Municipal,4409,652,785,2498,240,452,3,0,0,5,27,38081,Nublado
+1147,Antofagasta,Comuna_7,54,Fonda,677,612,912,2842,933,543,4,1,0,39,18,36926,Nublado
+1148,Los Lagos,Comuna_45,57,Ramada,4346,1526,813,1268,1795,539,2,1,0,34,45,3482,Nublado
+1149,Biobío,Comuna_3,39,Evento Municipal,3498,363,1034,126,1436,683,2,2,0,42,28,14928,Lluvioso
+1150,Antofagasta,Comuna_4,39,Peña,4642,1462,1380,2104,1577,915,3,1,0,27,38,11681,Nublado
+1151,Antofagasta,Comuna_9,26,Ramada,3410,250,1303,1192,59,1061,5,3,0,37,15,49500,Soleado
+1152,O'Higgins,Comuna_29,19,Fonda,1263,1111,1088,2308,1753,340,1,0,0,2,26,29146,Soleado
+1153,Biobío,Comuna_1,31,Peña,1974,1561,831,913,646,1244,1,2,0,36,39,48002,Nublado
+1154,Metropolitana,Comuna_10,23,Fonda,2143,1938,739,2533,1612,756,2,0,0,13,13,34618,Nublado
+1155,Biobío,Comuna_28,39,Fiesta Privada,4778,1363,1014,2543,697,653,1,1,0,24,31,48889,Nublado
+1156,Coquimbo,Comuna_29,51,Fiesta Privada,1013,1023,1093,2444,302,328,1,0,1,16,6,15991,Soleado
+1157,Coquimbo,Comuna_8,33,Peña,2103,1566,68,1154,635,1145,1,0,0,32,11,22073,Lluvioso
+1158,Coquimbo,Comuna_35,48,Evento Municipal,4782,457,860,2665,1203,112,0,2,0,10,20,41794,Nublado
+1159,Biobío,Comuna_20,46,Peña,256,1588,1293,2243,122,1346,3,0,0,23,23,32660,Lluvioso
+1160,Antofagasta,Comuna_16,47,Peña,2378,1837,849,1059,666,575,4,0,0,47,39,6289,Soleado
+1161,Antofagasta,Comuna_23,36,Peña,4326,1640,713,91,1169,1098,1,1,0,28,45,8787,Soleado
+1162,Antofagasta,Comuna_39,30,Peña,897,267,851,1538,633,603,3,1,0,18,4,45971,Soleado
+1163,O'Higgins,Comuna_31,41,Ramada,3608,1475,1020,295,1997,1487,2,0,0,3,38,16046,Soleado
+1164,Valparaíso,Comuna_45,57,Fonda,4065,833,870,1250,262,375,1,0,0,7,29,19332,Nublado
+1165,Valparaíso,Comuna_36,62,Fiesta Privada,940,1873,1071,1800,441,933,2,1,0,16,6,37570,Nublado
+1166,Araucanía,Comuna_24,26,Evento Municipal,3807,71,350,111,951,748,2,1,0,14,40,44083,Nublado
+1167,Biobío,Comuna_42,26,Peña,206,1687,912,2238,341,475,0,0,0,35,37,24407,Lluvioso
+1168,Biobío,Comuna_13,19,Ramada,1359,1667,746,888,866,171,1,1,0,38,38,4901,Nublado
+1169,Valparaíso,Comuna_29,34,Ramada,2267,1958,668,2164,1521,405,1,2,0,3,16,42985,Soleado
+1170,Los Lagos,Comuna_20,51,Fiesta Privada,542,710,1105,2603,5,1497,2,1,0,11,21,2868,Nublado
+1171,Los Lagos,Comuna_47,56,Peña,2838,533,1486,1864,516,310,0,1,0,26,26,41415,Soleado
+1172,Valparaíso,Comuna_21,21,Evento Municipal,4512,100,690,91,1180,469,4,2,0,42,18,44794,Nublado
+1173,Los Lagos,Comuna_14,48,Evento Municipal,220,1501,734,994,1394,374,1,0,0,44,38,10034,Nublado
+1174,Coquimbo,Comuna_26,29,Evento Municipal,2623,1360,34,2526,747,808,2,2,0,9,2,26425,Soleado
+1175,Metropolitana,Comuna_35,37,Ramada,4404,509,446,911,472,1360,1,1,1,6,18,47149,Soleado
+1176,Los Lagos,Comuna_27,51,Peña,4756,1644,855,92,499,511,2,0,0,39,40,13340,Soleado
+1177,O'Higgins,Comuna_11,60,Fonda,4730,1475,617,601,589,170,2,0,0,45,32,25716,Nublado
+1178,Metropolitana,Comuna_35,50,Fiesta Privada,1708,1195,434,1736,1386,53,0,2,1,24,15,41263,Lluvioso
+1179,O'Higgins,Comuna_1,47,Fiesta Privada,1591,190,232,1056,875,251,2,1,1,23,43,29935,Nublado
+1180,Metropolitana,Comuna_17,59,Evento Municipal,4904,1893,326,1960,38,973,1,0,0,44,42,36861,Soleado
+1181,Coquimbo,Comuna_20,18,Peña,2269,1145,701,109,1886,377,2,5,0,45,25,48725,Lluvioso
+1182,Valparaíso,Comuna_2,53,Evento Municipal,1802,569,1423,595,321,645,2,1,0,39,11,36341,Lluvioso
+1183,Biobío,Comuna_29,34,Ramada,2950,983,1353,1135,1479,909,1,2,0,46,12,24315,Soleado
+1184,Los Lagos,Comuna_3,54,Fonda,731,565,222,1198,1545,783,1,0,0,29,38,6668,Soleado
+1185,O'Higgins,Comuna_10,49,Evento Municipal,2519,1075,430,270,1864,1339,1,1,0,1,22,5166,Soleado
+1186,Araucanía,Comuna_16,53,Peña,3073,439,1085,753,1372,346,4,2,0,22,33,6653,Soleado
+1187,Valparaíso,Comuna_44,61,Ramada,3935,1824,1013,554,1495,1228,4,1,0,16,32,47805,Soleado
+1188,Los Lagos,Comuna_50,30,Evento Municipal,1023,1869,740,618,1270,1185,2,0,0,48,44,45276,Soleado
+1189,Araucanía,Comuna_11,34,Fiesta Privada,2191,266,315,1913,1396,529,0,1,0,26,16,40104,Lluvioso
+1190,Metropolitana,Comuna_6,18,Peña,2738,1912,228,2973,839,787,3,1,0,11,18,21323,Lluvioso
+1191,Coquimbo,Comuna_22,55,Fonda,1388,1554,1215,585,1411,371,3,1,0,39,42,23193,Soleado
+1192,Coquimbo,Comuna_30,62,Fiesta Privada,1632,402,1114,1970,176,162,0,0,0,7,34,10822,Nublado
+1193,Coquimbo,Comuna_6,55,Fiesta Privada,143,1402,531,2066,1581,299,2,0,0,23,27,12202,Lluvioso
+1194,Araucanía,Comuna_32,57,Peña,3766,300,125,1453,1813,1064,2,3,0,15,21,5498,Lluvioso
+1195,Biobío,Comuna_34,30,Fonda,624,118,1162,2136,1886,1307,2,0,0,27,10,38830,Nublado
+1196,Metropolitana,Comuna_28,55,Fonda,426,1062,345,360,1263,48,3,1,0,24,27,23855,Nublado
+1197,Araucanía,Comuna_2,45,Ramada,4592,1316,789,2230,994,1260,4,1,0,35,44,33711,Lluvioso
+1198,O'Higgins,Comuna_21,33,Fonda,1299,1893,773,937,599,437,3,2,0,30,40,41807,Lluvioso
+1199,Araucanía,Comuna_38,53,Peña,744,885,507,477,1364,385,0,0,0,23,16,24691,Nublado
+1200,O'Higgins,Comuna_23,43,Fonda,3461,1729,981,705,914,385,2,3,0,39,3,21438,Nublado
+1201,Los Lagos,Comuna_27,57,Fiesta Privada,4557,633,343,2698,752,153,1,1,0,42,34,46477,Lluvioso
+1202,Valparaíso,Comuna_27,32,Ramada,2260,536,973,1296,1540,1284,1,2,0,14,13,46914,Lluvioso
+1203,Los Lagos,Comuna_48,20,Fiesta Privada,175,513,1042,2513,158,875,3,0,0,46,21,13040,Nublado
+1204,Metropolitana,Comuna_7,22,Evento Municipal,1682,663,1447,1614,479,522,0,0,0,37,13,12337,Soleado
+1205,Metropolitana,Comuna_49,36,Fonda,1140,1078,30,1742,250,631,1,1,0,25,25,22028,Lluvioso
+1206,Coquimbo,Comuna_46,31,Evento Municipal,3117,1410,523,2205,111,127,2,1,0,37,16,20833,Soleado
+1207,Valparaíso,Comuna_18,56,Fonda,3721,1409,358,2302,1250,405,4,0,0,26,25,46739,Soleado
+1208,Metropolitana,Comuna_32,46,Evento Municipal,3075,1189,1361,1776,287,1249,3,1,0,42,33,13408,Lluvioso
+1209,Metropolitana,Comuna_11,31,Evento Municipal,4970,1560,1456,2947,1012,364,2,0,0,39,25,15674,Nublado
+1210,Coquimbo,Comuna_4,49,Ramada,2975,1404,454,2973,1274,707,2,1,0,33,15,5721,Soleado
+1211,Araucanía,Comuna_11,35,Peña,2991,379,1074,1451,1931,457,1,0,0,33,28,19936,Soleado
+1212,Araucanía,Comuna_22,46,Ramada,1436,661,966,2508,1059,1384,1,2,1,19,9,42974,Soleado
+1213,Araucanía,Comuna_12,35,Ramada,3059,1743,758,2337,1837,343,2,0,0,21,21,5334,Soleado
+1214,O'Higgins,Comuna_41,23,Fonda,1785,1200,608,2688,1872,1322,0,3,0,41,41,43554,Soleado
+1215,Metropolitana,Comuna_13,64,Fiesta Privada,4688,424,825,1999,828,541,2,0,0,38,14,41528,Soleado
+1216,Coquimbo,Comuna_46,32,Fiesta Privada,2120,1319,207,1660,1270,957,2,0,0,41,44,25677,Soleado
+1217,O'Higgins,Comuna_21,34,Ramada,1716,723,774,1160,446,930,3,2,0,7,45,25875,Soleado
+1218,Valparaíso,Comuna_2,40,Peña,582,231,238,1625,1118,931,4,0,0,46,32,44730,Soleado
+1219,O'Higgins,Comuna_26,58,Evento Municipal,716,553,1025,1346,283,436,5,2,0,7,37,8637,Soleado
+1220,Valparaíso,Comuna_13,47,Evento Municipal,839,1292,960,233,1291,420,4,0,0,7,18,17064,Lluvioso
+1221,Los Lagos,Comuna_13,43,Fonda,2918,1217,731,1879,692,650,3,1,1,45,45,28454,Nublado
+1222,Valparaíso,Comuna_43,53,Fonda,573,1707,1177,436,1617,299,3,0,0,12,15,24308,Nublado
+1223,Los Lagos,Comuna_45,51,Evento Municipal,3351,1427,1188,985,599,170,0,0,0,7,13,27676,Nublado
+1224,O'Higgins,Comuna_43,46,Evento Municipal,1666,1148,30,1125,1926,997,3,0,0,41,31,17986,Soleado
+1225,Valparaíso,Comuna_18,29,Evento Municipal,1027,788,1048,2699,36,905,2,2,0,35,44,14156,Nublado
+1226,Metropolitana,Comuna_1,26,Ramada,1249,490,302,1308,567,1092,2,3,0,46,24,10315,Lluvioso
+1227,Araucanía,Comuna_17,18,Peña,1748,1464,127,246,1235,743,2,1,0,29,40,30341,Lluvioso
+1228,O'Higgins,Comuna_37,20,Evento Municipal,4666,692,383,2873,1086,996,2,0,0,32,46,49571,Soleado
+1229,Coquimbo,Comuna_34,54,Evento Municipal,2423,21,1327,2588,1325,178,1,0,0,38,43,13037,Lluvioso
+1230,Antofagasta,Comuna_31,24,Ramada,2510,1996,1049,568,1365,1285,6,1,0,24,39,27680,Nublado
+1231,Araucanía,Comuna_9,41,Evento Municipal,4111,1957,370,2321,655,282,1,1,0,32,22,9329,Soleado
+1232,Araucanía,Comuna_22,50,Fonda,431,496,1003,1580,1379,1419,4,2,0,19,28,23161,Lluvioso
+1233,Valparaíso,Comuna_7,40,Fonda,2792,1790,1145,712,1778,444,2,0,0,19,4,46094,Soleado
+1234,Valparaíso,Comuna_21,44,Ramada,2645,247,74,292,533,1185,3,2,0,48,27,25048,Lluvioso
+1235,Los Lagos,Comuna_21,20,Ramada,4457,1368,800,632,1859,169,2,0,0,38,44,47540,Lluvioso
+1236,Biobío,Comuna_36,37,Peña,2708,1617,1179,2050,1884,862,3,1,0,10,3,3628,Soleado
+1237,Metropolitana,Comuna_42,55,Evento Municipal,2514,651,1472,2553,1730,605,1,3,0,18,44,24832,Lluvioso
+1238,Los Lagos,Comuna_32,61,Ramada,4883,155,960,1295,740,1440,0,0,0,24,11,12387,Nublado
+1239,Biobío,Comuna_32,38,Ramada,841,925,705,2960,1696,783,1,0,0,31,43,34191,Nublado
+1240,Valparaíso,Comuna_34,64,Fiesta Privada,970,1327,1004,2721,726,935,5,2,0,42,6,6983,Soleado
+1241,Los Lagos,Comuna_4,55,Ramada,221,1016,1039,2542,1642,354,1,0,0,2,26,28754,Lluvioso
+1242,Valparaíso,Comuna_39,19,Ramada,3661,62,1121,618,711,1299,2,3,0,18,46,37428,Soleado
+1243,Antofagasta,Comuna_14,40,Peña,870,795,706,110,1269,1117,1,3,0,14,24,20278,Nublado
+1244,Araucanía,Comuna_35,45,Evento Municipal,2020,1369,387,1403,247,285,3,0,0,8,46,29883,Soleado
+1245,Araucanía,Comuna_10,56,Fiesta Privada,229,969,1148,1967,1006,1037,1,0,0,34,23,43851,Nublado
+1246,Los Lagos,Comuna_8,56,Peña,1746,1949,1329,836,262,941,1,0,0,19,17,46218,Lluvioso
+1247,Coquimbo,Comuna_49,55,Ramada,3014,1907,680,2804,533,867,1,3,0,1,9,19718,Soleado
+1248,Biobío,Comuna_29,33,Ramada,1460,830,1142,1514,1443,605,1,0,0,32,6,44868,Lluvioso
+1249,Araucanía,Comuna_25,19,Evento Municipal,3389,325,840,1380,926,1110,2,2,0,14,22,36939,Lluvioso
+1250,Metropolitana,Comuna_14,21,Peña,1002,756,388,1822,1038,1441,2,0,0,48,34,31418,Soleado
+1251,Antofagasta,Comuna_24,29,Peña,690,641,117,636,213,438,3,0,0,36,27,33262,Soleado
+1252,Coquimbo,Comuna_26,31,Ramada,3387,234,1409,727,281,1144,2,1,0,16,2,35438,Lluvioso
+1253,Biobío,Comuna_5,40,Peña,2703,1931,567,671,198,1203,2,4,0,7,34,45671,Lluvioso
+1254,Antofagasta,Comuna_43,34,Fiesta Privada,706,1321,164,2577,555,202,2,2,0,3,42,31082,Soleado
+1255,Coquimbo,Comuna_37,24,Ramada,4905,1222,985,1262,808,1211,2,1,0,15,17,19614,Lluvioso
+1256,O'Higgins,Comuna_13,38,Fiesta Privada,1013,44,1174,1278,1722,1288,0,0,0,24,44,40941,Nublado
+1257,O'Higgins,Comuna_33,53,Fiesta Privada,3183,1508,676,2722,1996,961,5,1,0,40,41,30343,Nublado
+1258,Biobío,Comuna_2,43,Peña,216,1373,764,49,1060,1044,3,0,0,31,15,12738,Soleado
+1259,Los Lagos,Comuna_31,50,Evento Municipal,2139,944,1348,461,1397,1437,0,0,1,14,42,26234,Soleado
+1260,Metropolitana,Comuna_23,64,Ramada,729,96,564,500,154,514,1,1,0,15,5,13837,Lluvioso
+1261,Coquimbo,Comuna_6,21,Evento Municipal,1669,876,202,83,1830,156,1,0,0,40,16,16306,Soleado
+1262,Los Lagos,Comuna_48,59,Peña,4927,1870,1261,1809,672,967,3,1,1,10,25,12301,Soleado
+1263,Biobío,Comuna_29,50,Peña,3552,41,240,1031,1534,6,5,1,0,15,28,8788,Lluvioso
+1264,Los Lagos,Comuna_42,55,Fonda,1974,845,1013,2468,744,414,1,0,0,11,12,37167,Nublado
+1265,O'Higgins,Comuna_2,63,Peña,4918,778,244,2442,1989,932,3,4,0,4,3,12697,Nublado
+1266,Metropolitana,Comuna_20,39,Fiesta Privada,2450,186,29,2379,1349,486,3,0,0,48,14,39383,Nublado
+1267,Biobío,Comuna_38,52,Ramada,2179,1624,1334,2603,159,1120,3,3,0,31,37,23740,Soleado
+1268,Araucanía,Comuna_7,64,Fonda,1382,1427,184,479,44,214,3,0,0,20,38,32421,Soleado
+1269,Metropolitana,Comuna_34,22,Fonda,2067,591,250,1662,1311,518,1,2,0,10,16,34241,Nublado
+1270,Los Lagos,Comuna_18,56,Ramada,4205,371,509,363,56,1023,1,0,0,24,40,34665,Nublado
+1271,Los Lagos,Comuna_39,59,Fonda,4883,1079,1152,1311,395,1207,4,0,0,10,38,7878,Nublado
+1272,Biobío,Comuna_16,47,Peña,1610,734,1335,235,285,1061,3,1,0,22,29,8610,Soleado
+1273,O'Higgins,Comuna_41,54,Fonda,3378,1566,287,2180,650,321,0,1,1,1,33,13261,Nublado
+1274,Antofagasta,Comuna_49,32,Ramada,1049,1123,1444,1177,1867,877,3,1,0,5,9,14767,Nublado
+1275,Biobío,Comuna_11,52,Peña,4761,1931,1139,952,1764,355,3,1,1,9,5,37642,Lluvioso
+1276,Valparaíso,Comuna_47,30,Peña,4220,721,1160,2331,1806,951,0,2,0,0,35,40951,Nublado
+1277,Valparaíso,Comuna_42,55,Fiesta Privada,3446,883,1417,2591,1023,38,3,2,0,45,23,8058,Soleado
+1278,Valparaíso,Comuna_36,47,Fiesta Privada,3343,1684,276,1792,309,1296,2,1,0,45,21,39184,Lluvioso
+1279,Valparaíso,Comuna_33,44,Fonda,3874,419,435,664,1277,1026,5,1,0,7,24,38293,Soleado
+1280,O'Higgins,Comuna_47,37,Fiesta Privada,3833,1049,659,2882,1509,807,2,3,0,3,22,23409,Soleado
+1281,Coquimbo,Comuna_8,50,Ramada,3906,1492,669,1821,1333,978,4,1,0,37,26,9174,Nublado
+1282,Biobío,Comuna_13,31,Fiesta Privada,192,1419,839,390,47,1197,3,0,0,9,24,38636,Soleado
+1283,Los Lagos,Comuna_6,43,Ramada,3101,891,696,1967,320,472,1,0,0,20,39,21254,Lluvioso
+1284,O'Higgins,Comuna_40,36,Peña,1346,119,604,1623,1819,228,5,2,0,35,26,5332,Lluvioso
+1285,Valparaíso,Comuna_27,28,Fonda,727,914,46,2222,87,1498,1,0,0,49,40,32012,Soleado
+1286,Valparaíso,Comuna_3,29,Fiesta Privada,2109,474,1296,50,665,1043,1,0,0,22,41,48160,Lluvioso
+1287,Biobío,Comuna_17,48,Fiesta Privada,4898,1187,742,470,747,34,3,0,0,48,36,43126,Soleado
+1288,Antofagasta,Comuna_37,37,Fiesta Privada,4553,1424,1214,1954,336,279,2,1,1,31,10,33575,Lluvioso
+1289,Araucanía,Comuna_46,34,Fiesta Privada,1341,203,1332,1382,1576,726,1,2,0,27,13,25199,Nublado
+1290,Antofagasta,Comuna_6,36,Ramada,3473,111,631,1150,1912,279,2,0,0,40,44,15854,Soleado
+1291,Metropolitana,Comuna_34,45,Evento Municipal,4599,809,101,2998,823,921,3,0,0,16,12,26919,Soleado
+1292,Biobío,Comuna_35,32,Fonda,3686,1099,229,1572,1865,209,5,2,0,49,21,45003,Nublado
+1293,Coquimbo,Comuna_8,57,Evento Municipal,1226,758,547,2505,870,1072,1,1,1,33,41,6776,Lluvioso
+1294,Coquimbo,Comuna_7,37,Peña,1031,522,1014,2081,1530,462,2,2,0,8,40,23063,Nublado
+1295,Biobío,Comuna_20,63,Peña,3638,1732,259,1513,330,931,0,2,0,31,2,16539,Nublado
+1296,Antofagasta,Comuna_5,42,Fiesta Privada,2309,1505,453,445,1837,406,2,1,0,33,31,30137,Soleado
+1297,Antofagasta,Comuna_3,59,Ramada,3112,1469,159,1394,33,245,3,1,0,10,26,25686,Soleado
+1298,O'Higgins,Comuna_48,57,Peña,682,1833,115,2232,378,1378,2,2,0,22,9,23405,Soleado
+1299,O'Higgins,Comuna_19,61,Fiesta Privada,3529,1885,693,1676,1734,185,1,1,0,17,32,25490,Nublado
+1300,Metropolitana,Comuna_3,47,Peña,462,1396,1441,542,321,1102,0,1,0,7,39,25406,Soleado
+1301,Coquimbo,Comuna_13,49,Peña,148,930,782,2001,153,544,6,0,0,30,20,47188,Soleado
+1302,Araucanía,Comuna_12,29,Evento Municipal,3033,1187,1147,1568,1913,1177,2,1,0,34,9,36566,Nublado
+1303,Coquimbo,Comuna_21,52,Evento Municipal,952,253,947,915,1728,928,7,1,0,27,27,37638,Lluvioso
+1304,Valparaíso,Comuna_40,36,Evento Municipal,509,893,202,1148,1714,413,1,3,1,26,32,37167,Soleado
+1305,O'Higgins,Comuna_50,51,Evento Municipal,2268,659,505,2934,1936,271,3,0,0,3,42,4343,Lluvioso
+1306,Biobío,Comuna_15,37,Peña,728,1619,365,421,419,592,2,0,0,37,41,14175,Soleado
+1307,Coquimbo,Comuna_10,38,Fiesta Privada,296,1158,821,469,404,128,5,0,0,14,10,8736,Lluvioso
+1308,Biobío,Comuna_19,19,Ramada,3967,1258,698,1632,784,773,3,1,0,17,30,38230,Soleado
+1309,Araucanía,Comuna_36,54,Peña,1594,1467,345,1615,1807,1041,2,1,0,0,19,37578,Nublado
+1310,Araucanía,Comuna_28,34,Evento Municipal,745,1751,1089,2862,1070,928,0,0,0,8,43,7745,Nublado
+1311,Coquimbo,Comuna_5,63,Peña,332,1477,1060,785,1236,1352,0,1,0,21,23,48046,Nublado
+1312,Coquimbo,Comuna_42,24,Fiesta Privada,3254,1046,456,2800,11,324,1,2,0,22,30,32410,Lluvioso
+1313,Metropolitana,Comuna_32,52,Ramada,4777,1395,377,1284,1663,773,2,4,0,7,47,22527,Nublado
+1314,O'Higgins,Comuna_17,22,Ramada,3989,243,796,1005,433,909,4,3,0,41,30,43841,Lluvioso
+1315,Antofagasta,Comuna_39,43,Evento Municipal,2060,426,462,415,1852,310,1,1,0,38,5,4064,Nublado
+1316,Antofagasta,Comuna_14,18,Ramada,1423,348,340,1403,109,362,3,0,0,10,18,32628,Nublado
+1317,Metropolitana,Comuna_14,37,Peña,4945,1811,308,2844,800,864,4,1,0,11,21,37638,Nublado
+1318,Metropolitana,Comuna_31,40,Fonda,4066,311,267,1541,1088,1143,2,2,0,12,14,8366,Nublado
+1319,O'Higgins,Comuna_50,22,Fonda,2851,894,593,2377,677,136,3,1,0,39,40,3324,Nublado
+1320,Araucanía,Comuna_12,34,Fiesta Privada,2426,821,1151,691,1194,1136,3,0,0,28,37,5233,Lluvioso
+1321,Metropolitana,Comuna_3,60,Fonda,4188,344,952,2073,190,1411,0,0,0,45,2,40129,Nublado
+1322,Metropolitana,Comuna_1,21,Ramada,4718,1704,1441,1164,1117,855,4,2,0,4,37,29406,Lluvioso
+1323,Los Lagos,Comuna_44,55,Fonda,3063,971,395,1735,1644,1456,2,1,0,41,8,30537,Lluvioso
+1324,Los Lagos,Comuna_41,34,Evento Municipal,4249,1023,1297,2714,978,702,1,1,0,41,7,13105,Nublado
+1325,Valparaíso,Comuna_46,28,Fiesta Privada,3913,804,1100,410,1185,269,2,2,0,39,26,6920,Soleado
+1326,Valparaíso,Comuna_44,43,Fiesta Privada,2685,1448,1443,858,401,162,3,0,0,40,28,2592,Soleado
+1327,Antofagasta,Comuna_20,48,Fiesta Privada,4000,298,1259,187,170,472,0,1,0,8,37,17926,Lluvioso
+1328,Biobío,Comuna_28,33,Evento Municipal,2792,478,1147,1468,774,32,3,0,0,14,41,28764,Soleado
+1329,Metropolitana,Comuna_25,31,Fiesta Privada,4241,1985,487,1512,1555,1215,3,0,0,39,16,25116,Nublado
+1330,Coquimbo,Comuna_21,38,Ramada,1217,729,1266,776,1733,1020,5,0,0,33,29,46426,Nublado
+1331,Antofagasta,Comuna_37,23,Peña,764,1965,378,2886,1352,1180,2,2,0,41,37,7562,Soleado
+1332,Araucanía,Comuna_35,32,Fonda,4942,1793,1019,87,466,797,4,3,0,28,30,36788,Lluvioso
+1333,Los Lagos,Comuna_38,59,Evento Municipal,1876,1441,399,609,1817,1357,3,2,0,17,40,22167,Lluvioso
+1334,Los Lagos,Comuna_41,42,Peña,3796,130,529,2398,1170,726,2,1,0,17,20,35698,Lluvioso
+1335,Antofagasta,Comuna_26,20,Fiesta Privada,2708,579,102,2370,383,885,1,1,0,45,5,9270,Soleado
+1336,Coquimbo,Comuna_50,22,Ramada,3327,1619,719,862,1071,638,2,1,0,26,16,25431,Nublado
+1337,Antofagasta,Comuna_25,55,Ramada,2378,1283,722,1094,1422,41,4,2,0,45,27,13794,Soleado
+1338,Biobío,Comuna_35,45,Fonda,3834,1635,200,569,228,862,2,0,0,47,28,19285,Nublado
+1339,Los Lagos,Comuna_38,40,Fonda,4908,184,845,2325,628,501,0,1,0,35,12,49932,Soleado
+1340,Biobío,Comuna_36,59,Fiesta Privada,2439,553,890,356,48,1148,1,0,0,3,24,2763,Lluvioso
+1341,Araucanía,Comuna_28,32,Fonda,1560,735,1413,97,1974,227,3,1,0,28,20,8996,Soleado
+1342,Los Lagos,Comuna_37,64,Fonda,1505,365,1147,58,348,659,1,1,0,18,13,25123,Lluvioso
+1343,Valparaíso,Comuna_36,30,Evento Municipal,1598,1885,451,2548,1575,262,2,2,0,10,17,48331,Soleado
+1344,Metropolitana,Comuna_25,48,Peña,705,193,183,1693,1819,933,0,1,0,36,7,32490,Soleado
+1345,Antofagasta,Comuna_38,49,Evento Municipal,1854,147,1290,2341,1691,97,2,1,0,12,38,38655,Lluvioso
+1346,Antofagasta,Comuna_19,31,Fiesta Privada,3940,855,28,831,1141,1426,0,0,0,40,33,9053,Lluvioso
+1347,Coquimbo,Comuna_50,39,Peña,4303,1150,1155,223,238,205,1,2,0,2,29,23617,Soleado
+1348,Coquimbo,Comuna_9,33,Evento Municipal,862,438,453,2817,1615,135,1,1,0,46,33,19748,Soleado
+1349,Los Lagos,Comuna_46,50,Evento Municipal,4945,593,669,2387,911,931,3,1,0,25,12,9742,Nublado
+1350,O'Higgins,Comuna_46,56,Peña,2765,1388,583,1278,1075,990,3,0,0,32,22,27573,Nublado
+1351,Coquimbo,Comuna_2,46,Evento Municipal,1181,1050,1387,2756,1621,707,0,2,0,42,19,14066,Lluvioso
+1352,O'Higgins,Comuna_19,27,Evento Municipal,187,928,757,439,777,646,1,2,0,5,8,5641,Lluvioso
+1353,Araucanía,Comuna_29,43,Ramada,661,820,860,1116,1581,183,2,1,0,17,42,36157,Nublado
+1354,Araucanía,Comuna_23,30,Ramada,3218,519,804,1287,1711,896,1,0,0,42,14,2704,Nublado
+1355,Biobío,Comuna_45,31,Ramada,2065,473,962,563,120,815,2,0,0,18,44,41398,Nublado
+1356,Metropolitana,Comuna_18,43,Ramada,3829,1095,1326,2012,96,10,1,1,0,36,15,20588,Nublado
+1357,Biobío,Comuna_2,47,Fiesta Privada,3831,1379,736,1513,217,319,4,0,0,7,45,44476,Nublado
+1358,Antofagasta,Comuna_7,41,Peña,3943,1761,344,951,34,856,3,1,0,3,12,7139,Nublado
+1359,Metropolitana,Comuna_46,48,Fonda,2363,204,998,2631,1221,441,1,2,0,6,47,15544,Nublado
+1360,Valparaíso,Comuna_17,30,Ramada,3800,1770,622,2276,534,1419,4,1,0,21,42,21317,Soleado
+1361,Biobío,Comuna_46,43,Fiesta Privada,3765,33,1015,1174,1768,370,3,1,0,9,25,48653,Lluvioso
+1362,Coquimbo,Comuna_16,60,Fonda,4853,331,702,1104,1193,385,0,0,0,47,20,36695,Lluvioso
+1363,Antofagasta,Comuna_18,48,Ramada,1019,854,393,2129,1115,33,0,2,0,13,47,45867,Lluvioso
+1364,Coquimbo,Comuna_6,35,Evento Municipal,138,1760,641,2428,1102,614,0,3,0,14,45,34637,Lluvioso
+1365,Antofagasta,Comuna_17,48,Ramada,151,1714,359,2411,1171,1347,2,1,0,12,32,39671,Nublado
+1366,Metropolitana,Comuna_22,44,Evento Municipal,1267,1185,706,1939,37,984,3,1,0,40,44,47474,Lluvioso
+1367,Coquimbo,Comuna_30,59,Ramada,201,1394,1156,564,979,897,5,1,1,12,37,30177,Lluvioso
+1368,O'Higgins,Comuna_25,54,Peña,791,1412,591,782,946,136,3,0,0,32,2,45148,Soleado
+1369,Biobío,Comuna_6,55,Ramada,294,1941,79,342,234,1044,2,1,0,43,46,25649,Soleado
+1370,Coquimbo,Comuna_27,53,Fonda,1761,372,1466,1308,821,639,0,0,0,20,21,4551,Lluvioso
+1371,Los Lagos,Comuna_16,26,Fonda,4169,1924,396,1176,1382,1460,1,0,0,36,33,20937,Soleado
+1372,O'Higgins,Comuna_40,52,Fiesta Privada,807,714,638,936,348,830,3,1,0,3,29,47716,Lluvioso
+1373,Biobío,Comuna_10,33,Evento Municipal,3367,1845,1441,1868,1275,1008,2,0,0,32,18,44589,Soleado
+1374,Los Lagos,Comuna_45,59,Ramada,4235,1424,550,1959,604,296,3,0,0,8,41,16925,Soleado
+1375,Biobío,Comuna_39,59,Evento Municipal,1167,1872,763,932,1988,569,2,1,0,46,33,37085,Nublado
+1376,Araucanía,Comuna_14,32,Ramada,4385,215,1085,657,86,621,1,0,0,42,10,22844,Lluvioso
+1377,Coquimbo,Comuna_5,61,Fonda,185,102,1262,2486,1291,311,1,1,0,26,37,42190,Lluvioso
+1378,O'Higgins,Comuna_24,61,Fonda,2738,1734,134,2959,532,509,2,1,0,41,16,49605,Lluvioso
+1379,O'Higgins,Comuna_8,32,Evento Municipal,2876,1711,1365,1624,1891,1195,1,2,0,39,46,13263,Lluvioso
+1380,Araucanía,Comuna_40,26,Ramada,1972,71,358,255,244,299,5,0,0,0,32,19352,Lluvioso
+1381,Araucanía,Comuna_5,24,Ramada,295,1969,1175,2955,700,1036,1,2,0,41,11,5321,Soleado
+1382,Metropolitana,Comuna_25,19,Ramada,3845,892,273,603,1059,1271,1,2,0,9,47,26682,Lluvioso
+1383,Araucanía,Comuna_44,42,Fiesta Privada,4121,251,643,1737,915,1162,3,0,1,9,13,43652,Nublado
+1384,Coquimbo,Comuna_41,36,Fonda,3770,398,1111,825,105,269,1,0,0,8,16,48839,Soleado
+1385,O'Higgins,Comuna_34,30,Fiesta Privada,3725,470,107,1831,1226,1100,2,0,0,46,24,30004,Soleado
+1386,Valparaíso,Comuna_35,37,Evento Municipal,2616,934,36,549,435,971,0,0,0,36,25,45609,Lluvioso
+1387,Araucanía,Comuna_8,41,Fiesta Privada,3122,1294,281,368,449,1113,2,0,0,35,17,11902,Soleado
+1388,Metropolitana,Comuna_33,61,Ramada,783,1269,552,2824,693,1259,0,1,0,46,47,7525,Lluvioso
+1389,Araucanía,Comuna_38,34,Peña,2191,824,469,1197,959,1214,4,1,0,38,36,6064,Lluvioso
+1390,Coquimbo,Comuna_34,37,Fonda,4687,290,1183,1062,718,653,2,0,1,37,4,8670,Soleado
+1391,Metropolitana,Comuna_33,54,Peña,928,1019,56,34,962,98,3,1,0,1,32,9078,Nublado
+1392,Valparaíso,Comuna_3,20,Fiesta Privada,1387,1358,163,1407,1090,42,3,1,0,22,18,42368,Lluvioso
+1393,Coquimbo,Comuna_26,56,Fonda,1410,1032,1106,951,1463,161,3,1,0,30,47,29105,Lluvioso
+1394,Valparaíso,Comuna_39,37,Evento Municipal,1005,523,167,1205,451,866,0,0,0,22,29,18706,Nublado
+1395,Metropolitana,Comuna_49,39,Fonda,1819,1349,1417,2528,1028,135,3,0,0,18,43,13288,Nublado
+1396,Coquimbo,Comuna_4,60,Peña,391,444,79,2675,400,112,0,1,0,41,38,21421,Nublado
+1397,O'Higgins,Comuna_49,40,Evento Municipal,958,1351,958,2652,1095,197,2,0,0,39,43,10784,Lluvioso
+1398,Biobío,Comuna_19,57,Ramada,3587,1648,615,465,1283,95,2,6,0,5,47,41966,Nublado
+1399,Valparaíso,Comuna_38,54,Ramada,3832,247,1236,2717,243,756,2,0,0,8,37,19515,Soleado
+1400,Biobío,Comuna_47,32,Fonda,4470,1293,117,1413,547,1410,1,0,0,17,6,4426,Nublado
+1401,Los Lagos,Comuna_18,60,Fonda,3359,936,976,2720,995,779,3,1,0,13,19,13115,Lluvioso
+1402,Coquimbo,Comuna_19,19,Fonda,4161,282,618,2419,578,492,1,0,0,11,13,20416,Lluvioso
+1403,Biobío,Comuna_24,26,Peña,3889,695,519,1780,539,764,1,0,0,41,16,48728,Lluvioso
+1404,Coquimbo,Comuna_49,26,Fonda,929,686,588,2985,460,90,4,0,0,17,23,14023,Lluvioso
+1405,Coquimbo,Comuna_9,29,Ramada,278,230,869,2342,1752,361,0,2,0,19,27,6317,Lluvioso
+1406,Biobío,Comuna_1,25,Fonda,3682,1245,182,531,1093,745,2,1,1,13,37,2205,Nublado
+1407,Los Lagos,Comuna_38,46,Peña,4519,806,166,202,529,1073,3,0,0,46,43,27802,Soleado
+1408,Valparaíso,Comuna_47,30,Ramada,3063,1718,1355,2854,820,1311,2,1,0,14,12,23207,Nublado
+1409,Antofagasta,Comuna_45,54,Fonda,3005,722,1370,1403,1189,1059,1,1,0,17,30,26540,Soleado
+1410,Antofagasta,Comuna_3,41,Evento Municipal,2682,709,1293,667,1096,332,3,2,0,16,45,25365,Nublado
+1411,O'Higgins,Comuna_40,29,Fonda,888,724,1159,278,1567,1192,2,1,0,24,7,47411,Nublado
+1412,Araucanía,Comuna_10,37,Evento Municipal,1829,1355,1018,2382,547,1056,2,1,0,34,10,5394,Soleado
+1413,Los Lagos,Comuna_20,21,Peña,3476,1131,911,1609,1430,1102,3,0,0,39,10,49781,Soleado
+1414,Valparaíso,Comuna_1,62,Ramada,4944,1530,67,240,1893,1428,0,1,0,30,44,36289,Nublado
+1415,Metropolitana,Comuna_24,38,Ramada,1850,1967,435,1070,1760,497,1,0,0,27,34,12173,Soleado
+1416,O'Higgins,Comuna_29,37,Fiesta Privada,4743,1911,1145,2842,342,407,0,3,0,39,31,35056,Nublado
+1417,Araucanía,Comuna_33,33,Ramada,3148,1993,680,13,490,383,2,1,0,17,45,27817,Soleado
+1418,Coquimbo,Comuna_26,47,Fonda,2581,97,353,752,809,647,3,2,0,47,44,41796,Lluvioso
+1419,Metropolitana,Comuna_47,49,Peña,4088,831,373,309,795,950,4,1,0,29,19,47573,Soleado
+1420,Coquimbo,Comuna_26,57,Fiesta Privada,3635,854,1353,1096,738,830,2,1,0,31,31,24811,Soleado
+1421,Valparaíso,Comuna_22,58,Fonda,245,1277,248,2764,1686,125,3,1,0,13,43,46261,Nublado
+1422,Araucanía,Comuna_47,30,Ramada,1684,317,62,2764,763,512,0,1,0,7,23,40278,Lluvioso
+1423,Los Lagos,Comuna_1,24,Evento Municipal,1113,344,821,2706,1660,609,0,0,0,14,14,18249,Nublado
+1424,Araucanía,Comuna_38,59,Fiesta Privada,1843,1745,1174,2047,179,944,1,0,0,3,24,16295,Lluvioso
+1425,O'Higgins,Comuna_40,19,Evento Municipal,4360,1474,1097,1096,788,377,1,1,1,31,26,15958,Soleado
+1426,Los Lagos,Comuna_20,48,Peña,2721,1648,789,2016,582,452,2,0,0,3,17,25049,Lluvioso
+1427,Metropolitana,Comuna_8,41,Ramada,206,1944,100,512,1101,406,0,0,0,28,11,19997,Soleado
+1428,Metropolitana,Comuna_26,46,Fonda,494,473,25,909,1595,1452,4,1,0,42,46,27630,Lluvioso
+1429,Los Lagos,Comuna_38,55,Fonda,3368,1837,87,2641,1275,858,2,0,0,18,17,48511,Nublado
+1430,Los Lagos,Comuna_23,19,Fiesta Privada,1126,623,764,2953,1977,1242,4,2,0,32,35,31294,Lluvioso
+1431,Coquimbo,Comuna_35,47,Peña,492,654,662,294,1570,948,0,1,0,27,13,10579,Soleado
+1432,O'Higgins,Comuna_2,28,Ramada,1674,1326,77,1106,882,1102,2,2,0,42,16,40485,Nublado
+1433,O'Higgins,Comuna_14,57,Ramada,2009,393,1040,687,223,213,3,1,0,2,16,4798,Nublado
+1434,Los Lagos,Comuna_27,19,Ramada,821,1247,1316,541,302,150,2,0,0,36,36,28438,Lluvioso
+1435,Biobío,Comuna_20,62,Peña,3673,1466,576,82,169,957,3,0,0,43,17,49074,Soleado
+1436,Araucanía,Comuna_49,51,Peña,4287,1603,871,182,931,753,3,2,0,37,14,36950,Soleado
+1437,Coquimbo,Comuna_35,57,Fiesta Privada,3248,353,915,543,215,1447,2,0,0,12,7,11366,Nublado
+1438,Biobío,Comuna_12,40,Fiesta Privada,4809,1396,1254,755,905,1483,1,3,0,18,28,36947,Soleado
+1439,Coquimbo,Comuna_32,20,Ramada,1843,1149,923,2276,618,1185,0,2,0,28,12,39918,Nublado
+1440,O'Higgins,Comuna_41,19,Ramada,2497,631,694,854,1901,1429,1,0,0,11,47,35208,Soleado
+1441,Metropolitana,Comuna_10,21,Fiesta Privada,4112,1491,479,1310,692,1023,2,0,0,17,44,16923,Soleado
+1442,Metropolitana,Comuna_38,41,Evento Municipal,931,857,752,617,952,1098,0,0,1,15,27,15284,Lluvioso
+1443,O'Higgins,Comuna_38,39,Fonda,4640,1748,38,2817,446,189,3,0,0,38,47,21439,Nublado
+1444,Araucanía,Comuna_37,36,Ramada,358,350,1048,1748,1127,791,1,1,0,48,45,11952,Soleado
+1445,O'Higgins,Comuna_30,36,Ramada,2469,648,1036,2505,350,525,2,2,0,25,23,26895,Lluvioso
+1446,Los Lagos,Comuna_21,42,Fiesta Privada,776,1766,632,1348,988,79,2,0,0,38,8,5511,Lluvioso
+1447,Metropolitana,Comuna_48,34,Ramada,905,1475,655,418,45,160,4,1,0,2,28,21620,Lluvioso
+1448,Araucanía,Comuna_7,44,Ramada,4503,1534,434,359,975,510,1,1,0,14,27,46680,Soleado
+1449,Antofagasta,Comuna_18,51,Fiesta Privada,2120,781,1206,2073,1216,165,2,0,0,3,9,35404,Nublado
+1450,Los Lagos,Comuna_11,24,Fiesta Privada,2193,1215,456,1494,1278,262,0,1,0,12,9,37843,Lluvioso
+1451,Metropolitana,Comuna_38,36,Fiesta Privada,2996,151,654,2291,984,1286,0,1,0,43,46,18378,Soleado
+1452,Metropolitana,Comuna_10,54,Ramada,4794,117,771,1037,763,745,6,0,0,13,35,23679,Nublado
+1453,O'Higgins,Comuna_23,21,Evento Municipal,3674,1650,494,257,1777,76,2,3,0,41,11,49351,Lluvioso
+1454,Biobío,Comuna_41,51,Ramada,606,1937,32,1131,662,491,1,0,0,35,35,31965,Lluvioso
+1455,Los Lagos,Comuna_9,31,Evento Municipal,246,518,475,2371,845,369,0,0,0,13,5,30847,Soleado
+1456,Araucanía,Comuna_28,40,Fiesta Privada,2906,576,303,2967,1319,213,2,1,0,31,19,23138,Soleado
+1457,Los Lagos,Comuna_34,31,Fonda,2303,90,61,2461,791,450,0,1,0,9,45,39170,Lluvioso
+1458,Araucanía,Comuna_31,22,Peña,3237,77,632,2534,1189,885,3,3,0,47,34,29425,Lluvioso
+1459,Metropolitana,Comuna_30,60,Ramada,1956,486,847,130,578,1096,2,2,0,12,38,45162,Nublado
+1460,Biobío,Comuna_8,32,Fonda,826,245,798,2251,1604,783,1,1,0,49,30,24138,Soleado
+1461,Coquimbo,Comuna_18,28,Peña,4141,1504,138,2074,1140,408,2,1,0,43,45,41427,Soleado
+1462,Antofagasta,Comuna_16,47,Peña,3533,1001,1239,1309,986,188,1,0,0,18,12,3125,Soleado
+1463,Valparaíso,Comuna_8,23,Evento Municipal,4903,1118,1422,744,764,1264,4,2,0,35,36,24539,Soleado
+1464,Metropolitana,Comuna_25,43,Ramada,4564,405,437,2310,934,110,0,1,0,40,13,36190,Soleado
+1465,Biobío,Comuna_32,25,Fonda,715,1169,738,1016,1683,36,1,4,0,45,34,48668,Nublado
+1466,Metropolitana,Comuna_10,35,Fiesta Privada,3023,620,71,2979,298,984,1,1,0,16,23,9057,Nublado
+1467,O'Higgins,Comuna_5,31,Fiesta Privada,2407,1642,857,1135,831,1442,1,0,0,8,14,22225,Soleado
+1468,O'Higgins,Comuna_26,41,Ramada,3669,195,1079,1086,1307,635,3,4,0,25,40,39023,Lluvioso
+1469,Coquimbo,Comuna_10,24,Fonda,1685,1130,847,687,1499,489,4,0,0,17,20,18835,Soleado
+1470,Antofagasta,Comuna_38,23,Fonda,4350,453,1317,34,560,953,3,0,0,35,15,15979,Lluvioso
+1471,Los Lagos,Comuna_11,57,Fiesta Privada,4774,118,22,2960,1039,869,2,0,0,40,30,31447,Soleado
+1472,O'Higgins,Comuna_35,53,Fiesta Privada,1196,1391,286,194,1753,991,2,0,0,26,27,9534,Soleado
+1473,Valparaíso,Comuna_18,37,Ramada,3404,1641,1393,288,408,855,2,2,0,11,7,9632,Lluvioso
+1474,Los Lagos,Comuna_15,54,Evento Municipal,177,738,90,1327,1005,209,0,1,0,24,46,21139,Nublado
+1475,O'Higgins,Comuna_28,22,Fonda,1977,1258,1416,1588,69,1245,3,2,0,38,27,14775,Nublado
+1476,Valparaíso,Comuna_15,29,Peña,3000,411,1228,2877,1916,517,2,1,0,23,44,8704,Lluvioso
+1477,Los Lagos,Comuna_23,52,Ramada,1019,1829,1280,831,1178,552,2,2,0,26,4,35943,Nublado
+1478,O'Higgins,Comuna_26,64,Evento Municipal,3495,132,34,1300,954,1347,3,1,1,49,46,25826,Nublado
+1479,Antofagasta,Comuna_4,63,Evento Municipal,2952,453,841,1469,1348,829,2,2,0,42,25,40558,Soleado
+1480,O'Higgins,Comuna_19,25,Fiesta Privada,2447,809,1051,2380,496,402,1,0,0,26,17,43806,Soleado
+1481,Los Lagos,Comuna_30,23,Fonda,3321,21,247,2923,762,666,1,0,0,32,5,5131,Soleado
+1482,Biobío,Comuna_28,59,Peña,4122,1920,19,2534,17,622,2,2,0,40,19,6952,Nublado
+1483,O'Higgins,Comuna_40,64,Ramada,4700,1684,528,2735,1662,1337,1,1,0,5,8,12795,Nublado
+1484,O'Higgins,Comuna_46,42,Fonda,3042,61,1277,631,1297,486,1,1,0,2,10,43620,Lluvioso
+1485,Biobío,Comuna_28,60,Fonda,3915,1540,786,1832,1417,1206,2,1,0,33,7,30131,Soleado
+1486,Los Lagos,Comuna_37,56,Evento Municipal,3505,1786,263,1812,54,11,2,0,0,6,24,37935,Lluvioso
+1487,Metropolitana,Comuna_1,31,Ramada,708,938,377,261,1292,532,2,1,0,42,32,29202,Soleado
+1488,Antofagasta,Comuna_27,64,Fonda,106,713,1356,1672,1636,97,2,1,0,4,2,44087,Nublado
+1489,Metropolitana,Comuna_21,51,Peña,2834,643,1025,2015,1335,759,3,0,0,11,41,29787,Soleado
+1490,Coquimbo,Comuna_46,55,Peña,3738,1899,317,1720,1968,1011,2,1,0,10,4,19745,Soleado
+1491,Antofagasta,Comuna_44,35,Peña,3644,470,646,2105,283,139,4,2,0,20,38,33739,Soleado
+1492,Los Lagos,Comuna_46,39,Fonda,3004,955,1293,1426,374,299,2,2,0,44,5,47168,Lluvioso
+1493,Antofagasta,Comuna_12,21,Evento Municipal,2170,380,365,568,640,1370,2,0,0,49,7,12692,Lluvioso
+1494,O'Higgins,Comuna_4,46,Fiesta Privada,1001,185,914,2390,560,47,2,1,0,5,2,48523,Lluvioso
+1495,Valparaíso,Comuna_47,18,Ramada,3664,154,1389,1058,1221,439,3,0,0,28,17,49825,Nublado
+1496,Antofagasta,Comuna_19,23,Peña,2342,1941,957,999,447,755,4,1,0,25,43,47441,Soleado
+1497,Los Lagos,Comuna_49,39,Evento Municipal,1488,1568,1104,479,404,941,1,1,0,36,4,39817,Soleado
+1498,Coquimbo,Comuna_13,59,Fiesta Privada,4316,396,531,1416,1126,118,1,0,0,16,15,36475,Soleado
+1499,Araucanía,Comuna_16,41,Peña,2197,1632,1175,684,694,983,0,0,0,25,46,34726,Soleado
+1500,O'Higgins,Comuna_44,51,Evento Municipal,3335,824,1303,2740,376,1045,2,1,0,10,43,8076,Nublado
