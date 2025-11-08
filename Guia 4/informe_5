@@ -1,0 +1,18 @@
+# Informe de Análisis de Actividad Volcánica en Chile
+
+## 1. Objetivo
+Analizar los eventos volcánicos registrados por el SERNAGEOMIN para identificar tendencias temporales, años más activos y niveles de peligro predominantes.
+
+## 2. Datos
+El dataset contiene información de los eventos volcánicos, incluyendo:
+- `volcan`: nombre del volcán
+- `region`: región donde ocurrió el evento
+- `fecha_evento`: fecha del evento
+- `magnitud`: magnitud de la erupción
+- `nivel_peligro`: nivel de peligro asociado al evento
+
+## 3. Procesamiento
+- Se extrajo el año de la columna `fecha_evento`.
+- Se agruparon los datos por año y nivel de peligro para analizar tendencias.
+- Se calcularon totales por año y por nivel de peligro.
+

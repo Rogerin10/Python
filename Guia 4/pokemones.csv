@@ -1,0 +1,150 @@
+name,height,weight,type
+bulbasaur,7,69,"grass, poison"
+ivysaur,10,130,"grass, poison"
+venusaur,20,1000,"grass, poison"
+charmander,6,85,fire
+charmeleon,11,190,fire
+charizard,17,905,"fire, flying"
+squirtle,5,90,water
+wartortle,10,225,water
+blastoise,16,855,water
+caterpie,3,29,bug
+metapod,7,99,bug
+butterfree,11,320,"bug, flying"
+weedle,3,32,"bug, poison"
+kakuna,6,100,"bug, poison"
+beedrill,10,295,"bug, poison"
+pidgey,3,18,"normal, flying"
+pidgeotto,11,300,"normal, flying"
+pidgeot,15,395,"normal, flying"
+rattata,3,35,normal
+raticate,7,185,normal
+spearow,3,20,"normal, flying"
+fearow,12,380,"normal, flying"
+ekans,20,69,poison
+arbok,35,650,poison
+pikachu,4,60,electric
+raichu,8,300,electric
+sandshrew,6,120,ground
+sandslash,10,295,ground
+nidoran-f,4,70,poison
+nidorina,8,200,poison
+nidoqueen,13,600,"poison, ground"
+nidoran-m,5,90,poison
+nidorino,9,195,poison
+nidoking,14,620,"poison, ground"
+clefairy,6,75,fairy
+clefable,13,400,fairy
+vulpix,6,99,fire
+ninetales,11,199,fire
+jigglypuff,5,55,"normal, fairy"
+wigglytuff,10,120,"normal, fairy"
+zubat,8,75,"poison, flying"
+golbat,16,550,"poison, flying"
+oddish,5,54,"grass, poison"
+gloom,8,86,"grass, poison"
+vileplume,12,186,"grass, poison"
+paras,3,54,"bug, grass"
+parasect,10,295,"bug, grass"
+venonat,10,300,"bug, poison"
+venomoth,15,125,"bug, poison"
+diglett,2,8,ground
+dugtrio,7,333,ground
+meowth,4,42,normal
+persian,10,320,normal
+psyduck,8,196,water
+golduck,17,766,water
+mankey,5,280,fighting
+primeape,10,320,fighting
+growlithe,7,190,fire
+arcanine,19,1550,fire
+poliwag,6,124,water
+poliwhirl,10,200,water
+poliwrath,13,540,"water, fighting"
+abra,9,195,psychic
+kadabra,13,565,psychic
+alakazam,15,480,psychic
+machop,8,195,fighting
+machoke,15,705,fighting
+machamp,16,1300,fighting
+bellsprout,7,40,"grass, poison"
+weepinbell,10,64,"grass, poison"
+victreebel,17,155,"grass, poison"
+tentacool,9,455,"water, poison"
+tentacruel,16,550,"water, poison"
+geodude,4,200,"rock, ground"
+graveler,10,1050,"rock, ground"
+golem,14,3000,"rock, ground"
+ponyta,10,300,fire
+rapidash,17,950,fire
+slowpoke,12,360,"water, psychic"
+slowbro,16,785,"water, psychic"
+magnemite,3,60,"electric, steel"
+magneton,10,600,"electric, steel"
+farfetchd,8,150,"normal, flying"
+doduo,14,392,"normal, flying"
+dodrio,18,852,"normal, flying"
+seel,11,900,water
+dewgong,17,1200,"water, ice"
+grimer,9,300,poison
+muk,12,300,poison
+shellder,3,40,water
+cloyster,15,1325,"water, ice"
+gastly,13,1,"ghost, poison"
+haunter,16,1,"ghost, poison"
+gengar,15,405,"ghost, poison"
+onix,88,2100,"rock, ground"
+drowzee,10,324,psychic
+hypno,16,756,psychic
+krabby,4,65,water
+kingler,13,600,water
+voltorb,5,104,electric
+electrode,12,666,electric
+exeggcute,4,25,"grass, psychic"
+exeggutor,20,1200,"grass, psychic"
+cubone,4,65,ground
+marowak,10,450,ground
+hitmonlee,15,498,fighting
+hitmonchan,14,502,fighting
+lickitung,12,655,normal
+koffing,6,10,poison
+weezing,12,95,poison
+rhyhorn,10,1150,"ground, rock"
+rhydon,19,1200,"ground, rock"
+chansey,11,346,normal
+tangela,10,350,grass
+kangaskhan,22,800,normal
+horsea,4,80,water
+seadra,12,250,water
+goldeen,6,150,water
+seaking,13,390,water
+staryu,8,345,water
+starmie,11,800,"water, psychic"
+mr-mime,13,545,"psychic, fairy"
+scyther,15,560,"bug, flying"
+jynx,14,406,"ice, psychic"
+electabuzz,11,300,electric
+magmar,13,445,fire
+pinsir,15,550,bug
+tauros,14,884,normal
+magikarp,9,100,water
+gyarados,65,2350,"water, flying"
+lapras,25,2200,"water, ice"
+ditto,3,40,normal
+eevee,3,65,normal
+vaporeon,10,290,water
+jolteon,8,245,electric
+flareon,9,250,fire
+porygon,8,365,normal
+omanyte,4,75,"rock, water"
+omastar,10,350,"rock, water"
+kabuto,5,115,"rock, water"
+kabutops,13,405,"rock, water"
+aerodactyl,18,590,"rock, flying"
+snorlax,21,4600,normal
+articuno,17,554,"ice, flying"
+zapdos,16,526,"electric, flying"
+moltres,20,600,"fire, flying"
+dratini,18,33,dragon
+dragonair,40,165,dragon
+dragonite,22,2100,"dragon, flying"
