@@ -1,0 +1,4 @@
+Modelo,Métrica,Valor
+Regresión Lineal,R2,0.011936253477184966
+KNN,Precisión,0.57
+Árbol de Decisión,Precisión,0.465
